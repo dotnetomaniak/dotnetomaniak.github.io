@@ -21,7 +21,9 @@ Nie byłem sam. Było też kilka innych chętnych osób. Co musieliśmy zrobić?
 Grupa (nie wiem czy mogę wymienić ich imiona i nazwiska, więc na ten moment pozostaną anonimowi) dała radę. Trochę to trwało, aż nie chciało mi się dłużej czekać i zabrałem się do migracji. Dobrze mi idzie bo nadal, drogi czytelniku, nie wiesz kim jestem. Czas już zdradzić ten sekret.
 
 ## Nowy dotnetomaniak
-Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw czysto pasywnie, potem aktywnie (czyli głównie spamując swoim blogiem), potem znów pasywnie. Aktualnie stan zmienił się na 200% aktywnie bo od czerwca jestem "The Admin" i mogę wszystko.
+Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw czysto pasywnie, potem aktywnie (czyli głównie spamując swoim blogiem), potem znów pasywnie. Aktualnie stan zmienił się na 200% aktywnie, bo od czerwca jestem "The Admin" i mogę wszystko. A wyglądam tak:
+ 
+![Piotr Stapp](https://pl.gravatar.com/userimage/48672464/c50835d7095c6bf97f05a434fa54cfca.jpg?size=400)
 
 ## Co dalej?
 Po pierwsze potrzebnych jest kilka zmian. Na przykład: nowy layout, bo aktualny z komórkami to ma średnio po drodze:)
