@@ -10,7 +10,7 @@ Po prawie 3 miesiącach wziąłem się w garść i zacząłem szukać ekipy do p
 ## Kim jest dotnetomaniak?
 Kiedy ja myślę o dotnetomaniaku przed oczami staje mi Paweł Łukasik czyli mówiąc wprost ten Pan:
  
-![Paweł Łukasik](https://pbs.twimg.com/profile_images/956200121460580353/rW-3noLI_400x400.jpg)
+![Paweł Łukasik](https://s.gravatar.com/avatar/03bac5300a495cfc72422a34535c08ea?s=400)
 
 Paweł przez wiele lat prowadził i rozwijał ten serwis. Ale coś się stało, co dokładnie to nie wiem, pewnie nastąpiło częściowe wypalenie. Wprowadzenie RODO i brak chęci spowodował, że Paweł postanowił oddać serwis w dobre ręce. I w tym miejscu ...
 
@@ -25,7 +25,7 @@ Grupa (nie wiem czy mogę wymienić ich imiona i nazwiska, więc na ten moment p
 ## Nowy dotnetomaniak
 Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw czysto pasywnie, potem aktywnie (czyli głównie spamując swoim blogiem), potem znów pasywnie. Aktualnie stan zmienił się na 200% aktywnie, bo od czerwca jestem "The Admin" i mogę wszystko. A wyglądam tak:
  
-![Piotr Stapp](https://pl.gravatar.com/userimage/48672464/c50835d7095c6bf97f05a434fa54cfca.jpg?size=400)
+![Piotr Stapp](https://s.gravatar.com/avatar/59a1847a5ddbc44183bd874638aac38f?s=400)
 
 ## Co dalej?
 Po pierwsze potrzebnych jest kilka zmian. Na przykład: nowy layout, bo aktualny z komórkami to ma średnio po drodze:)
