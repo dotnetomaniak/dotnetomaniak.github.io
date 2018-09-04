@@ -7,7 +7,7 @@ Po prawie 3 miesiącach wziąłem się w garść i zacząłem szukać ekipy do p
 
 ## Kim jest dotnetomaniak?
 Kiedy ja myślę o dotnetomaniaku przed oczami staje mi Paweł Łukasik czyli mówiąc wprost ten Pan:
-
+ 
 ![Paweł Łukasik](https://pbs.twimg.com/profile_images/956200121460580353/rW-3noLI_400x400.jpg)
 
 Paweł przez wiele lat prowadził i rozwijał ten serwis. Ale coś się stało, co dokładnie to nie wiem, pewnie nastąpiło częściowe wypalenie. Wprowadzenie RODO i brak chęci spowodował, że Paweł postanowił oddać serwis w dobre ręce. I w tym miejscu ...
