@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dotnetomaniaku tech blog
+name: Dotnetomaniak tech blog
 
 # Short bio or description (displayed in the header)
 description: Dotnetomaniak sam w sobie to serwis, ale jego zmiany zasługują na osobą historię
@@ -19,13 +19,13 @@ avatar: https://dotnetomaniak.pl/Assets/Images/dotnetomaniak_logo_small.jpg
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: dotnetomaniak
   flickr:
   github: dotnetomaniak
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss# just type anything here for a working RSS icon
   twitter: dotnetomaniak
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
