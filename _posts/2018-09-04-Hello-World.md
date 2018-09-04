@@ -27,4 +27,7 @@ Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw cz
 
 ## Co dalej?
 Po pierwsze potrzebnych jest kilka zmian. Na przykład: nowy layout, bo aktualny z komórkami to ma średnio po drodze:)
-Jest też kilka kwestii technicznych i nietechnicznych do zrobienia. A jeżeli chodzi o tego bloga to będą tu opisane boje z dotnetomaniakiem. Jeżeli chcesz pomóc to daj znać za pomocą maila, PR, issue, twitter, fejsa czy też po prostu regularnie odwiedzając portal. Dasz radę wybrać drogę dla siebie. Wierzę w Ciebie!
+Jest też kilka kwestii technicznych i nietechnicznych do zrobienia. A jeżeli chodzi o tego bloga to będą tu opisane boje z dotnetomaniakiem. 
+
+## Jesteś tam jeszcze?
+Jeżeli chcesz pomóc to daj znać za pomocą maila, PR, issue, twitter, fejsa czy też po prostu regularnie odwiedzając portal. Dasz radę wybrać drogę dla siebie. Wierzę w Ciebie!
