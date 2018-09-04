@@ -12,7 +12,7 @@ Kiedy ja myślę o dotnetomaniaku przed oczami staje mi Paweł Łukasik czyli m�
  
 ![Paweł Łukasik](https://s.gravatar.com/avatar/03bac5300a495cfc72422a34535c08ea?s=400)
 
-Paweł przez wiele lat prowadził i rozwijał ten serwis. Ale coś się stało, co dokładnie to nie wiem, pewnie nastąpiło częściowe wypalenie. Wprowadzenie RODO i brak chęci spowodował, że Paweł postanowił oddać serwis w dobre ręce. I w tym miejscu ...
+Paweł przez wiele lat prowadził i rozwijał ten serwis. Ale coś się stało, co dokładnie to nie wiem. Wprowadzenie RODO spowodował, że Paweł postanowił oddać serwis w dobre ręce. I w tym miejscu ...
 
 ## wkraczam ja ubrany cały na biało
 Byłem pierwszy z tego co Paweł mi powiedział. Czas reakcji na post Pawła jakieś 2 minuty. 
