@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Start!
+title: Zmiany! Zmiany! Zmiany!
 ---
 
-## Czas start!
-Wziąłem się w garść i zacząłem szukać ekipy do pomocy w rozbudowie i zmianie dotnetomaniaka. Ale jak to się zaczęło? Dobre pytanie. Każdy jest ciekaw początku. 
+Po prawie 3 miesiącach wziąłem się w garść i zacząłem szukać ekipy do pomocy w rozbudowie dotnetomaniaka. Ale jak to się zaczęło? Dobre pytanie. Każdy jest ciekaw początku. 
 
 ## Kim jest dotnetomaniak?
 Kiedy ja myślę o dotnetomaniaku przed oczami staje mi Paweł Łukasik czyli mówiąc wprost ten Pan:
