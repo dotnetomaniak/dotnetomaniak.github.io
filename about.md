@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Ten blog ma służyć za opis części technicznej dotnetomaniaka :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[admin@dotnetomaniak.pl](mailto:admin@dotnetomaniak.pl)
