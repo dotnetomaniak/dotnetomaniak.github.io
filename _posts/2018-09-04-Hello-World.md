@@ -28,7 +28,7 @@ A post dobrze mi idzie bo nadal, drogi czytelniku, nie wiesz kim jestem. Czas ju
 ## Nowy dotnetomaniak
 Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw czysto pasywnie, potem aktywnie (czyli głównie spamując swoim blogiem), potem znów pasywnie. 
 
-> Słowo "spamować" ma strasznie negatywny wydźwięk i jeżeli wrzucałeś gdzieś kiedyś swoje posty możesz się poczuć obrażony. Niestety z czasem moja własna opinia na temat moich własnych postów spadła i określenie "promowanie swoich treści" jakoś średnio mi pasuje. Stąd i słowo spamować w powyższym tekście, ale mam nadzieję, że bez bardzo negatywnego wydźwięku.
+> Słowo "spamować" ma strasznie negatywny wydźwięk i jeżeli wrzucałeś gdzieś kiedyś swoje posty możesz się poczuć obrażony. Niestety z czasem moja własna opinia na temat moich własnych postów spadła i określenie "promowanie swoich treści" jakoś średnio mi pasuje. Stąd i słowo spamować w powyższym tekście. Z takim pozytywnym wydźwiękiem.
 
 Aktualnie stan zmienił się na 200% aktywnie, bo od czerwca jestem "The Admin" i mogę wszystko. A wyglądam tak:
  
