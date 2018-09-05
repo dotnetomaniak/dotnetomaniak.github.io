@@ -44,6 +44,7 @@ W skrócie:
 Po pierwsze potrzebnych jest kilka zmian. Na przykład: nowy layout, bo aktualny z komórkami to ma średnio po drodze:)
 Jest też kilka kwestii technicznych i nietechnicznych do zrobienia. Tutaj przyda się pomoc i w pomysłach i w robocie.
 A jeżeli chodzi o tego bloga to będą tu opisane boje z dotnetomaniakiem. 
+**Update** źródła planuje wrzucić na github jak wyczyszczę konfigurację z sekretów. Planowany czas połowa przyszłego tygodnia, czyli około 12 września 2018 :) Będę dawał znać jak źródła wylądują.
 
 ## Jesteś tam jeszcze?
 Jeżeli chcesz pomóc to daj znać za pomocą maila, PR, issue, twitter, fejsa czy też po prostu regularnie odwiedzając portal. Możesz też zostawić komentarz z radą, bugiem czy pomysłem.
