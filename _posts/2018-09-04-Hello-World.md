@@ -46,4 +46,5 @@ Jest też kilka kwestii technicznych i nietechnicznych do zrobienia. Tutaj przyd
 A jeżeli chodzi o tego bloga to będą tu opisane boje z dotnetomaniakiem. 
 
 ## Jesteś tam jeszcze?
-Jeżeli chcesz pomóc to daj znać za pomocą maila, PR, issue, twitter, fejsa czy też po prostu regularnie odwiedzając portal. Dasz radę wybrać drogę dla siebie. Wierzę w Ciebie!
+Jeżeli chcesz pomóc to daj znać za pomocą maila, PR, issue, twitter, fejsa czy też po prostu regularnie odwiedzając portal. Możesz też zostawić komentarz z radą, bugiem czy pomysłem.
+**Dasz radę wybrać drogę dla siebie. Wierzę w Ciebie!**
