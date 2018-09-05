@@ -26,7 +26,11 @@ Grupa (nie wiem czy mogę wymienić ich imiona i nazwiska, więc na ten moment p
 A post dobrze mi idzie bo nadal, drogi czytelniku, nie wiesz kim jestem. Czas już zdradzić ten sekret.
 
 ## Nowy dotnetomaniak
-Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw czysto pasywnie, potem aktywnie (czyli głównie spamując swoim blogiem), potem znów pasywnie. Aktualnie stan zmienił się na 200% aktywnie, bo od czerwca jestem "The Admin" i mogę wszystko. A wyglądam tak:
+Nazywam się Piotr Stapp i jestem dotnetomaniakiem ładnych kilka lat. Wpierw czysto pasywnie, potem aktywnie (czyli głównie spamując swoim blogiem), potem znów pasywnie. 
+
+> Słowo "spamować" ma strasznie negatywny wydźwięk i jeżeli wrzucałeś gdzieś kiedyś swoje posty możesz się poczuć obrażony. Niestety z czasem moja własna opinia na temat moich własnych postów spadła i określenie "promowanie swoich treści" jakoś średnio mi pasuje. Stąd i słowo spamować w powyższym tekście, ale mam nadzieję, że bez bardzo negatywnego wydźwięku.
+
+Aktualnie stan zmienił się na 200% aktywnie, bo od czerwca jestem "The Admin" i mogę wszystko. A wyglądam tak:
  
 ![Piotr Stapp](https://s.gravatar.com/avatar/59a1847a5ddbc44183bd874638aac38f?s=400)
 
