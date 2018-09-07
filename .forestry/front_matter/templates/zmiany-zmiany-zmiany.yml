@@ -17,5 +17,5 @@ fields:
   name: header-img
   label: HEADER IMG
 pages:
-- _posts/gotowi-na-open-source.md
+- _posts/2018-09-07-gotowi-na-open-source.md
 - _posts/2018-09-04-Hello-World.md
