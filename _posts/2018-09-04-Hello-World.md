@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Zmiany! Zmiany! Zmiany!
+header-img: images/content/hello-world.jpeg
 
-header-img: "images/content/hello-world.jpeg"
 ---
-
 Po prawie 3 miesiącach wziąłem się w garść i zacząłem szukać ekipy do pomocy w rozbudowie dotnetomaniaka. Ale jak to się zaczęło? Dobre pytanie. Każdy jest ciekaw początku. Oto i on.
 
 ## Kim jest dotnetomaniak?

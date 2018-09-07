@@ -1,0 +1,20 @@
+---
+label: Post template
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: file
+  name: header-img
+  label: HEADER IMG
+pages:
+- _posts/2018-09-04-Hello-World.md
