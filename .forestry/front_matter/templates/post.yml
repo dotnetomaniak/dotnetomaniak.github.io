@@ -1,7 +1,8 @@
 ---
-label: post
+label: Layout
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
 pages:
 - _posts/gotowi-na-open-source.md
