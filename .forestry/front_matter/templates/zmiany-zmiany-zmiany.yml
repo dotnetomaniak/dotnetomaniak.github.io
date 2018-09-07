@@ -1,0 +1,20 @@
+---
+label: Zmiany! Zmiany! Zmiany!
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: header-img
+  label: Header img
+  type: text
+  hidden: false
+  default: ''
