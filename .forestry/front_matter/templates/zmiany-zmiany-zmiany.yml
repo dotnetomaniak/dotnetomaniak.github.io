@@ -13,10 +13,8 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: header-img
-  label: Header img
-  type: text
-  hidden: false
-  default: ''
+- type: file
+  name: header-img
+  label: HEADER IMG
 pages:
 - _posts/2018-09-04-Hello-World.md
