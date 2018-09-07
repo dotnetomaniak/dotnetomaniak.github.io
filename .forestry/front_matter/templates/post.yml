@@ -4,5 +4,13 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  label: LAYOUT
+  name: layout
+- type: text
+  name: title
+  label: TITLE
+- type: text
+  label: HEADER IMG
+  name: header-img
 pages:
 - _posts/gotowi-na-open-source.md
