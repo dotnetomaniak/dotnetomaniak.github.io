@@ -49,7 +49,7 @@ Podsumowując Java jest cool (a przynajmniej to narzędzie), tylko ja nie umiem 
 I to nie wszystko. Brakuje jeszcze kilku drobiazgów, na kilka wieczorów:
 
 * procesu CI/CD
-* konfiguracji dla deweloperów
+* konfiguracji dla deweloperów (czyli Ciebie drogi czytelniku)
 * skryptu z bazą testową
 
 No to kto chce pomóc? Szczególnie punkt 2 i 3 :)
