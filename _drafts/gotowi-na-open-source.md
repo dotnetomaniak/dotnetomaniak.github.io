@@ -1,5 +1,5 @@
 ---
-title: Gotowi na open-source
+title: Jak zrobić open-source?
 date: 2018-09-08 06:00:46 +0000
 layout: post
 header-img: ''
