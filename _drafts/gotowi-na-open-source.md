@@ -21,7 +21,7 @@ Posiedziałem, podumałem, pojeździłem i pobębniłem palcami w biurko. Burza 
 
 Techniczne zmagania zajęły 2 dni. W teorii były to 3 polecenia:
 
-```console
+```powershell
 git clone --mirror `
 	https://bitbucket.org/ptrstpp950/dotnetomaniak.git
 java -jar bfg.jar `
