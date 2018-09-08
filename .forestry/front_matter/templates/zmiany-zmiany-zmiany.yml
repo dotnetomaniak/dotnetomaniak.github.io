@@ -13,12 +13,12 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: file
-  name: header-img
-  label: HEADER IMG
 - type: datetime
   name: date
   label: Date
+- type: file
+  name: header-img
+  label: HEADER IMG
 pages:
 - _posts/gotowi-na-open-source.md
 - _posts/2018-09-04-Hello-World.md
