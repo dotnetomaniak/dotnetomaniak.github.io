@@ -24,7 +24,7 @@ No to jedziemy z BFG Repo-Cleaner, skoro sama dokumentacja poleca.
 
 ## Java jest cool?
 
-Techniczne zmagania zajęły 2 dni. W teorii były to 3x prosty commit i 3x proste polecenie. Commity usuwające "złe" pliki, a skrypt taki:
+Techniczne zmagania zajęły 2 dni. W teorii były to 3x prosty commit i 3x proste polecenie. Commity usuwające "złe" pliki (sekrety + plik 314MB), a skrypt taki:
 
 ```powershell
 git clone --mirror `
