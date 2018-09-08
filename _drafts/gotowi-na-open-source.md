@@ -16,9 +16,11 @@ Wiele lat pracy wymagało ode mnie pilnowania się. Myślenia jak inżynier, a n
 Posiedziałem, podumałem, pojeździłem i pobębniłem palcami w biurko. Burza mózgów dała mi następujące pomysły:
 - Pominać całą historię i rozpocząć ją na nowo. Rozwiązanie łatwe, proste i do załatwienia w 10 minut. Jedyny problem moje sumienie. Ten portal to praca kilku ludzi. Historia to szacunek dla ich pracy.
 - Przepisać historię tak by hasła znikneły. W teorii prosty rebase. W praktyce... sami dobrze wiecie jak praktyka wygląda. Skończyłbym jako masowy producent mięsa słownego.
-- I tu wreszcie zaświtało - przecież nie mogę być pierwszy. Poszukałem w dokumentacji git'a i jest taadaam. Plecenie "git-filter-branch" i w opisie informacja:
+- I tu wreszcie zaświtało - przecież nie mogę być pierwszy. Poszukałem w dokumentacji git'a. Taadaam, mamy to!!! Plecenie "git-filter-branch" i w opisie informacja:
 
 > git-filter-branch allows you to make complex shell-scripted rewrites of your Git history, but you probably don’t need this flexibility if you’re simply removing unwanted data like large files or passwords. For those operations you may want to consider The BFG Repo-Cleaner, a JVM-based alternative to git-filter-branch, typically at least 10-50x faster for those use-cases, and with quite different characteristics
+
+No to jedziemy z BFG Repo-Cleaner, skoro sama dokumentacja poleca.
 
 ## Java jest cool?
 
