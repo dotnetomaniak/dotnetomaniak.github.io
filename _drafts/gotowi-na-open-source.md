@@ -51,3 +51,5 @@ I to nie wszystko. Brakuje jeszcze kilku drobiazgów, na kilka wieczorów:
 * procesu CI/CD
 * konfiguracji dla deweloperów
 * skryptu z bazą testową
+
+No to kto chce pomóc? Szczególnie punkt 2 i 3 :)
