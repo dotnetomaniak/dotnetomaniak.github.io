@@ -5,11 +5,13 @@ layout: post
 header-img: ''
 
 ---
-Żebym mógł podzielić się pracą nad dotnetomaniakiem muszę wykonać jeden bardzo ważny krok. Muszę upublicznić repozytorium. Na początku myślałem, że po prostu będę dawał dostęp do swojego prywatnego repo. Jednak ciągle czytałem: a będzie open-source?
+Żebym mógł podzielić się pracą nad dotnetomaniakiem muszę wykonać jeden bardzo ważny krok. Muszę upublicznić repozytorium. Na początku myślałem, że udostępnię swoje prywatnego repo. Jednak ciągle czytałem: a będzie open-source?
 
 ## Jeden (doświadczony) deweloper to same problemy
 
-Wiele lat pracy wymagało ode mnie pilnowania się. Myślenia jak inżynier, a nie jak haker. Doprowadzania i pilnowania procesów CD i CI. Czyli mówiąc wprost tak zwanej solidnej roboty. Co zrobiłem gdy dostałem w swoje ręce dotnetomaniaka? Zagryzłem zęby, walną pięścią w stół, rzuciłem mięsem i puściłem deploy z Visual Studio. Oczywiście dodałem w myślach klasyczny tekst - przy najbliższej okazji to zmienie. 3 miesiące później, kilka(naście) deploymentów później sytułacja się nie zmieniła. Ale co to ma wspólnego z open-source? Sekrety są wrzucone w web.config. Częściowo tak już było, część "nowych" sam dodałem. Historia w git ma tłum haseł, czyli bądźmy szczerzy porażka na całego. No i co teraz?
+Wiele lat pracy wymagało ode mnie pilnowania się. Myślenia jak inżynier, a nie jak haker. Doprowadzania i pilnowania procesów CD i CI. Czyli mówiąc wprost tak zwanej solidnej roboty. Co zrobiłem gdy dostałem w swoje ręce dotnetomaniaka? Zagryzłem zęby, walną pięścią w stół, rzuciłem mięsem i puściłem deploy z Visual Studio. Oczywiście dodałem w myślach klasyczny tekst - przy najbliższej okazji to zmienię. 3 miesiące później, kilka(naście) wdrożeń później sytuacja się nie zmieniła. Niech zgadnę, od początku tego paragrafu wiedzieliście, że tak będzie. Klasyka, czyż nie?
+
+Ja tu gadu gadu, ale co to ma wspólnego z open-source? No więc problem jest taki, że sekrety są wrzucone w web.config. Częściowo tak już było, część "nowych" sam dodałem. Historia w git ma tłum haseł i connection string. Bądźmy szczerzy porażka na całego. Masz babo placek.
 
 ## Pomysły na sekrety
 
@@ -42,7 +44,9 @@ Podsumowując Java jest cool (a przynajmniej to narzędzie), tylko ja nie umiem 
 
 ## To już jest koniec?
 
-Źródła już są na github. Jest lepiej, no ba. A gdzie teraz są sekrety? Na razie to u mnie na komputerze. Co więcej brakuje:
+Źródła już są na github. Jest lepiej, prawda? No ba. Tylko w myślach pytanie - a gdzie teraz są sekrety? Na razie to u mnie na komputerze. Sorry. 
+
+I to nie wszystko. Brakuje jeszcze kilku drobiazgów, na kilka wieczorów:
 
 * procesu CI/CD
 * konfiguracji dla deweloperów
