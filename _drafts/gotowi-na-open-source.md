@@ -44,7 +44,7 @@ Podsumowując Java jest cool (a przynajmniej to narzędzie), tylko ja nie umiem 
 
 ## To już jest koniec?
 
-Źródła już są na github. Jest lepiej, prawda? No ba. Tylko w myślach pytanie - a gdzie teraz są sekrety? Na razie to u mnie na komputerze. Sorry. 
+Źródła już są na [github](https://github.com/dotnetomaniak/dotnetomaniak). Jest lepiej, prawda? No ba. Tylko w myślach pytanie - a gdzie teraz są te sekrety? Na razie to u mnie na komputerze. Sorry.
 
 I to nie wszystko. Brakuje jeszcze kilku drobiazgów, na kilka wieczorów:
 
