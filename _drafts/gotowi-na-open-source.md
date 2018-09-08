@@ -2,7 +2,7 @@
 title: Jak zrobić open-source?
 date: 2018-09-08 06:00:46 +0000
 layout: post
-header-img: ''
+header-img: "/images/content/pexels-photo-331990.jpeg"
 
 ---
 Żebym mógł podzielić się pracą nad dotnetomaniakiem muszę wykonać jeden bardzo ważny krok. Muszę upublicznić repozytorium. Na początku myślałem, że udostępnię swoje prywatnego repo. Jednak ciągle czytałem: a będzie open-source?
