@@ -9,7 +9,7 @@ header-img: "/images/content/pexels-photo-331990.jpeg"
 
 ## Jeden (doświadczony) deweloper to same problemy
 
-Wiele lat pracy wymagało ode mnie pilnowania się. Myślenia jak inżynier, a nie jak haker. Doprowadzania i pilnowania procesów CD i CI. Czyli mówiąc wprost tak zwanej solidnej roboty. Co zrobiłem gdy dostałem w swoje ręce dotnetomaniaka? Zagryzłem zęby, walną pięścią w stół, rzuciłem mięsem i puściłem deploy z Visual Studio. Oczywiście dodałem w myślach klasyczny tekst - przy najbliższej okazji to zmienię. 3 miesiące później, kilka(naście) wdrożeń później sytuacja się nie zmieniła. Niech zgadnę, od początku tego paragrafu wiedzieliście, że tak będzie. Klasyka, czyż nie?
+Wiele lat pracy wymagało ode mnie pilnowania się. Myślenia jak inżynier, a nie jak haker. Doprowadzania i pilnowania procesów CD i CI. Czyli mówiąc wprost tak zwanej solidnej roboty. Co zrobiłem gdy dostałem w swoje ręce dotnetomaniaka? Zagryzłem zęby, walnąłem pięścią w stół, rzuciłem mięsem i puściłem deploy z Visual Studio. Oczywiście dodałem w myślach klasyczny tekst - przy najbliższej okazji to zmienię. 3 miesiące później, kilka(naście) wdrożeń później sytuacja się nie zmieniła. Niech zgadnę, od początku tego paragrafu wiedzieliście, że tak będzie. Klasyka, czyż nie?
 
 Ja tu gadu gadu, ale co to ma wspólnego z open-source? No więc problem jest taki, że sekrety są wrzucone w web.config. Częściowo tak już było, część "nowych" sam dodałem. Historia w git ma tłum haseł i connection string. Bądźmy szczerzy porażka na całego. Masz babo placek.
 
