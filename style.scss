@@ -118,6 +118,11 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  justify-content: space-between;
+  display: flex;
+}
+
+
 }
 
 // Specify the color of the selection
