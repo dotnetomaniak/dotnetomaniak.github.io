@@ -5,13 +5,6 @@ date: 2018-09-13 11:18:09 +0000
 header-img: "/images/content/5412c2516ffee_o,size,933x0,q,70,h,88e84d.jpg"
 
 ---
----
-title: Open-source = wejściówka + nocleg na GET.NET
-layout: post
-date: 2018-09-13 11:18:09 +0000
-header-img: "/images/content/5412c2516ffee_o,size,933x0,q,70,h,88e84d.jpg"
-
----
 Normalnie praca nad open-source nic nie daje. Ups.... miało być satysfakcję, wpis do CV, radość z życia i zadowolenie. To jest ważne. Nawet bardzo. Ale czasami chcielibyśmy dostać coś więcej. Prawda?
 
 ## Konkurs!
