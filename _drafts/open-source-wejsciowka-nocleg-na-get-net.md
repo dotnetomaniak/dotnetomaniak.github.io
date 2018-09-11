@@ -9,7 +9,7 @@ Normalnie praca nad open-source nic nie daje. Ups.... miało być satysfakcję, 
 
 ## Konkurs!
 
-Dziś jest [13 września czyli dzień programisty](https://pl.wikipedia.org/wiki/Dzie%C5%84_Programisty) i z tej okazji dotnetomaniak ma dla Was prezent. Jako partner medialny konferencji GET.NET w Gdańsku, mamy dla Was 2 wejściówki (od organizatorów) + nocleg (z mojej prywatnej kieszeni, więc na 5 gwiazdek nie liczyłbym). Ale jest haczyk. Trzeba włożyć coś od siebie. Nie musi być to kod, może być bug. A nawet propozycja na coś nowego, czego brakuje Tobie w dotnetomaniaku. 
+Dziś jest [13 września czyli dzień programisty](https://pl.wikipedia.org/wiki/Dzie%C5%84_Programisty) i z tej okazji dotnetomaniak ma dla Was prezent. Jako partner medialny [konferencji GET.NET w Gdańsku](https://konferencjaget.net/pl/gdansk), mamy dla Was 2 wejściówki (od organizatorów) + nocleg (z mojej prywatnej kieszeni, więc na 5 gwiazdek nie liczyłbym). Ale jest haczyk. Trzeba włożyć coś od siebie. Nie musi być to kod, może być bug. A nawet propozycja na coś nowego, czego brakuje Tobie w dotnetomaniaku. 
 
 Już dzieje się wiele. Na przykład dyskusja nad nowym layout czy analiza migracji na dotnet core. Zerknij i sprawdź! Nadal nie masz pomysłu? Napisz do mnie (mailem, komentarzem, social media), a ja sam wyczaruję inspirację specjalnie dla Ciebie!
 
