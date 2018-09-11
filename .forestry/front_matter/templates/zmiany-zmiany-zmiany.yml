@@ -20,5 +20,6 @@ fields:
   name: header-img
   label: HEADER IMG
 pages:
+- _posts/open-source-wejsciowka-nocleg-na-get-net.md
 - _posts/2018-09-08-gotowi-na-open-source.md
 - _posts/2018-09-04-Hello-World.md
