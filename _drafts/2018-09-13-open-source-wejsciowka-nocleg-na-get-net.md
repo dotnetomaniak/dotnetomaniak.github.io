@@ -13,7 +13,7 @@ Dziś jest [13 września czyli dzień programisty](https://pl.wikipedia.org/wiki
 
 Już dzieje się wiele. Na przykład dyskusja nad nowym layout czy analiza migracji na dotnet core. Zerknij i sprawdź! Nadal nie masz pomysłu? Napisz do mnie (mailem, komentarzem, social media), a ja sam wyczaruję inspirację specjalnie dla Ciebie!
 
-## Zasady 
+## Zasady
 
 Zasady są następujące:
 
@@ -21,8 +21,9 @@ Zasady są następujące:
 2. Zrób to przed 27 września godziną 23:59
 3. 1 października zostanie ogłoszonych 2 zwycięzców, którzy wykonają najbardziej kreatywną pracę
 
-## Pomoc
+## Inne/FAQ
 
 1. Chcesz pomóc i nie brać udziału w konkursie - nie ma sprawy, nim ogłoszę zwycięzców skontaktuję się z wybranymi osobami.
-2. Jesteś firmą/przedstawicielem firmy i chcesz pomóc albo wspomóc- nie ma sprawy napisz do mnie.
-3. Podziel się tym postem.
+2. Jesteś firmą/przedstawicielem firmy i chcesz pomóc albo wspomóc - nie ma sprawy napisz do mnie.
+3. A jeżeli moja kontrybucja była wcześniej niż ten post? Nie martw się będzie dobrze :)
+4. Podziel się tym postem.
