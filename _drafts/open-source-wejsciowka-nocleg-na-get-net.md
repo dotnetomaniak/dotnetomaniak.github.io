@@ -22,5 +22,5 @@ Zasady są następujące:
 ## Pomoc
 
 1. Chcesz pomóc i nie brać udziału w konkursie - nie ma sprawy, nim ogłoszę zwycięzców skontaktuję się z wybranymi osobami.
-2. Jesteś firmą/przedstawicielem firmy i chcesz pomóc albo wspomóc- nie ma sprawy napisz do mnie
-3. Podziel się tym postem
+2. Jesteś firmą/przedstawicielem firmy i chcesz pomóc albo wspomóc- nie ma sprawy napisz do mnie.
+3. Podziel się tym postem.
