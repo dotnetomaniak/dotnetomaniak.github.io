@@ -13,7 +13,7 @@ Dziś jest [13 września czyli dzień programisty](https://pl.wikipedia.org/wiki
 
 Już dzieje się wiele. Na przykład dyskusja nad nowym layout czy analiza migracji na dotnet core. Zerknij i sprawdź! Nadal nie masz pomysłu? Napisz do mnie (mailem, komentarzem, social media), a ja sam wyczaruję inspirację specjalnie dla Ciebie!
 
-Jeżeli ktoś z Was jeszcze nie słyszał o [GET.NET](https://konferencjaget.net/pl/gdansk) to sprawdźcie [agendę ](https://konferencjaget.net/pl/gdansk/program)(m.in. znajdziecie mnie;), zarezerwujcie sobie sobotę 27.10.2018 r i widzimy się w Gdańsku.
+Jeżeli ktoś z Was jeszcze nie słyszał o [GET.NET](https://konferencjaget.net/pl/gdansk) to sprawdźcie [agendę ](https://konferencjaget.net/pl/gdansk/program)(m.in. znajdzie mnie, ale poza mną jest naprawdę kogo posłuchać) zarezerwujcie sobie sobotę 27.10.2018 r i widzimy się w Gdańsku.
 
 ## Zasady
 
