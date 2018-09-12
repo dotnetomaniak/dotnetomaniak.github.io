@@ -27,5 +27,5 @@ Zasady są następujące:
 
 1. Chcesz pomóc i nie brać udziału w konkursie - nie ma sprawy, nim ogłoszę zwycięzców skontaktuję się z wybranymi osobami.
 2. Jesteś firmą/przedstawicielem firmy i chcesz pomóc albo wspomóc - nie ma sprawy napisz do mnie.
-3. A jeżeli moja kontrybucja była wcześniej niż ten post? Nie martw się będzie dobrze :)
+3. A jeżeli Twoja kontrybucja była wcześniej niż ten post? Nie martw się będzie dobrze :)
 4. Podziel się tym postem.
