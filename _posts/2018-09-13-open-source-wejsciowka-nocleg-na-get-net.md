@@ -15,6 +15,10 @@ Już dzieje się wiele. Na przykład dyskusja nad nowym layout czy analiza migra
 
 Jeżeli ktoś z Was jeszcze nie słyszał o [GET.NET](https://konferencjaget.net/pl/gdansk) to sprawdźcie [agendę ](https://konferencjaget.net/pl/gdansk/program)(m.in. znajdzie mnie, ale poza mną jest naprawdę kogo posłuchać) zarezerwujcie sobie sobotę 27.10.2018 r i widzimy się w Gdańsku.
 
+## BONUS
+
+Uwaga okazuje się że jest dostępny bonus. I to naprawdę MEGA bonus. Wejściówka i nocleg to mało. Każdego stać. Ale czy chciałbyś pogadać z ekspertami poza sceną? Napić się i zjeść w [ich](https://konferencjaget.net/pl/gdansk/prelegenci) towarzystwie. Teraz masz unikalną szansę. Uwaga! Uwaga! Do puli dzięki uprzejmości organizatora konferencji doszło zaproszenie na kolację dla prelegentów w piątek przed konferencją. Warto? Ja uważam, że tak.
+
 ## Zasady
 
 Zasady są następujące:
