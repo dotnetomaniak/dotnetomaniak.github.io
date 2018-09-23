@@ -24,8 +24,7 @@ Akurat tuż po opublikowaniu na GitHub kodu źródłowego okazało się, że MS 
 
 Jest mega proste. MS udostępnia video, które pokazuje co i jak w 30 sekund. Więc zamiast pisać pozwolę sobie skorzystać, szczególnie, że filozofii wielkiej nie ma:
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Maintain an open source project? Build for free with Azure Pipelines. Unlimited build minutes across cloud hosted Linux, Windows and macOS servers. Get set-up from <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@GitHub</a> in minutes <a href="https://t.co/e6nt1uEb1L">https://t.co/e6nt1uEb1L</a> - With ❤ from <a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a> <a href="https://t.co/bF9ML7ciBM">pic.twitter.com/bF9ML7ciBM</a></p>&mdash; Azure DevOps (@AzureDevOps) <a href="https://twitter.com/AzureDevOps/status/1043160416396951552?ref_src=twsrc%5Etfw">21 September 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Maintain an open source project? Build for free with Azure Pipelines. Unlimited build minutes across cloud hosted Linux, Windows and macOS servers. Get set-up from <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@GitHub</a> in minutes <a href="https://t.co/e6nt1uEb1L">https://t.co/e6nt1uEb1L</a> - With ❤ from <a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a> <a href="https://t.co/bF9ML7ciBM">pic.twitter.com/bF9ML7ciBM</a></p>— Azure DevOps (@AzureDevOps) <a href="https://twitter.com/AzureDevOps/status/1043160416396951552?ref_src=twsrc%5Etfw">21 September 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-s
+## Build czyli zabawa
