@@ -2,7 +2,7 @@
 title: CI / CD dotnetomaniaka czyli Azure DevOps w praktyce
 layout: post
 date: 2018-10-04 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pexels-photo-417005.jpeg"
 
 ---
 Przyznam się szczerze, że gdy dostałem dotnetomaniaka w spadku po Pawle, deploy szedł z Visual Studio za pomocą przycisku "publish". Paweł też przyznał się ostatnio, że on używał do deploymentu XCOPY przez wiele lat. Dobre? Dobre bo działa. Skuteczne? Działa to skuteczne.
@@ -89,3 +89,7 @@ Ponieważ dotnetomaniak jest na Azure, to instalacja zwana popularnie deplojem a
 Jeżeli ktoś jest zapalonym DevOps, albo wie z innych powodów, że zrobiłem źle, to niestety ma rację. Definicja powinna używać staging slot, żeby nie było efektu przerw, gdy jest wgrywana nowa wersja. A tak dzieje się regularnie. Ostatnio efekt był taki:
 
 ![](/images/content/41903743_10156684283323555_1620628238957019136_o.png)Dlaczego jednak tak nie zrobiłem? Niestety dotnetomaniak aktualnie korzysta z mojej subskrypcji i mówiąc wprost nie stać mnie na droższy plan na ten moment. Więc dopóki nie zdobędę dodatkowych środków to jest jak jest i trzeba się z tym pogodzić.
+
+Koniec i bomba, kto nie czytał ten trąba 🎺. 
+
+Następnym razem o architekturze, kasie i ananasie🍍.
