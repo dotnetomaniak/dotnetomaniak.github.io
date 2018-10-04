@@ -1,7 +1,7 @@
 ---
 title: CI / CD dotnetomaniaka czyli Azure DevOps w praktyce
 layout: post
-date: 2018-09-23 00:00:00 +0000
+date: 2018-10-04 00:00:00 +0000
 header-img: ''
 
 ---
@@ -28,3 +28,54 @@ Jest mega proste. MS udostępnia video, które pokazuje co i jak w 30 sekund. Wi
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Build czyli zabawa
+
+Na pierwszy rzut oka to w sumie to 5 minut roboty. Jeżeli kiedykolwiek miałeś styczność z VSTS to wiesz, że można to wyklikać. Jeżeli TeamCity/Bamboo/Jenkins to Twoja domena, to jest podobnie, tłumaczyć nie ma co. To o czym piszesz? - pewnie zaświtało w głowie.
+
+W Azure DevOps (czyli VSTS z nowościami) jest nowy sposób budowania definicji build. Można użyć pliku yaml. Hell yeah!!!! Jak to wygląda:
+
+    pool:
+      vmImage: 'VS2017-Win2016'
+    
+    variables:
+      solution: 'v3.0/Source/Kigg.sln'
+      buildPlatform: 'Any CPU'
+      buildConfiguration: 'Release'
+    
+    steps:
+    - task: NuGetToolInstaller@0
+    
+    - task: NuGetCommand@2
+      inputs:
+        restoreSolution: '$(solution)'
+    
+    - task: VSBuild@1
+      inputs:
+        solution: '$(solution)'
+        msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)"'
+        platform: '$(buildPlatform)'
+        configuration: '$(buildConfiguration)'
+    
+    - task: VSTest@2
+      inputs:
+        platform: '$(buildPlatform)'
+        configuration: '$(buildConfiguration)'
+    
+    - task: PublishBuildArtifacts@1
+      inputs:
+        pathtoPublish: '$(build.ArtifactStagingDirectory)' 
+        artifactName: 'build'
+
+Czy mówiąc wprost po ludzku. Na maszynie z _VS2017_ (i chyba Windows 2016) wywołujemy dla solucji _v3.0/Source/Kigg.sln_ pięć zadań:
+
+* zainstaluj nuget
+* zrób nuget restore
+* zbuduj za pomocą msbuild i podanych argumentów typowych dla web apki
+* puść osobno wszystkie testy
+* "pobierz" artefakty (chociaż tłumaczenie "publish" na pobierz takie średnie)
+
+I wszystko fajne tylko okazuje się, że powyższa definicja nie działa zawsze. Dla projektów na GitHub można uruchomić automatyczne uruchomienie CI, ale wtedy ostatni krok niestety wywala się z cudnym błędem, że nie ma uprawnień czy coś takiego. Masakra mówiąc szczerze. Stąd powstały dwa pliki:
+
+* dla gałęzi master taki jak wyżej: [https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.main.repo.yml](https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.main.repo.yml "https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.main.repo.yml")
+* dla PR okrojony: [https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.pull.requests.yml](https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.pull.requests.yml "https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.pull.requests.yml")
+
+Dodatkowo każdy build jest widoczny dla szerokiej publiczności i jego stan można sobie sprawdzić na stronie: [https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2"). Jako bonus dostępny jest badge: \[!\[Build Status\]([https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo"))\]([https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2"))
