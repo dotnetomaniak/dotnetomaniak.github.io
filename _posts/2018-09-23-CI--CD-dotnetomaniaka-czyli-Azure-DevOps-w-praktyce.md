@@ -1,7 +1,7 @@
 ---
 title: CI / CD dotnetomaniaka czyli Azure DevOps w praktyce
 layout: post
-date: 2018-10-04 00:00:00 +0000
+date: 2018-10-05 06:00:00 +0000
 header-img: ''
 
 ---
