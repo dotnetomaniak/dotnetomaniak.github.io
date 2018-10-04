@@ -13,7 +13,7 @@ Ale bądźmy szczerzy, można lepiej, prawda? Jednak jeszcze kilka lat temu, nie
 
 Dotnetomaniak stoi obecnie na Azure, dzięki temu, że jako MVP mam darmową subskrypcję. Gdzieś ją upchnąłem i choć żre sporo to daję radę. Ale to temat na osobny post.
 
-Akurat tuż po opublikowaniu na GitHub kodu źródłowego okazało się, że MS dokonuje rebrandingu starego dobrego VSTS na Azure DevOps. Zmianę można oceniać różnie, ale z mojego punktu widzenia liczyło się jedno:
+Akurat tuż po opublikowaniu na GitHub kodu źródłowego okazało się, że MS dokonuje rebrandingu starego dobrego VSTS na Azure DevOps. Zmianę można oceniać różnie, ale z mojego punktu widzenia liczyło się jedno: jest za darmo. A dokładniej rzecz ujmując:
 
 * jest za darmo dla OpenSource
 * jest unlimited dla OpenSource
