@@ -78,4 +78,14 @@ I wszystko fajne tylko okazuje się, że powyższa definicja nie działa zawsze.
 * dla gałęzi master taki jak wyżej: [https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.main.repo.yml](https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.main.repo.yml "https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.main.repo.yml")
 * dla PR okrojony: [https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.pull.requests.yml](https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.pull.requests.yml "https://github.com/dotnetomaniak/dotnetomaniak/blob/master/ci.pull.requests.yml")
 
-Dodatkowo każdy build jest widoczny dla szerokiej publiczności i jego stan można sobie sprawdzić na stronie: [https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2"). Jako bonus dostępny jest badge: \[!\[Build Status\]([https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo"))\]([https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2"))
+Dodatkowo każdy build jest widoczny dla szerokiej publiczności i jego stan można sobie sprawdzić na stronie: [https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build?definitionId=2). Jako bonus dostępny jest badge: [![Build Status](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_apis/build/status/dotnetomaniak.main.repo)](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_build/latest?definitionId=2)
+
+## Deplojuj mocium panie
+
+Ponieważ dotnetomaniak jest na Azure, to instalacja zwana popularnie deplojem albo deplojmentem jest banalnie prosta. Nie ma jeszcze YAML w tej części, ale jeden task dałem radę wyklikać. Nawet na 2 środowiska.
+
+![](/images/content/Zrzut ekranu 2018-10-04 o 20.53.01.png)Dla zainteresowanych, całość acz bez definicji ale z logami można sobie obejrzeć: [https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2")
+
+Jeżeli ktoś jest zapalonym DevOps, albo wie z innych powodów, że zrobiłem źle, to niestety ma rację. Definicja powinna używać staging slot, żeby nie było efektu przerw, gdy jest wgrywana nowa wersja. A tak dzieje się regularnie. Ostatnio efekt był taki:
+
+![](/images/content/41903743_10156684283323555_1620628238957019136_o.png)Dlaczego jednak tak nie zrobiłem? Niestety dotnetomaniak aktualnie korzysta z mojej subskrypcji i mówiąc wprost nie stać mnie na droższy plan na ten moment. Więc dopóki nie zdobędę dodatkowych środków to jest jak jest i trzeba się z tym pogodzić.
