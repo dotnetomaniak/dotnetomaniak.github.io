@@ -7,7 +7,7 @@ header-img: "/images/content/pexels-photo-417005.jpeg"
 ---
 Przyznam się szczerze, że gdy dostałem dotnetomaniaka w spadku po Pawle, deploy szedł z Visual Studio za pomocą przycisku "publish". Paweł też przyznał się ostatnio, że on używał do deploymentu XCOPY przez wiele lat. Dobre? Dobre bo działa. Skuteczne? Działa to skuteczne.
 
-Ale bądźmy szczerzy, można lepiej, prawda? Jednak jeszcze kilka lat temu, nie było to takie oczywiste. Szczególnie, że mówmy o stronie, która  raczej nie przynosi dochodu. Nudzisz - pomyślałeś pewnie i chyba masz rację. Czas na mięso
+Ale bądźmy szczerzy, można lepiej, prawda? Jednak jeszcze kilka lat temu, nie było to takie oczywiste. Szczególnie, że mówmy o stronie, która (raczej) nie przynosi dochodu. Nudzisz - pomyślałeś pewnie i chyba masz rację. Czas na mięso
 
 ## Wybór CI/CD
 
