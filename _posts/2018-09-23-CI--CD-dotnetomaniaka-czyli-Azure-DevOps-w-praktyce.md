@@ -84,12 +84,12 @@ Dodatkowo każdy build jest widoczny dla szerokiej publiczności i jego stan mo�
 
 Ponieważ dotnetomaniak jest na Azure, to instalacja zwana popularnie deplojem albo deplojmentem jest banalnie prosta. Nie ma jeszcze YAML w tej części, ale jeden task dałem radę wyklikać. Nawet na 2 środowiska.
 
-![](/images/content/Zrzut ekranu 2018-10-04 o 20.53.01.png)Dla zainteresowanych, całość acz bez definicji ale z logami można sobie obejrzeć: [https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2")
+![](/images/content/Zrzut ekranu 2018-10-04 o 20.53.01.png)Dla zainteresowanych, całość acz bez definicji, ale z logami po build, można sobie obejrzeć: [https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2](https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2 "https://dev.azure.com/dotnetomaniak/dotnetomaniak/_releases2")
 
 Jeżeli ktoś jest zapalonym DevOps, albo wie z innych powodów, że zrobiłem źle, to niestety ma rację. Definicja powinna używać staging slot, żeby nie było efektu przerw, gdy jest wgrywana nowa wersja. A tak dzieje się regularnie. Ostatnio efekt był taki:
 
 ![](/images/content/41903743_10156684283323555_1620628238957019136_o.png)Dlaczego jednak tak nie zrobiłem? Niestety dotnetomaniak aktualnie korzysta z mojej subskrypcji i mówiąc wprost nie stać mnie na droższy plan na ten moment. Więc dopóki nie zdobędę dodatkowych środków to jest jak jest i trzeba się z tym pogodzić.
 
-Koniec i bomba, kto nie czytał ten trąba 🎺. 
+Koniec i bomba, kto nie czytał ten trąba 🎺.
 
 Następnym razem o architekturze, kasie i ananasie🍍.
