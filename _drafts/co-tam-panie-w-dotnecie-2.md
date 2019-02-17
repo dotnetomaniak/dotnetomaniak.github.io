@@ -21,19 +21,19 @@ Wpisów na temat nowego C# jest ostatnio dużo, najbardziej ciekawe w tym tygodn
 
 ## Co niesie .NET Core 3.0
 
-David Folwer pochwalił się na Twitter że nowa wersja Core będzie posiadała "backround workers". Fajnie, nie trzeba będzie implementować samemu :)
+David Folwer pochwalił się na Twitter, że nowa wersja Core będzie posiadała "backround workers". Fajnie, nie trzeba będzie implementować samemu :)
 
 Dyskusja tu: [https://twitter.com/davidfowl/status/1095468748432015360](https://twitter.com/davidfowl/status/1095468748432015360 "https://twitter.com/davidfowl/status/1095468748432015360")
 
 Github tu: [https://github.com/aspnet/AspNetCore/pull/7401](https://github.com/aspnet/AspNetCore/pull/7401 "https://github.com/aspnet/AspNetCore/pull/7401")
 
-Zdecydowanie bardziej zaciekawiała mnie informacja o planowanych "Data Breakpoints" w nowym VS 2019 + .NET Core 3.0. Czyli break point będzie się odpalał jak zmienią się dane. Fajne! [https://devblogs.microsoft.com/visualstudio/break-when-value-changes-data-breakpoints-for-net-core-in-visual-studio-2019/](https://devblogs.microsoft.com/visualstudio/break-when-value-changes-data-breakpoints-for-net-core-in-visual-studio-2019/ "https://devblogs.microsoft.com/visualstudio/break-when-value-changes-data-breakpoints-for-net-core-in-visual-studio-2019/")
+Zdecydowanie bardziej zaciekawiała mnie informacja o planowanych "Data Breakpoints" w nowym VS 2019 + .NET Core 3.0. Czyli break point będzie się odpalał jak zmienią się dane. Z jednej strony MEGA! Z drugiej mniej ostatnio używam VS do pracy z dotnet. Na 100% sprawdzę i pewnie kiedyś użyję :) [https://devblogs.microsoft.com/visualstudio/break-when-value-changes-data-breakpoints-for-net-core-in-visual-studio-2019/](https://devblogs.microsoft.com/visualstudio/break-when-value-changes-data-breakpoints-for-net-core-in-visual-studio-2019/ "https://devblogs.microsoft.com/visualstudio/break-when-value-changes-data-breakpoints-for-net-core-in-visual-studio-2019/")
 
 ## HoloLens wersja 2
 
 Już 24 lutego ma zostać oficjalnie ogłoszona 2 wersja HoloLens. Może Wam uda się namówić firmy do zakupy w celach hmmm.... "budowania lepszych rozwiązań do testów"?
 
-Wszystko co na ten temat wiadomo w Business Insider: [https://www.businessinsider.com/microsoft-alex-kipman-teased-hololens-2-announcement-2019-2?IR=T](https://www.businessinsider.com/microsoft-alex-kipman-teased-hololens-2-announcement-2019-2?IR=T "https://www.businessinsider.com/microsoft-alex-kipman-teased-hololens-2-announcement-2019-2?IR=T")
+Wszystko co na ten temat wiadomo w Business Insider: [https://www.businessinsider.com/microsoft-alex-kipman-teased-hololens-2-announcement-2019-2?IR=T](https://www.businessinsider.com/microsoft-alex-kipman-teased-hololens-2-announcement-2019-2?IR=T "https://www.businessinsider.com/microsoft-alex-kipman-teased-hololens-2-announcement-2019-2?IR=T"). Artykuł ma być odświeżany jak tylko będą nowe wiadomości.
 
 ## The Ultimate Guide to Asynchronous Programming
 
@@ -41,18 +41,18 @@ Artykuł niezły [https://exceptionnotfound.net/asynchronous-programming-in-asp-
 
 ## Azure DevOps CLI
 
-Pewnie małą ilość osób to zaciekawi, ale właśnie pojawiało się CLI do Azure DevOps. Co tym zautomatyzujecie? Nie wiem, ja się zastanawiam czy będę wstanie zrobić szybki setup: repo + build + release dla nowego projektu. Pewnie będę testował. Wiecej: [https://devblogs.microsoft.com/devops/using-azure-devops-from-the-command-line](https://devblogs.microsoft.com/devops/using-azure-devops-from-the-command-line "https://devblogs.microsoft.com/devops/using-azure-devops-from-the-command-line")
+Pewnie małą ilość osób to zaciekawi, ale właśnie pojawiało się CLI do Azure DevOps. Co tym zautomatyzujecie? Nie wiem, ja się zastanawiam czy będę wstanie zrobić szybki setup: repo + build + release dla nowego projektu. ł. Wiecej: [https://devblogs.microsoft.com/devops/using-azure-devops-from-the-command-line](https://devblogs.microsoft.com/devops/using-azure-devops-from-the-command-line "https://devblogs.microsoft.com/devops/using-azure-devops-from-the-command-line")
 
 ## Microsoft SEAL
 
-Biblioteka do enkrypcji, która umożliwia na wykonywanie obliczeń na zaszyfrowanych danych. Czyli w chmurze przetwarzamy dane, których chmura nie może jawnie odczytać. Warto popatrzeć: [https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/ "https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/")
+Biblioteka do enkrypcji, która umożliwia na wykonywanie obliczeń na zaszyfrowanych danych. Czyli w chmurze przetwarzamy dane, których chmura nie może jawnie odczytać. Warto popatrzeć: [https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/ "https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/") Potrafię od ręki wymyślić 3-4 zastosowania, w których chmura została odrzucona właśnie z tego powodu.
 
 ## Inne
 
 Kilka postów które warto przeczytać niezależnie i nie mają prostej kategorii:
 
 1. Jak to jest z A.I. naprawdę. Mega artykuł czy jesteś czy nie jesteś w temacie: [http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us](http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us "http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us")
-2. 10 rzeczy które mogą spowodować że Twoja strona będzie szybsza. Wyniosłem jedną nową, więc chyba było warto: [https://www.netguru.com/codestories/10-things-that-can-make-your-page-faster](https://www.netguru.com/codestories/10-things-that-can-make-your-page-faster "https://www.netguru.com/codestories/10-things-that-can-make-your-page-faster")
+2. 10 rzeczy które mogą spowodować że Twoja strona będzie szybsza. Wyniosłem jedną nową, więc było warto: [https://www.netguru.com/codestories/10-things-that-can-make-your-page-faster](https://www.netguru.com/codestories/10-things-that-can-make-your-page-faster "https://www.netguru.com/codestories/10-things-that-can-make-your-page-faster")
 3. Super dyskusja na temat pojęć w języku angielskim: [https://twitter.com/housecor/status/1095537250174144512](https://twitter.com/housecor/status/1095537250174144512 "https://twitter.com/housecor/status/1095537250174144512") Ja się ubawiłem :)
 
 ## Developer Skills Report 2019
