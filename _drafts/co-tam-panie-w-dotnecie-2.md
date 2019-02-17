@@ -9,7 +9,7 @@ Podobno najtrudniejszy krok za mną. Jest 2 odcinek! W tym tygodniu nowości sto
 
 ## Polska
 
-Po pierwsze zapraszam Cię na podsumowanie tygodnia od dotnetomaniaka: [https://dotnetomaniak.pl/weekly/2019/07](https://dotnetomaniak.pl/weekly/2019/07 "https://dotnetomaniak.pl/weekly/2019/07"). 14 wpisów. Jest co czytać. Tematy naprawdę fajne bo: EF z historią zmian, lepszy csproj czy pokrycie testami. Jest co czytać
+Po pierwsze zapraszam Cię na podsumowanie tygodnia od dotnetomaniaka: [https://dotnetomaniak.pl/weekly/2019/07](https://dotnetomaniak.pl/weekly/2019/07 "https://dotnetomaniak.pl/weekly/2019/07"). 14 wpisów. Tematy naprawdę fajne bo: EF z historią zmian, lepszy csproj czy pokrycie testami. Jest co czytać
 
 ## C# 8.0
 
