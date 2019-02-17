@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Co tam Panie w dotnecie? #2'
-date: 2019-02-16 23:00:00 +0000
-header-img: ''
+date: 2019-02-17 23:00:00 +0000
+header-img: "/images/content/pablo (7).png"
 
 ---
 Podobno najtrudniejszy krok za mną. Jest 2 odcinek! W tym tygodniu nowości stoją głównie pod znakiem nowego C# 8.0. A przynajmniej tak to wygląda.
