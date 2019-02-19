@@ -8,7 +8,9 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-
+  <div id="fb-root"></div>
+  <script async defer src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v3.2&appId=689933027721704&autoLogAppEvents=1"></script>
+  <div class="fb-like" data-href="{{ page.url }}" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
   <div class="date">
     <span>Napisano {{ page.date | date: "%Y-%m-%d" }}</span>
     <div>
