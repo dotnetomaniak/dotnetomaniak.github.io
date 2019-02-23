@@ -39,7 +39,7 @@ Nie wiem jak u Was, ale z wydajnością bywa różnie. Często nie ma ona znacze
 
 Wiele osób myśli o serverless. Wielu znam krytyków, wielu też zwolenników. Sam mam zdanie, że warto użyć. Oczywiście nie wszędzie i nie zawsze, ale nie ma w informatyce narzędzi uniwersalnych :)
 
-Tym razem kilka argumentów dla przeciwników w artykule: [Why we're not moving our web APIs to azure functions yet](https://mithunshanbhag.github.io/2019/02/18/not-moving-web-apis-to-azure-functions.html)
+Tym razem kilka argumentów dla przeciwników w artykule: [Why we're not moving our web APIs to azure functions yet](https://mithunshanbhag.github.io/2019/02/18/not-moving-web-apis-to-azure-functions.html). Chociaż akurat co do Swagger do autor nie do końca ma rację, bo można go uzyskać ([więcej tutaj]() czy też [kod Janusza Nowaka]())
 
 ## Ciekawostki inne :)
 
