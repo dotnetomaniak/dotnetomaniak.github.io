@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #3'
 date: 2019-02-24 23:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (8).png"
 
 ---
 No to jedziemy z podsumowaniem numer 3. W tym tygodniu zebrało się naprawdę sporo dobrego.
