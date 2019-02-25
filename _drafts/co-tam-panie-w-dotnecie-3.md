@@ -5,7 +5,11 @@ date: 2019-02-24 23:00:00 +0000
 header-img: "/images/content/pablo (8).png"
 
 ---
-No to jedziemy z podsumowaniem numer 3. W tym tygodniu zebrało się naprawdę sporo dobrego.
+No to jedziemy z podsumowaniem numer 3. W tym tygodniu zebrało się naprawdę sporo dobrego. W ramach feedbacku od Was wszystkie linki od razu otwierają się w nowym oknie :)
+
+## Polska blogosfera o dotnet
+
+Jak co tydzień zapraszam na [podsumowanie tygodnia dotnetomaniaka](https://dotnetomaniak.pl/weekly/2019/08). 18 postów w sumie. Tematy od C# 8.0 aż do protobuf czy testów. Jeżeli jeszcze nie czytaliście to zapraszam Was serdecznie. No to [KLIK](https://dotnetomaniak.pl/weekly/2019/08)!
 
 ## dotNET Core - niedługo umrze król, niech żyje nowy król
 
@@ -17,7 +21,7 @@ Drugi artykuł to: [Features To Build Better Applications With .NET Core 3](http
 
 ## ML.NET na fali wschodzącej
 
-ML.NET - nie mam doświadczenia to się wypowiem ;) 
+ML.NET - nie mam doświadczenia to się wypowiem ;)
 
 Czy ML.NET rzeczywiście będzie częścią NET Core 3.0? Tego jeszcze na 100% nie wiemy, ale jak ktoś chce zacząć to Ładny, łopatologiczny wstęp do ML.NET jest dostępny na: [https://rubikscode.net/2019/02/18/ultimate-guide-to-machine-learning-with-ml-net/](https://rubikscode.net/2019/02/18/ultimate-guide-to-machine-learning-with-ml-net/ "https://rubikscode.net/2019/02/18/ultimate-guide-to-machine-learning-with-ml-net/")
 
@@ -46,10 +50,6 @@ Tym razem kilka argumentów dla przeciwników w artykule: [Why we're not moving 
 Nie wiem czy Robertowi Kubicy MS Teams pomoże, ale w Nascar podobno prowadzi do zwycięstwa. Nie dajecie wiary? No to obejrzyjcie reklamę: [https://www.youtube.com/watch?v=BmucQOIavmM&feature=youtu.be&_lrsc=1420a17e-72a5-483e-b4b4-066838bd3ca5](https://www.youtube.com/watch?v=BmucQOIavmM&feature=youtu.be&_lrsc=1420a17e-72a5-483e-b4b4-066838bd3ca5 "https://www.youtube.com/watch?v=BmucQOIavmM&feature=youtu.be&_lrsc=1420a17e-72a5-483e-b4b4-066838bd3ca5")
 
 Na sam koniec perełka na temat biegania. Nie ma nic wspólnego z programowaniem, ale wielu programistów chwali się że biega. Ciekawi jesteście jaki wpływ ma to na Wasze zdrowie? Na pewno. A więc dla tych co biegają i będą biegać, a także dla tych co im się nie chce polecam artykuł: [Bieganie rekreacyjne - czy rzeczywiście zdrowe](https://tadeusz-szopa.blogspot.com/2019/02/bieganie-rekreacyjne-czy-rzeczywiscie.html)
-
-## Polska blogosfera o dotnet
-
-Jak co tydzień zapraszam na [podsumowanie tygodnia dotnetomaniaka](https://dotnetomaniak.pl/weekly/2019/08). 18 postów w sumie. Tematy od C# 8.0 aż do protobuf czy testów.
 
 ## Podobało się?
 
