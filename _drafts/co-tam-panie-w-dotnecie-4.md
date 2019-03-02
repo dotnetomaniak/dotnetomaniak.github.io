@@ -22,3 +22,9 @@ Powoli pojawiają się pierwsze przykłady jak migrować aplikacje desktop do no
 Ostatnio znany bloger powiązany z Microsoft - Scott H. opublikował na swoim blogu informacje jakoby jeden z głównych deweloperów dotnet Core David F. wraz z twórcą najbardziej popularnej paczki do JSON czyli Jamsem N.-K. szykowali rewolucję w obsłudze formatu JSON. Czy to prawda? To się okaże ale dowody na GitHub wskazują, że wymienione osoby mają coś na sumieniu. Więcej można przeczytać na [oficjalnym blogu Scotta H.](https://www.hanselman.com/blog/LearningAboutNETCoreFuturesByPokingAroundAtDavidFowlersGitHub.aspx)
 
 Przy okazji JSON jeszcze jeden artykuł jak szybko można go parsować: [Parsing Gigabytes of JSON per Second](https://branchfree.org/2019/02/25/paper-parsing-gigabytes-of-json-per-second/) Nie jest z dotNET, ale poczytać i popatrzeć warto.
+
+## Automapper
+
+Pewnie używaliście, albo używać będziecie. Nie jest to ideał ale czasem ta biblioteka pomaga. Czasem też przeszkadza. Bo jak wiadomo silver bullet nie istnieje. Dlatego właśnie Jimmy Bogard opublikował kiedy warto a kiedy nie warto go używać czyli [AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)
+
+A jak już przeczytacie to warto spojrzeć na wypowiedź tego właśnie autora na Twitter: [https://twitter.com/jbogard/status/1100394639155253250](https://twitter.com/jbogard/status/1100394639155253250 "https://twitter.com/jbogard/status/1100394639155253250")
