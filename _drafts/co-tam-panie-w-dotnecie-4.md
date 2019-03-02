@@ -27,4 +27,6 @@ Przy okazji JSON jeszcze jeden artykuł jak szybko można go parsować: [Parsing
 
 Pewnie używaliście, albo używać będziecie. Nie jest to ideał ale czasem ta biblioteka pomaga. Czasem też przeszkadza. Bo jak wiadomo silver bullet nie istnieje. Dlatego właśnie Jimmy Bogard opublikował kiedy warto a kiedy nie warto go używać czyli [AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)
 
-A jak już przeczytacie to warto spojrzeć na wypowiedź tego właśnie autora na Twitter: [https://twitter.com/jbogard/status/1100394639155253250](https://twitter.com/jbogard/status/1100394639155253250 "https://twitter.com/jbogard/status/1100394639155253250")
+A jak już przeczytacie to warto spojrzeć na wypowiedź tego właśnie autora na Twitter: [https://twitter.com/jbogard/status/1100394639155253250](https://twitter.com/jbogard/status/1100394639155253250 "https://twitter.com/jbogard/status/1100394639155253250") i oczywiście prześledzić całą dyskusję + artykuł Cezarego Piątka od którego się zaczęła :)
+
+## 
