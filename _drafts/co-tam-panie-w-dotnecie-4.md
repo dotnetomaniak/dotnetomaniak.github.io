@@ -23,10 +23,37 @@ Ostatnio znany bloger powiązany z Microsoft - Scott H. opublikował na swoim bl
 
 Przy okazji JSON jeszcze jeden artykuł jak szybko można go parsować: [Parsing Gigabytes of JSON per Second](https://branchfree.org/2019/02/25/paper-parsing-gigabytes-of-json-per-second/) Nie jest z dotNET, ale poczytać i popatrzeć warto.
 
+## ... i gRPC
+
+Coś nowego w dotNET zaczyna się pojawiać. Standard zaprojektowany przez Google do komunikacji pomiędzy serwisami. I to kolejna nowość, którą ma przynieść 3.0. Więcej w [An Early Look at gRPC and ASP.NET Core 3.0](https://www.stevejgordon.co.uk/early-look-at-grpc-using-aspnet-core-3)
+
 ## Automapper
 
 Pewnie używaliście, albo używać będziecie. Nie jest to ideał ale czasem ta biblioteka pomaga. Czasem też przeszkadza. Bo jak wiadomo silver bullet nie istnieje. Dlatego właśnie Jimmy Bogard opublikował kiedy warto a kiedy nie warto go używać czyli [AutoMapper Usage Guidelines](https://jimmybogard.com/automapper-usage-guidelines/)
 
 A jak już przeczytacie to warto spojrzeć na wypowiedź tego właśnie autora na Twitter: [https://twitter.com/jbogard/status/1100394639155253250](https://twitter.com/jbogard/status/1100394639155253250 "https://twitter.com/jbogard/status/1100394639155253250") i oczywiście prześledzić całą dyskusję + artykuł Cezarego Piątka od którego się zaczęła :)
 
-## 
+## Span<T> oraz System.IO.Pipelines
+
+Dwa różne artykuły, na temat różnych kawałków, ale jakoś bliskie sobie:
+
+* Pipelines.Sockets.Unofficial - [Arena Allocation ](https://github.com/mgravell/Pipelines.Sockets.Unofficial/blob/master/docs/arenas.md) autorstwa Marca Gravella
+* [An Introduction to Optimising Code Using Span<T>](https://www.stevejgordon.co.uk/an-introduction-to-optimising-code-using-span-t) Steva Gordona
+
+Solidna dawka wiedzy w obu, a moje podsumowanie chyba totalnie zbędne :)
+
+## Co można zamiast licencji
+
+Licencje, prawnicy, wykorzystanie - ile tego jest. Czasem aż głowa boli, że mamy open-source, a sami nie wiemy czy możemy go użyć. Jeden z wyjątków jest w kodzie SQLLiteDialect do Hibernate w Javie. Jest to błogosławieństwo. Nie wierzycie? To sprawdźcie sami: [https://github.com/gwenn/sqlite-dialect/blob/master/src/main/java/org/hibernate/dialect/SQLiteDialect.java#L1-L9](https://github.com/gwenn/sqlite-dialect/blob/master/src/main/java/org/hibernate/dialect/SQLiteDialect.java#L1-L9 "https://github.com/gwenn/sqlite-dialect/blob/master/src/main/java/org/hibernate/dialect/SQLiteDialect.java#L1-L9")
+
+## Polskie blogi czyli podsumowanie dotnetomaniaka
+
+Jeżeli jeszcze nie czytaliście to jest od wczoraj dostępne podsumowanie tygodnia dotnetomaniaka: [https://dotnetomaniak.pl/weekly/2019/08](https://dotnetomaniak.pl/weekly/2019/08 "https://dotnetomaniak.pl/weekly/2019/08")
+
+Zapraszam serdecznie bo warto!
+
+## Chwalimy się na koniec
+
+Tym razem na koniec mój własny wkład w open-source. Udało mi się poprawić Azure DevOps i NuGet Publish Task. Dodałem obsługę konfliktów na Linux. Zmiana już zaakceptowana, ale jeszcze nie dostępna.  Jak ktoś jest ciekaw to zapraszam: [https://github.com/Microsoft/azure-pipelines-tasks/pull/9666](https://github.com/Microsoft/azure-pipelines-tasks/pull/9666 "https://github.com/Microsoft/azure-pipelines-tasks/pull/9666")
+
+Po więcej zapraszam za tydzień!
