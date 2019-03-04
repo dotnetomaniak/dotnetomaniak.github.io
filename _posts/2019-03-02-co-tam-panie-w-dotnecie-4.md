@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #4'
 date: 2019-03-02 23:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (9).png"
 
 ---
 Od czego by tu zacząć? Tyle znalazłem, że mam problem z wyborem. No dobra jedziemy wedle kolejności.
