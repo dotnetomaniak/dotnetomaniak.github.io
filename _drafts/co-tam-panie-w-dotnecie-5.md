@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #5'
 date: 2019-03-10 23:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (9)-1.png"
 
 ---
 Najważniejsza wiadomość z tego tygodnia może być tylko jedna. Znalazłem wiele ciekawych tematów, ale król jest jeden. Chyba kiepsko idzie mi budowanie napięcia, ale co tam dasz radę. Gotowi? No to:
