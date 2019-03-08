@@ -50,7 +50,7 @@ A chodzi o deweloperów i ich podejście, które z różnych powodów wydaje si�
 Po przeczytaniu tego artykułu może zaciekawi cię:
 
 * [Demystifying HttpClient Internals](https://www.stevejgordon.co.uk/demystifying-httpclient-internals-sendasync-flow-for-httprequestmessage)
-* [Getting started with Azure Cosmos DB and .NET Core: Part #2 – string querying and ranged indexes](https://jeremylindsayni.wordpress.com/2019/03/03/getting-started-with-azure-cosmos-db-and-net-core-part-2-string-querying-and-ranged-indexes/)
+* [Getting started with Azure Cosmos DB and .NET Core: Part #2 – string querying and ranged indexes](https://jeremylindsayni.wordpress.com/2019/03/03/getting-started-with-azure-cosmos-db-and-net-core-part-2-string-querying-and-ranged-indexes/) czy [Logging and monitoring cost of CosmosDB queries by using Application Insights](https://www.jankowskimichal.pl/en/2019/03/logging-and-monitoring-cost-of-cosmosdb-queries-by-using-application-insights/)
 * [Performance comparison of .NET IoC containers](https://github.com/danielpalme/IocPerformance)
 
 ## Zabawka na koniec
