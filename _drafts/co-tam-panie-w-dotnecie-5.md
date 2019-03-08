@@ -17,6 +17,10 @@ A teraz już na poważnie.
 
 Szybka odpowiedź to: NIE! A może jednak? Jeżeli chcecie dowiedzieć się więcej to jest bardzo ciekawy artykuł autorstwa Matta Warrena, który nie tylko patrzy na składnie, ale i na wydajność optymalizacje i dodatkowo pokazuje dużo ciekawej literatury. Warto przeczytać: [Is C# a low-level language?](https://mattwarren.org/2019/03/01/Is-CSharp-a-low-level-language/)
 
+## Rekordy z C# 8.X
+
+Już wiemy że w 8.0 rekordy się nie zmieszczą, ale może w 8.1 albo w 8.2. Jeżeli jeszcze nie wiecie o co chodzi to warto zajrzeć: [http://www.devsanon.com/c/c-8-is-introducing-records/](http://www.devsanon.com/c/c-8-is-introducing-records/ "http://www.devsanon.com/c/c-8-is-introducing-records/"). Moim zdaniem fajny dodatek do składni - mały a poprawiający czytelność kodu.
+
 ## Nowości z .NET Core 3
 
 W tej sekcji kilka spraw:
