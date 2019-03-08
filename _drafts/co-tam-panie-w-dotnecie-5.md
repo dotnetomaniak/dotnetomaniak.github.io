@@ -43,7 +43,7 @@ p.s. Jeżeli chciałbyś mnie wspomóc w tym temacie to będę BARDZO wdzięczny
 
 ## Let's make engineering great again!
 
-Chyba prywata, ale może jednak nie. W końcu w artykule występuje z imienia i nazwiska, a CTO który to opisał ma pod sobą kilku dobrych kolesi z dotNET.
+Chyba prywata, bo w artykule występuje z imienia i nazwiska. Dotnet bezpośrednio nie dotyczy, ale CTO który to opisał ma pod sobą kilku dobrych kolesi z dotNET.
 
 A chodzi o deweloperów i ich podejście, które z różnych powodów wydaje się coraz gorsze jeżeli chodzi o stosunek jakości do ceny. Warto przeczytać: [https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/](https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/ "https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/")
 
