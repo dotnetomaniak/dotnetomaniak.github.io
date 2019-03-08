@@ -30,3 +30,7 @@ W tej sekcji kilka spraw:
 Część czytelników pewnie wie, że mBank dotnetem stoi. Ale o zmianach głęboko w systemach centralnych to już pewnie wie niewiele osób. A tu proszę publicznie na raincode labs pojawił się artykuł. Niestety wymagany jest email żeby pobrać cały artykuł - przychodzi jako PDF w email. Ale pewnie wiecie jak sobie z tym radzić ;)
 
 Dużo przykładów nie nie ma, ale jak ktoś kodował kiedyś w "dziwnym" języku, może przeczytać podstawy jego transformacji. Więcej: [https://www.raincodelabs.com/blog/how-early-bad-smell-detection-can-save-your-project/](https://www.raincodelabs.com/blog/how-early-bad-smell-detection-can-save-your-project/ "https://www.raincodelabs.com/blog/how-early-bad-smell-detection-can-save-your-project/")
+
+## F#
+
+Zostałem wywołany do tablicy na temat F#. Niestety jestem kiepski w tej dziedzinie. No taki junior ze mnie i ciężko mi oceniać artykuły w tym 
