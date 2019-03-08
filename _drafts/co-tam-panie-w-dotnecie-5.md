@@ -35,9 +35,11 @@ Dużo przykładów nie nie ma, ale jak ktoś kodował kiedyś w "dziwnym" język
 
 Zostałem wywołany do tablicy na temat F#. Niestety jestem kiepski w tej dziedzinie. No taki junior ze mnie i ciężko mi oceniać artykuły w tym temacie. Jednak jeden bardzo mnie zaciekawił, bo akurat F# do Azure Functions (czy też AWS Lambda) pasuje mi idealnie. A więc o to i [Azure Functions With F#](https://www.aaron-powell.com/posts/2019-03-05-azure-functions-with-fsharp/)
 
+p.s. Jeżeli chciałbyś mnie wspomóc w tym temacie to będę BARDZO wdzięczny.
+
 ## Let's make engineering great again!
 
-Chyba prywata, ale może jednak nie. W końcu w artykule występuje z imienia i nazwiska, a CTO który to opisał ma pod sobą kilku dobrych kolesi z dotNET. 
+Chyba prywata, ale może jednak nie. W końcu w artykule występuje z imienia i nazwiska, a CTO który to opisał ma pod sobą kilku dobrych kolesi z dotNET.
 
 A chodzi o deweloperów i ich podejście, które z różnych powodów wydaje się coraz gorsze jeżeli chodzi o stosunek jakości do ceny. Warto przeczytać: [https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/](https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/ "https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/")
 
@@ -47,4 +49,6 @@ Po przeczytaniu tego artykułu może zaciekawi cię:
 * [Getting started with Azure Cosmos DB and .NET Core: Part #2 – string querying and ranged indexes](https://jeremylindsayni.wordpress.com/2019/03/03/getting-started-with-azure-cosmos-db-and-net-core-part-2-string-querying-and-ranged-indexes/)
 * [Performance comparison of .NET IoC containers](https://github.com/danielpalme/IocPerformance)
 
-  ****
+## Zabawka na koniec
+
+Na sam koniec zabawa dla fanów LEGO i CSS czyli [CSS LEGO figure maker](https://codepen.io/joshbader/full/MZMzjr). Zabawa przednia a dla prawdziwych fanów, można kod obejrzeć :)
