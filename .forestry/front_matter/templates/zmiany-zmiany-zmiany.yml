@@ -1,7 +1,6 @@
 ---
 label: Post template
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -20,6 +19,7 @@ fields:
   name: header-img
   label: HEADER IMG
 pages:
+- _posts/co-tam-panie-w-dotnecie-5.md
 - _posts/2019-03-02-co-tam-panie-w-dotnecie-4.md
 - _posts/2019-02-24-co-tam-panie-w-dotnecie-3.md
 - _posts/2019-02-10-co-tam-panie-w-dotnecie-1.md
