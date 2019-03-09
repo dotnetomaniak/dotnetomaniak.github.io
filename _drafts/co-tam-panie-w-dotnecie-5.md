@@ -21,6 +21,10 @@ Szybka odpowiedź to: NIE! A może jednak? Jeżeli chcecie dowiedzieć się wię
 
 Już wiemy że w 8.0 rekordy się nie zmieszczą, ale może w 8.1 albo w 8.2. Jeżeli jeszcze nie wiecie o co chodzi to warto zajrzeć: [http://www.devsanon.com/c/c-8-is-introducing-records/](http://www.devsanon.com/c/c-8-is-introducing-records/ "http://www.devsanon.com/c/c-8-is-introducing-records/"). Moim zdaniem fajny dodatek do składni - mały a poprawiający czytelność kodu.
 
+## Async + cancel
+
+W telegraficznym skrócie. Od C# 8.0 będzie można napisać async enumerable, które wspiera cancellaion token. Jak? W artykule [Async Enumerables with Cancellation](http://blog.monstuff.com/archives/2019/03/async-enumerables-with-cancellation.html) znajdziecie odpowiedź.
+
 ## Nowości z .NET Core 3
 
 W tej sekcji kilka spraw:
