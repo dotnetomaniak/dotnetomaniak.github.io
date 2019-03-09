@@ -39,15 +39,17 @@ Dużo przykładów nie nie ma, ale jak ktoś kodował kiedyś w "dziwnym" język
 
 Zostałem wywołany do tablicy na temat F#. Niestety jestem kiepski w tej dziedzinie. No taki junior ze mnie i ciężko mi oceniać artykuły w tym temacie. Jednak jeden bardzo mnie zaciekawił, bo akurat F# do Azure Functions (czy też AWS Lambda) pasuje mi idealnie. A więc o to i [Azure Functions With F#](https://www.aaron-powell.com/posts/2019-03-05-azure-functions-with-fsharp/)
 
-p.s. Jeżeli chciałbyś mnie wspomóc w tym temacie to będę BARDZO wdzięczny.
+Dodatkowo w ramach [Announcing .NET Core 3 Preview 3](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-3/) pojawiła się jedna bardzo interesująca informacja. Komenda "dotnet fsi" czyli F# interactive jako natywna aplikacja dotnet core. 
+
+p.s. Jeżeli chciałbyś mnie wspomóc w temacie F# to będę BARDZO wdzięczny!
 
 ## Let's make engineering great again!
 
 Chyba prywata, bo w artykule występuje z imienia i nazwiska. Dotnet bezpośrednio nie dotyczy, ale CTO który to opisał ma pod sobą kilku dobrych kolesi z dotNET.
 
-A chodzi o deweloperów i ich podejście, które z różnych powodów wydaje się coraz gorsze jeżeli chodzi o stosunek jakości do ceny. Warto przeczytać: [https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/](https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/ "https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/")
+A chodzi o deweloperów i ich podejście, które z różnych powodów wydaje się coraz gorsze jeżeli chodzi o stosunek jakości do ceny. Warto przeczytać: [https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/](https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/ "https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/"). Warto przeczytać także komentarze pod artykułem. Mądre w nich słowa padają.
 
-Po przeczytaniu tego artykułu może zaciekawi cię:
+Po przeczytaniu tego artykułu może zaciekawi Cię:
 
 * [Demystifying HttpClient Internals](https://www.stevejgordon.co.uk/demystifying-httpclient-internals-sendasync-flow-for-httprequestmessage)
 * [Getting started with Azure Cosmos DB and .NET Core: Part #2 – string querying and ranged indexes](https://jeremylindsayni.wordpress.com/2019/03/03/getting-started-with-azure-cosmos-db-and-net-core-part-2-string-querying-and-ranged-indexes/) czy [Logging and monitoring cost of CosmosDB queries by using Application Insights](https://www.jankowskimichal.pl/en/2019/03/logging-and-monitoring-cost-of-cosmosdb-queries-by-using-application-insights/)
