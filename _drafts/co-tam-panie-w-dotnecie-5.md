@@ -49,11 +49,13 @@ p.s. Jeżeli chciałbyś mnie wspomóc w temacie F# to będę BARDZO wdzięczny!
 
 ## Let's make engineering great again!
 
-Chyba prywata, bo w artykule występuje z imienia i nazwiska. Dotnet bezpośrednio nie dotyczy, ale CTO który to opisał ma pod sobą kilku dobrych kolesi z dotNET.
+Chyba prywata, bo w artykule występuje z imienia i nazwiska. Ale temat ważny, choć dotnet bezpośrednio nie dotyczy. 
 
 A chodzi o deweloperów i ich podejście, które z różnych powodów wydaje się coraz gorsze jeżeli chodzi o stosunek jakości do ceny. Warto przeczytać: [https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/](https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/ "https://www.linkedin.com/pulse/lets-make-engineering-great-again-%C5%82ukasz-dziekan/"). Warto przeczytać także komentarze pod artykułem. Mądre w nich słowa padają.
 
-Po przeczytaniu tego artykułu może zaciekawi Cię:
+## Mięsko
+
+Po przeczytaniu powyższego artykułu może zaciekawi Cię trochę "mięsa" z tego tygodnia tak bez ładu i składu:
 
 * [Demystifying HttpClient Internals](https://www.stevejgordon.co.uk/demystifying-httpclient-internals-sendasync-flow-for-httprequestmessage)
 * [Getting started with Azure Cosmos DB and .NET Core: Part #2 – string querying and ranged indexes](https://jeremylindsayni.wordpress.com/2019/03/03/getting-started-with-azure-cosmos-db-and-net-core-part-2-string-querying-and-ranged-indexes/) czy [Logging and monitoring cost of CosmosDB queries by using Application Insights](https://www.jankowskimichal.pl/en/2019/03/logging-and-monitoring-cost-of-cosmosdb-queries-by-using-application-insights/)
