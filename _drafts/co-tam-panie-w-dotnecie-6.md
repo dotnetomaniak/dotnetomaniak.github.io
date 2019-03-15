@@ -30,3 +30,7 @@ Klasyczny problem który mamy to kod który wygląda tak:
     await ThirdMethodAsync();
 
 I co dobrze jest? Dobrze bo działa. A mogłoby być lepiej? Ano mogło, a jak? Dla wszystkich którzy są ciekawi polecam: [Using async/await and Task.WhenAll to improve the overall speed of your C# code](https://jeremylindsayni.wordpress.com/2019/03/11/using-async-await-and-task-whenall-to-improve-the-overall-speed-of-your-c-code/)
+
+## Security patches donet core
+
+Wszystkie wersje dotnet core zostały podbite ze względu na security patches. Czy warto? No pewnie. A co i jak w oficjalnej komunikacji: [https://devblogs.microsoft.com/dotnet/net-core-march-2019/](https://devblogs.microsoft.com/dotnet/net-core-march-2019/ "https://devblogs.microsoft.com/dotnet/net-core-march-2019/")
