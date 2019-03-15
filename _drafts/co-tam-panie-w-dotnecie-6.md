@@ -34,3 +34,7 @@ I co dobrze jest? Dobrze bo działa. A mogłoby być lepiej? Ano mogło, a jak? 
 ## Security patches donet core
 
 Wszystkie wersje dotnet core zostały podbite ze względu na security patches. Czy warto? No pewnie. A co i jak w oficjalnej komunikacji: [https://devblogs.microsoft.com/dotnet/net-core-march-2019/](https://devblogs.microsoft.com/dotnet/net-core-march-2019/ "https://devblogs.microsoft.com/dotnet/net-core-march-2019/")
+
+## Ciężko nikogo nie obrazić
+
+Przy tworzeniu globalnego produktu, ciężko w dzisiejszych czasach nikogo nie obrazić. Czasem jest to śmieszna nazwa ("Osram", "Pee Cola" czy "Golden Gaytime (ice-cream)"), czasem jest to logo/obrazek. Tym razem trafiło na "welcome screen" w Visual Studio 2019. Zielony kapelusz z tego co właśnie się dowiedziałem, nie jest najlepszym znakiem w chińskiej kulturze. Więcej: [GREEN HAT is offensive in Chinese culture](https://developercommunity.visualstudio.com/content/problem/475341/vs-installer-welcome-image-contains-offensive-elem.html)
