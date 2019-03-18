@@ -5,7 +5,7 @@ date: 2019-03-16 23:00:00 +0000
 header-img: ''
 
 ---
-6 wydanie nowości ze świata dotnet
+6 wydanie nowości ze świata dotnet. Każde kolejne wydanie to prawie jak gazeta. Przejrzenie wszystkiego chwilę zajmuje, ale warto.
 
 ## A jednak książka o GC może się przydać
 
@@ -47,5 +47,5 @@ W sumie to nagłówek mówi wszystko. Jeżeli chodzi o szczegóły to dotMemory 
 
 Dla wszystkich Dev i Ops a w szczególności DevOps mały dowcip na koniec:
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">A devops engineer walks into a bar, puts the bartender in a docker container, put kubernetes behind the bar, spins up 1000 bartenders, orders 1 beer.</p>&mdash; Ben Burton (@bjburton) <a href="https://twitter.com/bjburton/status/1106908952535728128?ref_src=twsrc%5Etfw">16 March 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">A devops engineer walks into a bar, puts the bartender in a docker container, put kubernetes behind the bar, spins up 1000 bartenders, orders 1 beer.</p>— Ben Burton (@bjburton) <a href="https://twitter.com/bjburton/status/1106908952535728128?ref_src=twsrc%5Etfw">16 March 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
