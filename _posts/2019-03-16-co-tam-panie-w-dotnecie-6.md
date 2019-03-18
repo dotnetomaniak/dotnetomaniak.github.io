@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Co tam Panie w dotnecie? #6'
-date: 2019-03-16 23:00:00 +0000
-header-img: ''
+date: 2019-03-17 23:00:00 +0000
+header-img: "/images/content/pablo (10).png"
 
 ---
 6 wydanie nowości ze świata dotnet. Każde kolejne wydanie to prawie jak gazeta. Przejrzenie wszystkiego chwilę zajmuje, ale warto.
