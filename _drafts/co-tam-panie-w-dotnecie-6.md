@@ -38,3 +38,14 @@ Wszystkie wersje dotnet core zostały podbite ze względu na security patches. C
 ## Ciężko nikogo nie obrazić
 
 Przy tworzeniu globalnego produktu, ciężko w dzisiejszych czasach nikogo nie obrazić. Czasem jest to śmieszna nazwa ("Osram", "Pee Cola" czy "Golden Gaytime (ice-cream)"), czasem jest to logo/obrazek. Tym razem trafiło na "welcome screen" w Visual Studio 2019. Zielony kapelusz z tego co właśnie się dowiedziałem, nie jest najlepszym znakiem w chińskiej kulturze. Więcej: [GREEN HAT is offensive in Chinese culture](https://developercommunity.visualstudio.com/content/problem/475341/vs-installer-welcome-image-contains-offensive-elem.html)
+
+## Dotnet core 3.0 powoli u JetBrains
+
+W sumie to nagłówek mówi wszystko. Jeżeli chodzi o szczegóły to dotMemory w pakiecie ReSharper Ultimate 2019.1 EAP1 "zaczyna" mieć wsparcie dla trójki. Więcej: [https://blog.jetbrains.com/dotnet/2019/03/15/resharper-ultimate-starts-early-access-program-2019-1/](https://blog.jetbrains.com/dotnet/2019/03/15/resharper-ultimate-starts-early-access-program-2019-1/ "https://blog.jetbrains.com/dotnet/2019/03/15/resharper-ultimate-starts-early-access-program-2019-1/")
+
+## Dowcip
+
+Dla wszystkich Dev i Ops a w szczególności DevOps mały dowcip na koniec:
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">A devops engineer walks into a bar, puts the bartender in a docker container, put kubernetes behind the bar, spins up 1000 bartenders, orders 1 beer.</p>&mdash; Ben Burton (@bjburton) <a href="https://twitter.com/bjburton/status/1106908952535728128?ref_src=twsrc%5Etfw">16 March 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
