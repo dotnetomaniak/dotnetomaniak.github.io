@@ -7,6 +7,12 @@ header-img: "/images/content/pablo.jpg"
 ---
 Dziś krótko, bo życie osobiste wygrało z życiem "nerda".
 
+## Dużo oglądania czyli NDC London
+
+NDC London opublikowało wszystkie sesje z tego roku: [https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn](https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn "https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn")
+
+Co tu dużo mówić jest co oglądać i w sumie ta sekcja mogła by wystarczyć na ten tydzień
+
 ## Object pooling w net core
 
 Nie jest to artykuł, ale dość dogłębne "issue" na GitHub. W jednym zdaniu całość można określić: jak użyć puli obiektów dla lepszej wydajności. Całość krótka, odnośniki treściwe, jednym słowem warto: [https://github.com/dotnet/coreclr/issues/23342](https://github.com/dotnet/coreclr/issues/23342 "https://github.com/dotnet/coreclr/issues/23342")
@@ -22,12 +28,6 @@ Czasy takie że da się w Polsce spokojnie obejrzeć, chociaż kawałek :)
 Wiem, że dla NET developerów to nie ma się co wahać, a ten koleś próbuje bronić Windows. Nie wiem kim jest, ale poczytać warto :)
 
 [https://medium.com/@carlosbaraza/is-windows-an-option-for-developers-in-2019-6fafaee8ea03](https://medium.com/@carlosbaraza/is-windows-an-option-for-developers-in-2019-6fafaee8ea03 "https://medium.com/@carlosbaraza/is-windows-an-option-for-developers-in-2019-6fafaee8ea03")
-
-## Dużo oglądania - NDC London
-
-NDC London opublikowało wszystkie sesje z tego roku: [https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn](https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn "https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn")
-
-Co tu dużo mówić jest co oglądać :)
 
 ## C++ async await
 
