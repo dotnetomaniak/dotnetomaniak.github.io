@@ -37,7 +37,31 @@ Wiem, że dla NET developerów to nie ma się co wahać, a ten koleś próbuje b
 
 Nie do końca dotNET, ale bardzo bardzo blisko. Fajne konstrukcje w C++/WinRT  do używania `await` :
 
-1.  `co_await` opisane tutaj: [https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345](https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345 "https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345")
+1. `co_await` opisane tutaj: [https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345](https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345 "https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345")
 2. `no_await` opisane tutaj: [https://devblogs.microsoft.com/oldnewthing/20190321-00/?p=102350](https://devblogs.microsoft.com/oldnewthing/20190321-00/?p=102350 "https://devblogs.microsoft.com/oldnewthing/20190321-00/?p=102350")
 
 Za krótko myślałem, czy się da to użyć w C#, ale jeszcze pomyślę :)
+
+A jeżeli nie chcesz przegapić następnych postów oraz konkursów to zapisz się na listę dotnetomaniaka:
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+
+</style>
+<div id="mc_embed_signup">
+<form action="https://space.us12.list-manage.com/subscribe/post?u=41e9c22eaffd315a81e011e75&amp;id=1b2dcb14fd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL"><label for="mce-EMAIL">Nie przegap kolejnych postów!</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_41e9c22eaffd315a81e011e75_1b2dcb14fd" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Zapisz się!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="" style="
+    font-size: 12px;
+    font-weight: normal;
+">Tym samym wyrażasz zgodę na otrzymanie informacji marketingowych z dotnetomaniak.pl (sorry ... )</div>
+    </label></div>
+</form>
+</div>
+<!--End mc_embed_signup-->
