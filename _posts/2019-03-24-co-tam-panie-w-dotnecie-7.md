@@ -46,7 +46,7 @@ A jeżeli nie chcesz przegapić następnych postów oraz konkursów to zapisz si
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%; border: black 1px solid;}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%; border: black 1px solid;margin-bottom: 10px;}
 
 </style>
 <div id="mc_embed_signup">
@@ -64,6 +64,5 @@ A jeżeli nie chcesz przegapić następnych postów oraz konkursów to zapisz si
     </label></div>
 </form>
 </div>
-<br/>
 <!--End mc_embed_signup-->
 
