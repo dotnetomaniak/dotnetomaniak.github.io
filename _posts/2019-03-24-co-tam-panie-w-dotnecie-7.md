@@ -29,7 +29,7 @@ Wiem, że dla NET developerów to nie ma się co wahać, a ten koleś próbuje b
 
 [https://medium.com/@carlosbaraza/is-windows-an-option-for-developers-in-2019-6fafaee8ea03](https://medium.com/@carlosbaraza/is-windows-an-option-for-developers-in-2019-6fafaee8ea03 "https://medium.com/@carlosbaraza/is-windows-an-option-for-developers-in-2019-6fafaee8ea03")
 
-## C++ async await
+## C++ async await oraz fire-and-forget
 
 Nie do końca dotNET, ale bardzo bardzo blisko. Fajne konstrukcje w C++/WinRT  do używania `await` :
 
