@@ -64,5 +64,6 @@ A jeżeli nie chcesz przegapić następnych postów oraz konkursów to zapisz si
     </label></div>
 </form>
 </div>
+<br/>
 <!--End mc_embed_signup-->
 
