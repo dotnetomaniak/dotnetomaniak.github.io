@@ -44,9 +44,9 @@ Za krótko myślałem, czy się da to użyć w C#, ale jeszcze pomyślę :)
 
 A jeżeli nie chcesz przegapić następnych postów oraz konkursów to zapisz się na listę dotnetomaniaka:
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
 
 </style>
 <div id="mc_embed_signup">
