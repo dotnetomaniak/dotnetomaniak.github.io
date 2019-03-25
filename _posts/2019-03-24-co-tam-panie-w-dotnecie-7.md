@@ -13,6 +13,10 @@ NDC London opublikowało wszystkie sesje z tego roku: [https://www.youtube.com/w
 
 Co tu dużo mówić jest co oglądać i w sumie ta sekcja mogła by wystarczyć na ten tydzień
 
+## Tydzień dotnetomaniaka
+
+Na dotnetomaniaku 12 artykułów w tym tygodniu: [https://dotnetomaniak.pl/weekly/2019/12](https://dotnetomaniak.pl/weekly/2019/12 "https://dotnetomaniak.pl/weekly/2019/12"), prawie każdy z innej dziedziny, więc ciężko mi jednym zdaniem opisać co się działo. Ale jest naprawdę treściwie.
+
 ## Object pooling w net core
 
 Nie jest to artykuł, ale dość dogłębne "issue" na GitHub. W jednym zdaniu całość można określić: jak użyć puli obiektów dla lepszej wydajności. Całość krótka, odnośniki treściwe, jednym słowem warto: [https://github.com/dotnet/coreclr/issues/23342](https://github.com/dotnet/coreclr/issues/23342 "https://github.com/dotnet/coreclr/issues/23342")
