@@ -2,10 +2,10 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #7'
 date: 2019-03-24 23:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo.jpg"
 
 ---
-Dziś krótko, bo życie osobiste wygrało z życiem "nerda". 
+Dziś krótko, bo życie osobiste wygrało z życiem "nerda".
 
 ## Object pooling w net core
 
@@ -28,3 +28,12 @@ Wiem, że dla NET developerów to nie ma się co wahać, a ten koleś próbuje b
 NDC London opublikowało wszystkie sesje z tego roku: [https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn](https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn "https://www.youtube.com/watch?v=b32aWD5FL3Q&list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn")
 
 Co tu dużo mówić jest co oglądać :)
+
+## C++ async await
+
+Nie do końca dotNET, ale bardzo bardzo blisko. Fajne konstrukcje w C++/WinRT  do używania `await` :
+
+1.  `co_await` opisane tutaj: [https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345](https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345 "https://devblogs.microsoft.com/oldnewthing/20190320-00/?p=102345")
+2. `no_await` opisane tutaj: [https://devblogs.microsoft.com/oldnewthing/20190321-00/?p=102350](https://devblogs.microsoft.com/oldnewthing/20190321-00/?p=102350 "https://devblogs.microsoft.com/oldnewthing/20190321-00/?p=102350")
+
+Za krótko myślałem, czy się da to użyć w C#, ale jeszcze pomyślę :)
