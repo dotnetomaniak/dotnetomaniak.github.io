@@ -32,3 +32,14 @@ Ale to nie jest najważniejsze w tym PR. Przy okazji zostało pokazane jak zosta
 Jimmy Bogard po raz kolejny. Tym razem wyjaśnia do czego i po co służy AutoMapper. Naprawdę warto wiedzieć niż używać go bez sensu:
 
 [https://jimmybogard.com/automappers-design-philosophy/](https://jimmybogard.com/automappers-design-philosophy/ "https://jimmybogard.com/automappers-design-philosophy/")
+
+## CoreRT w praktyce?
+
+3 przykłady na użycie CoreRT (czyli minimalistycznego .NET runtime). Da się uzyskać program Hello World, który jako EXE ma 4-5 kB. MEGA. Ale to nie wszystko. Najciekawszy moim zdaniem przykład to użycie C# jako języka dla aplikacji uruchamianej podczas EFI boot. Pełny kod + opis dostępne: [https://github.com/MichalStrehovsky/zerosharp/blob/master/README.md](https://github.com/MichalStrehovsky/zerosharp/blob/master/README.md "https://github.com/MichalStrehovsky/zerosharp/blob/master/README.md")
+
+## Dzień backup
+
+Nie wiem czy wiecie ale 31 marca był dniem backup. Z tej okazji fajna animacja od MS:
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Stay protected. <a href="https://twitter.com/hashtag/WorldBackupDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldBackupDay</a> <a href="https://t.co/JiT9zfVqpP">pic.twitter.com/JiT9zfVqpP</a></p>&mdash; Microsoft Azure (@Azure) <a href="https://twitter.com/Azure/status/1112386165288648711?ref_src=twsrc%5Etfw">31 March 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
