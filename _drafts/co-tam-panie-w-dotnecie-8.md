@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #8'
 date: 2019-03-31 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (1).png"
 
 ---
 8 wydanie nowości ze świata dotnet. W tym tygodniu nie było problemu z wiadomością tygodnia. Król jest jeden. Serio!
