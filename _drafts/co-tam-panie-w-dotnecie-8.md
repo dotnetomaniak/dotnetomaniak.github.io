@@ -9,9 +9,9 @@ header-img: ''
 
 Pierwszy kwietnia, więc pewnie nie dacie wiary. Chociaż news z poprzedniego tygodnia, więc może się uda: oficjalnie Kubernetes 1.14 wspiera Windows Containers. Serio, nie żartuję. Nim zaczniecie tańczyć z radości to żeby było jasne: nie ma jeszcze pełnego wsparcia z support dla Windows Containers, ale wygląda na to że projekt coraz bliżej brzegu.
 
-Więcej o nowości: [https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/](https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/ "https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/")
+Pełne release notes K8S: [https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/](https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/ "https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/")
 
-Oraz z 
+Oraz dodatkowa informacja prosto z MS tylko o tym: [https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/](https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/ "https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/")
 
 ## SpecFlow 3
 
