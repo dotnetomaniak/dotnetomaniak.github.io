@@ -43,3 +43,5 @@ Nie wiem czy wiecie ale 31 marca był dniem backup. Z tej okazji fajna animacja 
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Stay protected. <a href="https://twitter.com/hashtag/WorldBackupDay?src=hash&ref_src=twsrc%5Etfw">#WorldBackupDay</a> <a href="https://t.co/JiT9zfVqpP">pic.twitter.com/JiT9zfVqpP</a></p>— Microsoft Azure (@Azure) <a href="https://twitter.com/Azure/status/1112386165288648711?ref_src=twsrc%5Etfw">31 March 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I to tyle na ten tydzień.
