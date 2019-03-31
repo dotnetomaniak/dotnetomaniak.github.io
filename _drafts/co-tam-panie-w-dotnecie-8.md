@@ -5,12 +5,13 @@ date: 2019-03-31 22:00:00 +0000
 header-img: ''
 
 ---
-
 ## News tygodnia
 
 Pierwszy kwietnia, więc pewnie nie dacie wiary. Chociaż news z poprzedniego tygodnia, więc może się uda: oficjalnie Kubernetes 1.14 wspiera Windows Containers. Serio, nie żartuję. Nim zaczniecie tańczyć z radości to żeby było jasne: nie ma jeszcze pełnego wsparcia z support dla Windows Containers, ale wygląda na to że projekt coraz bliżej brzegu.
 
 Więcej o nowości: [https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/](https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/ "https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/")
+
+Oraz z 
 
 ## SpecFlow 3
 
@@ -20,7 +21,7 @@ Release notes: [https://specflow.org/2019/specflow-3-is-here/](https://specflow.
 
 ## UriHelper "lekko" mniej pamięciożerny
 
-Znów PR a nie prawdziwy artykuł, ale wiadomo kod czyta się łatwiej ;) 
+Znów PR a nie prawdziwy artykuł, ale wiadomo kod czyta się łatwiej ;)
 
 Dzięki "drobnej" zmiana w podanym przykładzie udało się zejść z \~630GB do \~22MB (tak GB i MB) co przy okazji przełożyło się na zysk czasu z \~14s do \~0.05s.
 
