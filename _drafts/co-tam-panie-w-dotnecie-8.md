@@ -5,6 +5,8 @@ date: 2019-03-31 22:00:00 +0000
 header-img: ''
 
 ---
+8 wydanie nowości ze świata dotnet. W tym tygodniu nie było problemu z wiadomością tygodnia. Król jest jeden. Serio!
+
 ## News tygodnia
 
 Pierwszy kwietnia, więc pewnie nie dacie wiary. Chociaż news z poprzedniego tygodnia, więc może się uda: oficjalnie Kubernetes 1.14 wspiera Windows Containers. Serio, nie żartuję. Nim zaczniecie tańczyć z radości to żeby było jasne: nie ma jeszcze pełnego wsparcia z support dla Windows Containers, ale wygląda na to że projekt coraz bliżej brzegu.
@@ -12,6 +14,10 @@ Pierwszy kwietnia, więc pewnie nie dacie wiary. Chociaż news z poprzedniego ty
 Pełne release notes K8S: [https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/](https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/ "https://kubernetes.io/blog/2019/03/25/kubernetes-1-14-release-announcement/")
 
 Oraz dodatkowa informacja prosto z MS tylko o tym: [https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/](https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/ "https://cloudblogs.microsoft.com/opensource/2019/03/25/windows-server-containers-now-supported-kubernetes/")
+
+## Tydzień dotnetomaniaka
+
+Polska blogosfera jak zawsze w formie. Niby mniej, ale 12 mięsistych postów jest. Polecam bo warto przejrzeć: [https://dotnetomaniak.pl/weekly/2019/13](https://dotnetomaniak.pl/weekly/2019/13 "https://dotnetomaniak.pl/weekly/2019/13")
 
 ## SpecFlow 3
 
