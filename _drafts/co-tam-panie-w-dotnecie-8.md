@@ -43,6 +43,10 @@ Jimmy Bogard po raz kolejny. Tym razem wyjaśnia do czego i po co służy AutoMa
 
 3 przykłady na użycie CoreRT (czyli minimalistycznego .NET runtime). Da się uzyskać program Hello World, który jako EXE ma 4-5 kB. MEGA. Ale to nie wszystko. Najciekawszy moim zdaniem przykład to użycie C# jako języka dla aplikacji uruchamianej podczas EFI boot. Pełny kod + opis dostępne: [https://github.com/MichalStrehovsky/zerosharp/blob/master/README.md](https://github.com/MichalStrehovsky/zerosharp/blob/master/README.md "https://github.com/MichalStrehovsky/zerosharp/blob/master/README.md")
 
+## gRPC vs HTTP
+
+Powoli już oficjalnie coraz więcej materiałów na temat gRPC. James Newton-King opublikował pierwsze porównanie "kiedy-który". Jak ktoś nie wie czym jest gRPC to na pewno warto zerknąć: [https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-3.0](https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-3.0 "https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-3.0") bo nowość wejdzie dopiero w 3.0
+
 ## Dzień backup
 
 Nie wiem czy wiecie ale 31 marca był dniem backup. Z tej okazji fajna animacja od MS:
