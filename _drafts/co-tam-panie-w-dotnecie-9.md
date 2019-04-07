@@ -19,3 +19,15 @@ Ale nim przejdziesz do pracy warto przeczytać 2 poniższe artykuły:
 ## Czy WPF się jeszcze nadaje?
 
 Ostatnio widziałem pytanie w czym pisać aplikację typu "desktop". Szczerze tak dawno nic takiego nie pisałem, że nie wiem. WPF na pewno by się pojawił w wyliczance, ale .... No właśnie dlatego polecam artykuł: [Is WPF Still Relevant in 2019?](https://www.claudiobernasconi.ch/2019/01/30/is-wpf-still-relevant-in-2019/)
+
+## F# i dlaczego tak mało?
+
+Jeżeli myślałeś o F# i zastanawiasz się dlaczego go wszędzie nie ma, albo dlaczego tak mało programistów koduje w F#, albo dlaczego MS nie wspiera go na 100% (a przynajmniej tak się wydaje), to poniższy artykuł jest dla Ciebie:
+
+[Attracting more developers to F#](https://ericsink.com/entries/fsharp_incremental.html)
+
+## MariaDB w Azure
+
+Mało związane z .NET, ale 
+
+## Developer VS QA
