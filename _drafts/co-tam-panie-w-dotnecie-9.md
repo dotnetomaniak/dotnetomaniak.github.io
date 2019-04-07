@@ -17,10 +17,6 @@ Ale nim przejdziesz do pracy warto przeczytać 3 poniższe artykuły:
 2. [Visual Studio 2019: Code faster. Work smarter. Create the future.](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-code-faster-work-smarter-create-the-future/)
 3. [Introducing Time Travel Debugging for Visual Studio Enterprise 2019](https://devblogs.microsoft.com/visualstudio/introducing-time-travel-debugging-for-visual-studio-enterprise-2019/)
 
-## Czy WPF się jeszcze nadaje?
-
-Ostatnio widziałem pytanie w czym pisać aplikację typu "desktop". Szczerze tak dawno nic takiego nie pisałem, że nie wiem. WPF na pewno by się pojawił w wyliczance, ale .... No właśnie dlatego polecam artykuł: [Is WPF Still Relevant in 2019?](https://www.claudiobernasconi.ch/2019/01/30/is-wpf-still-relevant-in-2019/)
-
 ## F# i dlaczego tak mało?
 
 Jeżeli myślałeś o F# i zastanawiasz się dlaczego go wszędzie nie ma, albo dlaczego tak mało programistów koduje w F#, albo dlaczego MS nie wspiera go na 100% (a przynajmniej tak się wydaje), to poniższy artykuł jest dla Ciebie:
@@ -35,14 +31,16 @@ Jeżeli czytasz moje wiadomości regularnie to wynik Cię nie zaskoczy, ale rysu
 
 Adam Sitnik opublikował jak zrobić wizualizację PerfView za pomocą speedscope.app przy profilowaniu dotnet core (i pewnie nie tylko core). To rzecz z cyklu, że każdy z nas ma nadzieję, że nigdy to się nie przyda. A tu nagle pewnego dnia BUM i trzeba szukać w pamięci tai narzędzi na szybko: [https://adamsitnik.com/speedscope](https://adamsitnik.com/speedscope "https://adamsitnik.com/speedscope")
 
-## Pierwsze wybory w .NET Foundation
+## Czy WPF się jeszcze nadaje?
 
-No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
+Ostatnio widziałem pytanie w czym pisać aplikację typu "desktop". Szczerze tak dawno nic takiego nie pisałem, że nie wiem. WPF na pewno by się pojawił w wyliczance, ale .... No właśnie dlatego polecam artykuł: [Is WPF Still Relevant in 2019?](https://www.claudiobernasconi.ch/2019/01/30/is-wpf-still-relevant-in-2019/)
 
 ## Paint.NET i jego wnętrze
 
 Fajna dyskusja na Twitter autora Paint.NET (taki bardzo fajny mini-photoshop napisany w .NET):
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Loading JPEGs using WIC instead of GDI+ means I can now load images at the maximum size ... like this 63,360x35,640 super resolution screenshot from The Witness. Even though GDI+ is a WIC wrapper nowadays, it wasn&#39;t batching the CopyPixels calls, and WIC can only do 4GB per copy <a href="https://t.co/TNT8GU2Oim">pic.twitter.com/TNT8GU2Oim</a></p>&mdash; Rick Brewster (@rickbrewPDN) <a href="https://twitter.com/rickbrewPDN/status/1112135533348552704?ref_src=twsrc%5Etfw">30 March 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Loading JPEGs using WIC instead of GDI+ means I can now load images at the maximum size ... like this 63,360x35,640 super resolution screenshot from The Witness. Even though GDI+ is a WIC wrapper nowadays, it wasn't batching the CopyPixels calls, and WIC can only do 4GB per copy <a href="https://t.co/TNT8GU2Oim">pic.twitter.com/TNT8GU2Oim</a></p>— Rick Brewster (@rickbrewPDN) <a href="https://twitter.com/rickbrewPDN/status/1112135533348552704?ref_src=twsrc%5Etfw">30 March 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Pierwsze wybory w .NET Foundation
 
+No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
