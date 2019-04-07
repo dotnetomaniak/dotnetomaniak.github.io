@@ -26,6 +26,10 @@ Jeżeli myślałeś o F# i zastanawiasz się dlaczego go wszędzie nie ma, albo 
 
 [Attracting more developers to F#](https://ericsink.com/entries/fsharp_incremental.html)
 
+## Co jest szybsze struktura czy klasa?
+
+Jeżeli czytasz moje wiadomości regularnie to wynik Cię nie zaskoczy, ale rysunek z wytłumaczeniem jest ładny. Więc zerknąć warto: [https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76](https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76 "https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76")
+
 ## MariaDB w Azure
 
 Mało związane z .NET, ale 
