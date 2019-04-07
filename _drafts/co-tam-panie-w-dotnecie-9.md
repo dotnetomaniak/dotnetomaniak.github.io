@@ -38,3 +38,11 @@ Adam Sitnik opublikował jak zrobić wizualizację PerfView za pomocą speedscop
 ## Pierwsze wybory w .NET Foundation
 
 No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
+
+## Paint.NET i jego wnętrze
+
+Fajna dyskusja na Twitter autora Paint.NET (taki bardzo fajny mini-photoshop napisany w .NET):
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Loading JPEGs using WIC instead of GDI+ means I can now load images at the maximum size ... like this 63,360x35,640 super resolution screenshot from The Witness. Even though GDI+ is a WIC wrapper nowadays, it wasn&#39;t batching the CopyPixels calls, and WIC can only do 4GB per copy <a href="https://t.co/TNT8GU2Oim">pic.twitter.com/TNT8GU2Oim</a></p>&mdash; Rick Brewster (@rickbrewPDN) <a href="https://twitter.com/rickbrewPDN/status/1112135533348552704?ref_src=twsrc%5Etfw">30 March 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
