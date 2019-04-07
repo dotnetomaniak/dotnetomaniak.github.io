@@ -11,10 +11,11 @@ header-img: ''
 
 Jest nowe Visual Studio. Jak go jeszcze nie masz, to pewnie niedługo będziesz je miał. Czy warto? Na pewno. Czy już? Hmmm, trudne pytanie, całe szczęście można mieć inne IDE obok - starego VS, Rider czy VS Code
 
-Ale nim przejdziesz do pracy warto przeczytać 2 poniższe artykuły:
+Ale nim przejdziesz do pracy warto przeczytać 3 poniższe artykuły:
 
 1. [Visual Studio 2019 .NET productivity](https://devblogs.microsoft.com/dotnet/visual-studio-2019-net-productivity-2/)
 2. [Visual Studio 2019: Code faster. Work smarter. Create the future.](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-code-faster-work-smarter-create-the-future/)
+3. [Introducing Time Travel Debugging for Visual Studio Enterprise 2019](https://devblogs.microsoft.com/visualstudio/introducing-time-travel-debugging-for-visual-studio-enterprise-2019/)
 
 ## Czy WPF się jeszcze nadaje?
 
@@ -30,8 +31,8 @@ Jeżeli myślałeś o F# i zastanawiasz się dlaczego go wszędzie nie ma, albo 
 
 Jeżeli czytasz moje wiadomości regularnie to wynik Cię nie zaskoczy, ale rysunek z wytłumaczeniem jest ładny. Więc zerknąć warto: [https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76](https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76 "https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76")
 
-## MariaDB w Azure
+## Pierwsze wybory w .NET Foundation
 
-Mało związane z .NET, ale 
+No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
 
 ## Developer VS QA
