@@ -31,6 +31,10 @@ Jeżeli myślałeś o F# i zastanawiasz się dlaczego go wszędzie nie ma, albo 
 
 Jeżeli czytasz moje wiadomości regularnie to wynik Cię nie zaskoczy, ale rysunek z wytłumaczeniem jest ładny. Więc zerknąć warto: [https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76](https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76 "https://medium.com/@mdfarragher/whats-faster-in-c-a-struct-or-a-class-99e4761a7b76")
 
+## Wizualizacja PerfView
+
+Adam Sitnik opublikował jak zrobić wizualizację PerfView za pomocą speedscope.app przy profilowaniu dotnet core (i pewnie nie tylko core). To rzecz z cyklu, że każdy z nas ma nadzieję, że nigdy to się nie przyda. A tu nagle pewnego dnia BUM i trzeba szukać w pamięci tai narzędzi na szybko: [https://adamsitnik.com/speedscope](https://adamsitnik.com/speedscope "https://adamsitnik.com/speedscope")
+
 ## Pierwsze wybory w .NET Foundation
 
 No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
