@@ -34,5 +34,3 @@ Jeżeli czytasz moje wiadomości regularnie to wynik Cię nie zaskoczy, ale rysu
 ## Pierwsze wybory w .NET Foundation
 
 No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
-
-## Developer VS QA
