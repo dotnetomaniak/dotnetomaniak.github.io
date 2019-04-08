@@ -51,3 +51,5 @@ Wszystkie części kursu robionego przez Piotrka Gankiewicza i Darka Pawlukiewic
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Some great free online courses on .NET Core Distributed development and Microservices: <a href="https://t.co/JHDYZbLYDK">https://t.co/JHDYZbLYDK</a></p>— Scott Guthrie (@scottgu) <a href="https://twitter.com/scottgu/status/1113715562272546816?ref_src=twsrc%5Etfw">4 April 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ 
