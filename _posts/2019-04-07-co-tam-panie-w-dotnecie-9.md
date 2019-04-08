@@ -43,7 +43,7 @@ Fajna dyskusja na Twitter autora Paint.NET (taki bardzo fajny mini-photoshop nap
 
 ## Pierwsze wybory w .NET Foundation
 
-No to mamy wyniki. Ja jestem trochę zaskoczony. Więcej: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
+No to mamy wyniki. Nazwiska zwycięzców lekko mnie zaskoczyły. Ciekawe jak będzie z Wami. Oficjalne wyniki: [https://tirania.org/blog/archive/2019/Mar-29.html](https://tirania.org/blog/archive/2019/Mar-29.html "https://tirania.org/blog/archive/2019/Mar-29.html")
 
 ## Koniec Distributed .NET Core
 
