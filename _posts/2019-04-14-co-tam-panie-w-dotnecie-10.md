@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #10'
 date: 2019-04-14 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (3).png"
 
 ---
 Co tam Panie w dotnecie edycja 10. Jakoś mało dotnetowo, ale tak to już w życiu bywa. Najważniejszy temat dla każdej osoby interesującej się szeroko pojętą nauką w zeszłym tygodniu był jeden - czarna dziura. I ten własnie temat chciałbym Wam polecić najbardziej
