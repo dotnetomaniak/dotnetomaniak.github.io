@@ -16,3 +16,7 @@ Data premiery coraz bliżej, pewnie nawet domyślacie się kiedy będzie (o ile 
 ## Blazor
 
 Blazor wszedł w "official preview" - to już prawie stabilność jak service pack 2 do Windows XP. Nadal się boje, że rośnie drugi silverlight, a z drugiej storny cieszę się, na wszystkie możliwości wykorzystania WebAssembly. Więcej: [https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/ "https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/")
+
+## Dlaczego cieknie?
+
+Ważne pytanie. 8 powodów, sensownie napisanych. Warto zerknąć czy którąś ze ścieżek sami nie użyliśmy: [https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/ "https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/")
