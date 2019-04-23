@@ -14,3 +14,5 @@ Data premiery coraz bliżej, pewnie nawet domyślacie się kiedy będzie (o ile 
 [https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-4/](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-4/ "https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-4/")
 
 ## Blazor
+
+Blazor wszedł w "official preview" - to już prawie stabilność jak service pack 2 do Windows XP. Nadal się boje, że rośnie drugi silverlight, a z drugiej storny cieszę się, na wszystkie możliwości wykorzystania WebAssembly. Więcej: [https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/ "https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/")
