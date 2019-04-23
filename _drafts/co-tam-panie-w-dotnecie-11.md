@@ -17,6 +17,8 @@ Data premiery coraz bliżej, pewnie nawet domyślacie się kiedy będzie (o ile 
 
 Blazor wszedł w "official preview" - to już prawie stabilność jak service pack 2 do Windows XP. Nadal się boje, że rośnie drugi silverlight, a z drugiej storny cieszę się, na wszystkie możliwości wykorzystania WebAssembly. Więcej: [https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/ "https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/")
 
+A przykład użycia Blazor do budowy SPA można znaleźć tutaj: [https://exceptionnotfound.net/using-blazor-to-build-a-client-side-single-page-app-with-net-core/](https://exceptionnotfound.net/using-blazor-to-build-a-client-side-single-page-app-with-net-core/ "https://exceptionnotfound.net/using-blazor-to-build-a-client-side-single-page-app-with-net-core/")
+
 ## .NET Framework ma się dobrze
 
 I właśnie wyszła jego nowa wersja: 4.8. Poprawki zawierają zmiany w obszarach:
