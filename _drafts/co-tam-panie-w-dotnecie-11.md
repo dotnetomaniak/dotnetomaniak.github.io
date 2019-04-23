@@ -20,3 +20,18 @@ Blazor wszedł w "official preview" - to już prawie stabilność jak service pa
 ## Dlaczego cieknie?
 
 Ważne pytanie. 8 powodów, sensownie napisanych. Warto zerknąć czy którąś ze ścieżek sami nie użyliśmy: [https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/ "https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/")
+
+## Tydzień dotnetomaniaka
+
+Kolejny tydzień za nami, posty z wielu dziedzin. Idealne do kawy i mazurka. Polecam: [https://dotnetomaniak.pl/weekly/2019/16](https://dotnetomaniak.pl/weekly/2019/16 "https://dotnetomaniak.pl/weekly/2019/16")
+
+## Zabawa na koniec
+
+Nie do końca dotnet, bo SQL. Warto jednak zobaczyć czy pismo obrazkowe nadaje się do SQL.
+
+    -- select the ratings for 'Example Book'
+    SELECT 👤🏠📕.⭐
+    FROM 👤🏠📕 JOIN 📕 ON 👤🏠📕.📕 = 📕.🔑
+    WHERE 📕.💬 = 'Example Book';
+
+UWAGA: powyższy kod działa, wystarczy zastosować się do porad z [http://baldi.me/blog/emoji-in-sql](http://baldi.me/blog/emoji-in-sql "http://baldi.me/blog/emoji-in-sql")
