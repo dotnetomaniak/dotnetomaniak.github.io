@@ -17,6 +17,19 @@ Data premiery coraz bliżej, pewnie nawet domyślacie się kiedy będzie (o ile 
 
 Blazor wszedł w "official preview" - to już prawie stabilność jak service pack 2 do Windows XP. Nadal się boje, że rośnie drugi silverlight, a z drugiej storny cieszę się, na wszystkie możliwości wykorzystania WebAssembly. Więcej: [https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/ "https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/")
 
+## .NET Framework ma się dobrze
+
+I właśnie wyszła jego nowa wersja: 4.8. Poprawki zawierają zmiany w obszarach:
+
+* **\[Runtime\]** JIT and NGEN Improvements
+* **\[BCL\]** Updated ZLib
+* **\[BCL\]** Reducing FIPS Impact on Cryptography
+* **\[WinForms\]** Accessibility Enhancements
+* **\[WCF\]** Service Behavior Enhancements
+* **\[WPF\]** High DPI Enhancements, UIAutomation Improvements
+
+Więcej: [https://devblogs.microsoft.com/dotnet/announcing-the-net-framework-4-8/](https://devblogs.microsoft.com/dotnet/announcing-the-net-framework-4-8/ "https://devblogs.microsoft.com/dotnet/announcing-the-net-framework-4-8/")
+
 ## Dlaczego cieknie?
 
 Ważne pytanie. 8 powodów, sensownie napisanych. Warto zerknąć czy którąś ze ścieżek sami nie użyliśmy: [https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/ "https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/")
