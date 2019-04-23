@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #11'
 date: 2019-04-22 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/chris-benson-556355-unsplash.jpg"
 
 ---
 11 tydzień lekko opóźniony, ale święta to święta i szkoda je przerywać
