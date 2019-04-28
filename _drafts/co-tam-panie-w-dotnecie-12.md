@@ -36,3 +36,7 @@ Fajna dyskusja na temat R# :) Zdanie swoje macie, ale można poczytać zdanie in
 ## Wsparcie C# 8.0 w R# i Rider
 
 Jak już jesteśmy w JetBrains, to pojawil się artykuł jak korzystać z dobrodziejstw C# 8.0 w Resharper i Rider. Niestety to dopiero wersja EAP (albo i na szczęście jak ktoś nie ma licencji). Więcej: [https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/](https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/ "https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/")
+
+## Co jeszcze nam wycieknie
+
+Dane 190K użytkowników Docker Hub były dostępne dla nieautoryzowanej osoby. Powoli ma sens dlaczego MS zabrał swoje obrazy z Docker Hub i teraz trzyma je u siebie. Więcej co się stało: [https://www.bleepingcomputer.com/news/security/docker-hub-database-hack-exposes-sensitive-data-of-190k-users/](https://www.bleepingcomputer.com/news/security/docker-hub-database-hack-exposes-sensitive-data-of-190k-users/ "https://www.bleepingcomputer.com/news/security/docker-hub-database-hack-exposes-sensitive-data-of-190k-users/")
