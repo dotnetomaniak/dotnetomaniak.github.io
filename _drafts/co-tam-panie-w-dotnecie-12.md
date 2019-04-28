@@ -5,7 +5,7 @@ date: 2019-04-28 22:00:00 +0000
 header-img: ''
 
 ---
-Trochę cicho w świecie .NET. Chociaż pewnie pełna cisza przed burzą dopiero nadejdzie w tym tygodniu., więc kilka ciekawostek dla Was mam.
+Trochę cicho w świecie .NET. Chociaż pewnie prawdziwa cisza przed burzą dopiero nadejdzie w tym tygodniu. Ale kilka ciekawostek dla Was mam.
 
 ## Trochę historii
 
@@ -30,8 +30,9 @@ Jakiś czas temu pojawiła się już taka możliwość dzięki Mobius C# API (wi
 ## Jak to jest z tym R#?
 
 Fajna dyskusja na temat R# :) Zdanie swoje macie, ale można poczytać zdanie innych:
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">What is the .NET community’s negative fixation with <a href="https://twitter.com/resharper?ref_src=twsrc%5Etfw">@resharper</a>? Every time Microsoft does a new VS release, I hear the phrase “Resharper is dead!” Resharper is a great tool. If VS wants to add some of the refactorings, then great, but Resharper still helps make my code better.</p>&mdash; Michael Collins (@mfcollins3) <a href="https://twitter.com/mfcollins3/status/1118209661054767104?ref_src=twsrc%5Etfw">16 April 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">What is the .NET community’s negative fixation with <a href="https://twitter.com/resharper?ref_src=twsrc%5Etfw">@resharper</a>? Every time Microsoft does a new VS release, I hear the phrase “Resharper is dead!” Resharper is a great tool. If VS wants to add some of the refactorings, then great, but Resharper still helps make my code better.</p>— Michael Collins (@mfcollins3) <a href="https://twitter.com/mfcollins3/status/1118209661054767104?ref_src=twsrc%5Etfw">16 April 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Wsparcie C# 8.0 w R# i Rider
 
-## w
+Jak już jesteśmy w JetBrains, to pojawil się artykuł jak korzystać z dobrodziejstw C# 8.0 w Resharper i Rider. Niestety to dopiero wersja EAP (albo i na szczęście jak ktoś nie ma licencji). Więcej: [https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/](https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/ "https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/")
