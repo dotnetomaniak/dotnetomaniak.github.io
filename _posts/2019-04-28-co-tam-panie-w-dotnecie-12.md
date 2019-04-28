@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #12'
 date: 2019-04-28 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/jonas-jacobsson-545909-unsplash.jpg.jpg"
 
 ---
 Trochę cicho w świecie .NET. Chociaż pewnie prawdziwa cisza przed burzą dopiero nadejdzie w tym tygodniu. Ale kilka ciekawostek dla Was mam.
