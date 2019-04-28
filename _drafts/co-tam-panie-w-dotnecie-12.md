@@ -37,6 +37,14 @@ Fajna dyskusja na temat R# :) Zdanie swoje macie, ale można poczytać zdanie in
 
 Jak już jesteśmy w JetBrains, to pojawil się artykuł jak korzystać z dobrodziejstw C# 8.0 w Resharper i Rider. Niestety to dopiero wersja EAP (albo i na szczęście jak ktoś nie ma licencji). Więcej: [https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/](https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/ "https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/")
 
+## Naucz się programowania równoległego w postaci gry
+
+Jak macie godzinkę albo i nawet trzy, to jest gra, której celem jest nauczenie jak łatwo popełnić błąd nie znając mechanizmów do programowania równoległego (a tak naprawdę synchronizacji) w C#. Poniżej gra, która może Wam pomóc:
+
+[The Deadlock Empire - Slay dragons, master concurrency!](https://deadlockempire.github.io/)
+
+Ja bawiłem się przednie :)
+
 ## .NET Core IoT + Pi + IoT Hub
 
 Jeżeli jeszcze nie próbowaliście robić takiej magi to całkiem przyjemny tutorial pojawił się na dev.to. Z cyklu od zera do bohatera:
