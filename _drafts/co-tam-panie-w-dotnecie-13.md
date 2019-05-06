@@ -22,4 +22,8 @@ W sumie to nagłówek mówi sam za siebie - nowe wersje (2019.1) są już dostę
 
 ## Gdy chcesz zrozumieć przeglądarkę
 
-Mega, po prostu MEGA wytłumaczenie kolejności 
+Mega, po prostu MEGA wytłumaczenie kolejności zdarzeń w przeglądarce. Plus pełne wyjaśnienie i dlaczego się dzieje. Jeżeli kiedykolwiek, będziesz chciał(a) programować frontendy to warto przeczytać ten artykuł. A jeżeli nie, to i tak warto bo dawka wiedzy potężna: [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) (p.s. artykuł stary, ale jary)
+
+## Wrzuta z boku czyli jak Oracle zabił Java EE
+
+To wiadomości ze świata dotnet, więc ten artykuł na pewno nie jest na miejscu. Ale pamiętam czasy gdy marzyłem żeby świat .NET wyglądał jak świat Java. Teraz świat stanął na głowie i cieszę się, MS zmienił podejście. Mama nadzieję, że tak już zostanie. A artykuł o Java EE i problemach z licencjami polecam dla przestrogi: [Negotiations Failed: How Oracle killed Java EE.](https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/)
