@@ -32,6 +32,10 @@ To wiadomości ze świata dotnet, więc ten artykuł na pewno nie jest na miejsc
 
 Serio! Ledwie można powiedzieć, że ruszył na podbój przeglądarek a tu już atak na serwery. Nie wiem czy się bać czy cieszyć, ale czytam ..... [Blazor on the Server: The Good and the Unfortunate](https://visualstudiomagazine.com/articles/2019/04/01/razor-components.aspx?m=1)
 
+## Nowa karcianka nadchodzi
+
+Konrad Kokosa zaczął projektować karciankę na temat dotnet (i oczywiście pamięci no bo i jak). Pierwsza dawka informacji już jest: [http://tooslowexception.com/outofmemory-a-nerdy-card-game-for-developers](http://tooslowexception.com/outofmemory-a-nerdy-card-game-for-developers "http://tooslowexception.com/outofmemory-a-nerdy-card-game-for-developers")
+
 ## Bomba na koniec - kompilacja C# i globalne ocieplenie
 
 Tytuł trochę na wyrost, ale bądźmy szczerzy clickbait jest potrzebny. A tym razem warty czasu. Tylko przygotujcie sobie z 15 minut, albo 30. A potem pół dnia na myślenie. W pełni rozwałkowana, kompilacja w dotnet. Co, po co, dlaczego, za co i kiedy. Normalnie jazda bez trzymanki.
