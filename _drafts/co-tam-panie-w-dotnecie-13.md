@@ -27,3 +27,13 @@ Mega, po prostu MEGA wytłumaczenie kolejności zdarzeń w przeglądarce. Plus p
 ## Wrzuta z boku czyli jak Oracle zabił Java EE
 
 To wiadomości ze świata dotnet, więc ten artykuł na pewno nie jest na miejscu. Ale pamiętam czasy gdy marzyłem żeby świat .NET wyglądał jak świat Java. Teraz świat stanął na głowie i cieszę się, MS zmienił podejście. Mama nadzieję, że tak już zostanie. A artykuł o Java EE i problemach z licencjami polecam dla przestrogi: [Negotiations Failed: How Oracle killed Java EE.](https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/)
+
+## Blazor rusza na podbój serwerów
+
+Serio! Ledwie można powiedzieć, że ruszył na podbój przeglądarek a tu już atak na serwery. Nie wiem czy się bać czy cieszyć, ale czytam ..... [Blazor on the Server: The Good and the Unfortunate](https://visualstudiomagazine.com/articles/2019/04/01/razor-components.aspx?m=1)
+
+## Bomba na koniec - kompilacja C# i globalne ocieplenie
+
+Tytuł trochę na wyrost, ale bądźmy szczerzy clickbait jest potrzebny. A tym razem warty czasu. Tylko przygotujcie sobie z 15 minut, albo 30. A potem pół dnia na myślenie. W pełni rozwałkowana, kompilacja w dotnet. Co, po co, dlaczego, za co i kiedy. Normalnie jazda bez trzymanki.
+
+Gotowi? No to klik: [Fight the global warming: compile your C# apps ahead of time](https://medium.com/@MStrehovsky/fight-the-global-warming-compile-your-c-apps-ahead-of-time-9997e953645b)
