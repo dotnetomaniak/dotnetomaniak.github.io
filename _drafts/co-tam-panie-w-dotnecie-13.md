@@ -19,3 +19,7 @@ W sumie to nagłówek mówi sam za siebie - nowe wersje (2019.1) są już dostę
 
 * [https://blog.jetbrains.com/dotnet/2019/04/30/rider-2019-1-arrived/](https://blog.jetbrains.com/dotnet/2019/04/30/rider-2019-1-arrived/ "https://blog.jetbrains.com/dotnet/2019/04/30/rider-2019-1-arrived/")
 * [https://blog.jetbrains.com/dotnet/2019/04/30/welcome-resharper-ultimate-2019-1/](https://blog.jetbrains.com/dotnet/2019/04/30/welcome-resharper-ultimate-2019-1/ "https://blog.jetbrains.com/dotnet/2019/04/30/welcome-resharper-ultimate-2019-1/")
+
+## Gdy chcesz zrozumieć przeglądarkę
+
+Mega, po prostu MEGA wytłumaczenie kolejności 
