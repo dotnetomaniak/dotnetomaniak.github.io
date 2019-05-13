@@ -32,3 +32,7 @@ Do tego też nowy EnitiyFramework 6.3 mający wsparcie dla NET Core. Czyli poł�
 ## Inspect.Allocations
 
 Na Sharplab.io pojawiała się nowa funkcjonalność: `Inspect.Allocations`. Niby proste a jednak bardzo fajne narzędzie. Co więcej jeszcze w wersji "niestabilnej" bo krzyczy na nas ostrzeżenie. Przykład w działaniu: [https://sharplab.io/#gist:5dd52b497575ec1f24a46f6c9287e144](https://sharplab.io/#gist:5dd52b497575ec1f24a46f6c9287e144 "https://sharplab.io/#gist:5dd52b497575ec1f24a46f6c9287e144")
+
+## Tydzień dotnetomaniaka
+
+A na dotnetomaniaku klika bardzo ciekawych artykułów z zeszłego tygodnia. 12 artykułów, zero builda. Polecam zajrzeć: [https://dotnetomaniak.pl/weekly/2019/19](https://dotnetomaniak.pl/weekly/2019/19 "https://dotnetomaniak.pl/weekly/2019/19") i jestem przekonany, że znajdziesz coś dla siebie.
