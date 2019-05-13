@@ -5,15 +5,23 @@ date: 2019-05-12 22:00:00 +0000
 header-img: ''
 
 ---
-W tym tygodniu za nami MS Build, ale ponieważ wszyscy już "wszystko" widzieli to w tym temacie krótko i raczej nietypowo. Poza tym kilka ciekawostek.
+W tym tygodniu za nami MS Build, ale ponieważ wszyscy już "wszystko" widzieli to w tym temacie raczej nietypowo w formie ciekawostek.
 
 ## No to Build
 
-Na buildzie dużo nowości chociaż bardziej poprawnie będzie zapowiedzi.. Pełny wykaz sesji do obejrzenia jest dostępny: [https://mybuild.techcommunity.microsoft.com/sessions](https://mybuild.techcommunity.microsoft.com/sessions "https://mybuild.techcommunity.microsoft.com/sessions"), a jak nie chce Wam się szukać samemu to Top stories dostępne tutaj: [https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/](https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/ "https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/")
+Na buildzie dużo nowości chociaż bardziej poprawnie będzie zapowiedzi.. Pełny wykaz sesji do obejrzenia jest dostępny: [https://mybuild.techcommunity.microsoft.com/sessions](https://mybuild.techcommunity.microsoft.com/sessions "https://mybuild.techcommunity.microsoft.com/sessions") (oraz w formie YouTube:[https://www.youtube.com/playlist?list=PLlrxD0HtieHgspNIlv1x2H5_cxSRm7B17](https://www.youtube.com/playlist?list=PLlrxD0HtieHgspNIlv1x2H5_cxSRm7B17 "https://www.youtube.com/playlist?list=PLlrxD0HtieHgspNIlv1x2H5_cxSRm7B17")), a jak nie chce Wam się szukać samemu najciekawszych to "top" dostępny jest tutaj: [https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/](https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/ "https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/")
 
-Cały świat zachywca się nowym terminalem, ale na razie to powiem szczerze do niczego się on nie nadaje. Projekt w wersji "jeszcze totalnie prawie nic nie ma". Próbowałem go uruchomić i dopiero VM postawione na Azure pomogło. Jak ktoś chciałby binarki to rozczaruję - u mnie lokalnie nie działa.
+## Nowy terminal
+
+Cały świat zachwyca się nowym terminalem, ale na razie to powiem szczerze do niczego się on nie nadaje. Projekt w wersji "jeszcze totalnie prawie nic nie ma". Próbowałem go uruchomić i dopiero VM postawione na Azure pomogło. Jak ktoś chciałby binarki to rozczaruję - u mnie lokalnie nie działa.
+
+## Przyszłość .NET
 
 .NET 5.0 ([https://devblogs.microsoft.com/dotnet/introducing-net-5/](https://devblogs.microsoft.com/dotnet/introducing-net-5/ "https://devblogs.microsoft.com/dotnet/introducing-net-5/"))- kolejna nowość, z której ma połączyć wszystko. Myślałem że to miał zrobić .NET Standard a tu proszę jednak nie. Widać że jest problem z połączeniem światów NET Framework i NET Core, bo jednak piszą że [NET Core is the future](https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/). Trochę to tak jak by zjeść ciastko i mieć ciastko. Ech ....
+
+## Nowości w Visual Studio
+
+Jakiś czas temu VisualStudioOnline zmieniło nazwę na Azure DevOps. Dwa słowa klucze: Azure i DevOps, wydawało mi się, że to zmiana podyktowana dla szczęścia i radości marketingu. A jednak ten rebranding umożliwił zrobienie miejsca dla "prawdziwego" Visual Studio Online. Wedle doniesień będzie ono oparte na VS Code i dostępne pod adresem: [https://online.visualstudio.com](https://online.visualstudio.com "https://online.visualstudio.com") (na razie jest tam tylko wpis na ten temat)
 
 ## Nowy SqlClient
 
