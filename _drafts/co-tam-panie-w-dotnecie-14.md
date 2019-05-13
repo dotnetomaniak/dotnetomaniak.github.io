@@ -9,7 +9,7 @@ W tym tygodniu za nami MS Build, ale ponieważ wszyscy już "wszystko" widzieli 
 
 ## No to Build
 
-Na buildzie dużo nowości chociaż bardziej poprawnie będzie zapowiedzi.. Pełny wykaz sesji do obejrzenia jest dostępny: [https://mybuild.techcommunity.microsoft.com/sessions](https://mybuild.techcommunity.microsoft.com/sessions "https://mybuild.techcommunity.microsoft.com/sessions")
+Na buildzie dużo nowości chociaż bardziej poprawnie będzie zapowiedzi.. Pełny wykaz sesji do obejrzenia jest dostępny: [https://mybuild.techcommunity.microsoft.com/sessions](https://mybuild.techcommunity.microsoft.com/sessions "https://mybuild.techcommunity.microsoft.com/sessions"), a jak nie chce Wam się szukać samemu to Top stories dostępne tutaj: [https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/](https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/ "https://devblogs.microsoft.com/devops/top-stories-from-microsoft-build-2019-05-10/")
 
 Cały świat zachywca się nowym terminalem, ale na razie to powiem szczerze do niczego się on nie nadaje. Projekt w wersji "jeszcze totalnie prawie nic nie ma". Próbowałem go uruchomić i dopiero VM postawione na Azure pomogło. Jak ktoś chciałby binarki to rozczaruję - u mnie lokalnie nie działa.
 
