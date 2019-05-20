@@ -29,3 +29,17 @@ W tym tygodniu dwa artykuły o wydajności. Jak zwykle "edge cases", ale poczyta
 
 * [Creating Strings with No Allocation Overhead Using String.Create](https://www.stevejgordon.co.uk/creating-strings-with-no-allocation-overhead-using-string-create-csharp)
 * [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0)
+
+## Umbraco idzie w kierunku .NET Core
+
+Nie wiem czy znacie ten CMS, ale jest w 100% napisany w .NET i wygląda na to że powoli zmierza do migracji na .NET Core:
+
+## Piekło zamarzło część 1 - interfejsy
+
+Możliwość implementacji ciała metody w interfejsie właśnie stała się faktem. Czy to dobrze czy źle - ciężko mi ocenić, ale sporo pytań rekrutacyjnych szlag trafiło ;)
+
+Nie mam co się wywnętrzać tylko zapraszam do kliknięcia: [https://devblogs.microsoft.com/dotnet/default-implementations-in-interfaces/](https://devblogs.microsoft.com/dotnet/default-implementations-in-interfaces/ "https://devblogs.microsoft.com/dotnet/default-implementations-in-interfaces/")
+
+## Piekło zamarzło część 2 - Windows Containers
+
+Jak wiecie interesuję się Kubernetesem - zawodowo i prywatnie. Tak samo kontenerami - kocham i nienawidzę jednocześnie. Myślałem, że Microsoft odpuści, szczególnie gdy wpadł mi w ręce [commit z przed 2 tygodni](https://github.com/MicrosoftDocs/azure-docs/commit/0e0a57467efb91c029083ecabfb16b8af091f437) do dokumentacji Azure Kubernetes Service (AKS). Ale jednak się myliłem - na AKS pojawiło się publiczne preview dla kontenerów Windows. W pełni oficjalnie: 
