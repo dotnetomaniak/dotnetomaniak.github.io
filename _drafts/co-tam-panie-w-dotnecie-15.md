@@ -11,6 +11,10 @@ Piekło zamarzło. Ostatnio nadużywam tego określenia, podobnie jak Microsoft 
 
 13 jest pechowa, ale nie tym razem. W zeszłym tygodniu na dotnetomaniaku opublikowano aż 13 artykułów. Jest z czego czerpać wiedzę, więc zapraszam Cię serdecznie do kliknięcia i poczytania: [https://dotnetomaniak.pl/weekly/2019/20](https://dotnetomaniak.pl/weekly/2019/20 "https://dotnetomaniak.pl/weekly/2019/20")
 
+## Msbuild raz jeszcze
+
+Parę podsumowań MsBuild już jest na przykład u [programmer-girl]() (skrót najważniejszych wiadomości) czy [Tomasza Wiśniewskiego](https://tomaszwisniewski.com/build/conference/event/build-2019-recap.html) (tu warto przeczytać które sesje obejrzeć). Jeżeli jednak potrzebujecie "indeksu" to dostępny jest oficjalny ebook ze wszystkimi wiadomościami: [https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019.pdf](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019.pdf "https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019.pdf") - w sumie 64 strony ze wszystkim co zostało ogłoszone :)
+
 ## Dlaczego Bing jest "inteligentny"?
 
 Jeżeli ciekawi Cię w jaki sposób wyszukiwarka Bing umie zinterpretować pytanie: "jak wysoki jest pałac kultury i nauki?" to mam coś dla Ciebie. Microsoft opublikował właśnie jako open-source swój algorytm o nazwie SPTAG ("Space Partition Tree and Graph"). Po więcej informacji można sięgnąć w 3 miejsca:
