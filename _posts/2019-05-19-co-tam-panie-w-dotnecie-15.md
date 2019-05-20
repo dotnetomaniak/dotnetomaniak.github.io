@@ -40,6 +40,12 @@ Nie wiem czy znacie ten CMS, ale jest w 100% napisany w .NET i wygląda na to ż
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Plans for moving to .NET Core being discussed at the <a href="https://twitter.com/hashtag/cgretreat?src=hash&ref_src=twsrc%5Etfw">#cgretreat</a> <a href="https://twitter.com/hashtag/codegarden?src=hash&ref_src=twsrc%5Etfw">#codegarden</a> <a href="https://twitter.com/hashtag/umbraco?src=hash&ref_src=twsrc%5Etfw">#umbraco</a> <a href="https://t.co/gU9ZAKrvjB">pic.twitter.com/gU9ZAKrvjB</a></p>— Niels Hartvig (@thechiefunicorn) <a href="https://twitter.com/thechiefunicorn/status/1130065816978939904?ref_src=twsrc%5Etfw">19 May 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Jak robić cache
+
+Bardzo mięsisty artykuł na temat cache w .NET autorstwa Michael Shpilta. Pojawił się już w serii kilka razy, więc warto poszukać co tam u niego w blogu jeszcze jest:
+
+[https://michaelscodingspot.com/cache-implementations-in-csharp-net/](https://michaelscodingspot.com/cache-implementations-in-csharp-net/ "https://michaelscodingspot.com/cache-implementations-in-csharp-net/")
+
 ## Piekło zamarzło część 1 - interfejsy
 
 Możliwość implementacji ciała metody w interfejsie właśnie stała się faktem. Czy to dobrze czy źle - ciężko mi ocenić, ale sporo pytań rekrutacyjnych szlag trafiło ;)
