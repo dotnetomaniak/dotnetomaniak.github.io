@@ -33,9 +33,8 @@ W tym tygodniu dwa artykuły o wydajności. Jak zwykle "edge cases", ale poczyta
 ## Umbraco idzie w kierunku .NET Core
 
 Nie wiem czy znacie ten CMS, ale jest w 100% napisany w .NET i wygląda na to że powoli zmierza do migracji na .NET Core:
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Plans for moving to .NET Core being discussed at the <a href="https://twitter.com/hashtag/cgretreat?src=hash&amp;ref_src=twsrc%5Etfw">#cgretreat</a> <a href="https://twitter.com/hashtag/codegarden?src=hash&amp;ref_src=twsrc%5Etfw">#codegarden</a> <a href="https://twitter.com/hashtag/umbraco?src=hash&amp;ref_src=twsrc%5Etfw">#umbraco</a> <a href="https://t.co/gU9ZAKrvjB">pic.twitter.com/gU9ZAKrvjB</a></p>&mdash; Niels Hartvig (@thechiefunicorn) <a href="https://twitter.com/thechiefunicorn/status/1130065816978939904?ref_src=twsrc%5Etfw">19 May 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Plans for moving to .NET Core being discussed at the <a href="https://twitter.com/hashtag/cgretreat?src=hash&ref_src=twsrc%5Etfw">#cgretreat</a> <a href="https://twitter.com/hashtag/codegarden?src=hash&ref_src=twsrc%5Etfw">#codegarden</a> <a href="https://twitter.com/hashtag/umbraco?src=hash&ref_src=twsrc%5Etfw">#umbraco</a> <a href="https://t.co/gU9ZAKrvjB">pic.twitter.com/gU9ZAKrvjB</a></p>— Niels Hartvig (@thechiefunicorn) <a href="https://twitter.com/thechiefunicorn/status/1130065816978939904?ref_src=twsrc%5Etfw">19 May 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## Piekło zamarzło część 1 - interfejsy
 
@@ -46,3 +45,5 @@ Nie mam co się wywnętrzać tylko zapraszam do kliknięcia: [https://devblogs.m
 ## Piekło zamarzło część 2 - Windows Containers
 
 Jak wiecie interesuję się Kubernetesem - zawodowo i prywatnie. Tak samo kontenerami - kocham i nienawidzę jednocześnie. Myślałem, że Microsoft odpuści, szczególnie gdy wpadł mi w ręce [commit z przed 2 tygodni](https://github.com/MicrosoftDocs/azure-docs/commit/0e0a57467efb91c029083ecabfb16b8af091f437) do dokumentacji Azure Kubernetes Service (AKS). Ale jednak się myliłem - na AKS pojawiło się publiczne preview dla kontenerów Windows. W pełni oficjalnie:
+
+[https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/](https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/ "https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-windows-server-containers-support-in-azure-kubernetes-service/")
