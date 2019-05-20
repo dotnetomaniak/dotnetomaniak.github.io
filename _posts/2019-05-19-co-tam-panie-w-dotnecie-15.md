@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #15'
 date: 2019-05-19 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/david-tovar-1532980-unsplash.jpg"
 
 ---
 Piekło zamarzło. Ostatnio nadużywam tego określenia, podobnie jak Microsoft określa wszystko jako przełomowe. Cóż zapraszam Cię do 15 podsumowania tygodnia w świecie .NET
