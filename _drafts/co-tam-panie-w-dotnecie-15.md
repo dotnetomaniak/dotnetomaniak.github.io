@@ -27,4 +27,5 @@ Bardzo przydatny zestaw artykułów z cyklu jak diagnozować co jest nie tak z a
 
 W tym tygodniu dwa artykuły o wydajności. Jak zwykle "edge cases", ale poczytać warto:
 
-* [https://www.stevejgordon.co.uk/creating-strings-with-no-allocation-overhead-using-string-create-csharp](https://www.stevejgordon.co.uk/creating-strings-with-no-allocation-overhead-using-string-create-csharp "Creating Strings with No Allocation Overhead Using String.Create")
+* [Creating Strings with No Allocation Overhead Using String.Create](https://www.stevejgordon.co.uk/creating-strings-with-no-allocation-overhead-using-string-create-csharp)
+* [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0)
