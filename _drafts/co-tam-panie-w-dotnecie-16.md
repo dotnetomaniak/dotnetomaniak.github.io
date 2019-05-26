@@ -32,3 +32,7 @@ Steve Gordon umieścił bardzo praktyczny artykuł na temat profilowania NET Cor
 ## Prezentacja do obejrzenia
 
 Grzegorz Kotfis polecił prezentację do obejrzenia na temat wysokiej wydajności w C#. Nie miałem jeszcze czasu obejrzeć do końca, ale jak Grzesiek poleca to jestem pewien że warto, szczególnie że jest to nagranie z NDC: [https://www.youtube.com/watch?v=4yALYEINbyI](https://www.youtube.com/watch?v=4yALYEINbyI "https://www.youtube.com/watch?v=4yALYEINbyI")
+
+## Tydzień dotnetomaniaka
+
+Oj u nas krucho w tym tygodniu. Tylko 5 postów, ale za to jakich. Kliknij i sam sprawdź jest co czytać: [https://dotnetomaniak.pl/weekly/2019/21](https://dotnetomaniak.pl/weekly/2019/21 "https://dotnetomaniak.pl/weekly/2019/21"). Szczególnie fajny jest artykuł o nowym `switch` w C# 8.0 autorstwa Daniela.
