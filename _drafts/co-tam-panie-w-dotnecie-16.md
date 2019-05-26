@@ -28,3 +28,7 @@ Trafiłem na to pytanie na StackOverflow przypadkiem - zerknąłem w pracy koled
 ## Jak profilować NET Core
 
 Steve Gordon umieścił bardzo praktyczny artykuł na temat profilowania NET Core z użyciem JetBrains dotMemory. Artykuł w stylu "how-to", więc łatwo powtórzyć wszystkie kroki. Natomiast przykład trochę jak dla mnie za prosty. Po więcej zapraszam do artykułu: [https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory](https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory "https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory")
+
+## Prezentacja do obejrzenia
+
+Grzegorz Kotfis polecił prezentację do obejrzenia na temat wysokiej wydajności w C#. Nie miałem jeszcze czasu obejrzeć do końca, ale jak Grzesiek poleca to jestem pewien że warto, szczególnie że jest to nagranie z NDC: [https://www.youtube.com/watch?v=4yALYEINbyI](https://www.youtube.com/watch?v=4yALYEINbyI "https://www.youtube.com/watch?v=4yALYEINbyI")
