@@ -27,4 +27,4 @@ Trafiłem na to pytanie na StackOverflow przypadkiem - zerknąłem w pracy koled
 
 ## Jak profilować NET Core
 
-Steve Gordon umieścił bardzo praktyczny artykuł na temat profilowania 
+Steve Gordon umieścił bardzo praktyczny artykuł na temat profilowania NET Core z użyciem JetBrains dotMemory. Artykuł w stylu "how-to", więc łatwo powtórzyć wszystkie kroki. Natomiast przykład trochę jak dla mnie za prosty. Po więcej zapraszam do artykułu: [https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory](https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory "https://www.stevejgordon.co.uk/profiling-dotnetcore-memory-traffic-using-jetbrains-dotmemory")
