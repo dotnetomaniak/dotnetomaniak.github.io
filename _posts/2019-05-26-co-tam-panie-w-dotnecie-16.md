@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Co tam Panie w dotnecie? #16'
-date: 2019-05-26 22:00:00 +0000
-header-img: ''
+date: 2019-05-26T22:00:00.000+00:00
+header-img: "/images/content/angelo-pantazis-1624841-unsplash.jpg"
 
 ---
 Odsłona 16 nowości ze świata .NET. Tym razem krótka, ale bardzo treściwa.
