@@ -26,6 +26,8 @@ A całość po kompilacji dostępna jest na [sharlab.io](https://sharplab.io/#v2
 
 ## Desktop i .NET Core
 
-Chyba pierwszy tak kompleksowy artykuł na temat portowania aplikacji Windows z .NET Framework na .NET Core. Krok po kroku, nawet z opisem jak naprawiać błędy. Dla chętnych też video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/upVQEUc_KwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-A artykuł dostępny pod adresem:
+Chyba pierwszy tak kompleksowy artykuł na temat portowania aplikacji Windows z .NET Framework na .NET Core. Krok po kroku, nawet z opisem jak naprawiać błędy. Dla chętnych też video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upVQEUc_KwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+A artykuł dostępny pod adresem: [https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/](https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/ "https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/")
