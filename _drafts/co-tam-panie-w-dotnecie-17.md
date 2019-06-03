@@ -34,7 +34,13 @@ A artykuł dostępny pod adresem: [https://devblogs.microsoft.com/dotnet/porting
 
 ## 2 tematy z od śmieciarzy
 
-Dwa tematy związane z GC:
+Dwa tematy związane z GC dla prawdziwych fanów ;)
 
 1. [8 Techniques to Avoid GC Pressure and Improve Performance in C# .NET](https://michaelscodingspot.com/avoid-gc-pressure/)
 2. [Spying on .NET Garbage Collector with .NET Core EventPipes](https://medium.com/criteo-labs/spying-on-net-garbage-collector-with-net-core-eventpipes-9f2a986d5705)
+
+## A czy USA może zablokować open-source?
+
+Po "Trump ban" dość ciekawy problem. Ale jak to zapytacie? No więc Github należy do MS, a MS jest firmą amerykańską i podlega. Dla zainteresowanych więcej : [US might have control of Open Source](https://www.fudzilla.com/news/48769-us-might-have-control-of-open-source)
+
+##  
