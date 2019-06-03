@@ -28,3 +28,5 @@ A całość po kompilacji dostępna jest na [sharlab.io](https://sharplab.io/#v2
 ## Desktop i .NET Core
 
 Chyba pierwszy tak kompleksowy artykuł na temat portowania aplikacji Windows z .NET Framework na .NET Core. Krok po kroku, nawet z opisem jak naprawiać błędy. Dla chętnych też video:
+
+A artykuł dostępny pod adresem:
