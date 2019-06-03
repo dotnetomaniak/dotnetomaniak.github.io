@@ -5,7 +5,6 @@ date: 2019-06-02 22:00:00 +0000
 header-img: ''
 
 ---
-
 ## FindRef czyli jak odszukać referencję
 
 Raz na jakiś czas potrzebujemy na szybko sprawdzić, w którym projekcie używana jest dana biblioteka. Na pomoc spieszy małe narzędzie czyli FindRef. Instalacja banalna: `dotnet tool install --global findref`, a użycie: `dotnet tool install --global findref`. Więcej opcji i szczegółów: [https://hjerpbakk.com/blog/2019/05/27/findref](https://hjerpbakk.com/blog/2019/05/27/findref "https://hjerpbakk.com/blog/2019/05/27/findref")
@@ -28,5 +27,5 @@ A całość po kompilacji dostępna jest na [sharlab.io](https://sharplab.io/#v2
 ## Desktop i .NET Core
 
 Chyba pierwszy tak kompleksowy artykuł na temat portowania aplikacji Windows z .NET Framework na .NET Core. Krok po kroku, nawet z opisem jak naprawiać błędy. Dla chętnych też video:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upVQEUc_KwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 A artykuł dostępny pod adresem:
