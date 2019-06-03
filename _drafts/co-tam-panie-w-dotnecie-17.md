@@ -5,6 +5,12 @@ date: 2019-06-02 22:00:00 +0000
 header-img: ''
 
 ---
+17 edycja podsumowania ze świata dotnet. Krótko i treściwie, akurat na przerwę.
+
+## Tydzień dotnetomaniaka
+
+Zacznijmy od polskiej blogosfery dotnetowej. W tym tygodniu 10 artykułów. Jest co czytać, więc zapraszam serdecznie: [https://dotnetomaniak.pl/weekly/2019/22](https://dotnetomaniak.pl/weekly/2019/22 "https://dotnetomaniak.pl/weekly/2019/22")
+
 ## FindRef czyli jak odszukać referencję
 
 Raz na jakiś czas potrzebujemy na szybko sprawdzić, w którym projekcie używana jest dana biblioteka. Na pomoc spieszy małe narzędzie czyli FindRef. Instalacja banalna: `dotnet tool install --global findref`, a użycie: `dotnet tool install --global findref`. Więcej opcji i szczegółów: [https://hjerpbakk.com/blog/2019/05/27/findref](https://hjerpbakk.com/blog/2019/05/27/findref "https://hjerpbakk.com/blog/2019/05/27/findref")
@@ -43,4 +49,6 @@ Dwa tematy związane z GC dla prawdziwych fanów ;)
 
 Po "Trump ban" dość ciekawy problem. Ale jak to zapytacie? No więc Github należy do MS, a MS jest firmą amerykańską i podlega. Dla zainteresowanych więcej : [US might have control of Open Source](https://www.fudzilla.com/news/48769-us-might-have-control-of-open-source)
 
-##  
+## Czy jeszcze Win10 czy już może nie?
+
+Ptaszki od jakiegoś czasu ćwierkają, że MS tworzy nowy system operacyjny typu Lite, określanego już oficjalnie jako Modern OS. Pytanie co Windows 10? Na ten moment to gracz innej ligi, który raczej ma konkurować z Chrome OS niż z pełnym systemem operacyjnym. Ale co wyjdzie z tego? Pożyjemy zobaczymy. Więcej: [https://www.spidersweb.pl/2019/05/microsoft-modern-os.html](https://www.spidersweb.pl/2019/05/microsoft-modern-os.html "https://www.spidersweb.pl/2019/05/microsoft-modern-os.html")
