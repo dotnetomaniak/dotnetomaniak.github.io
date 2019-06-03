@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #17'
 date: 2019-06-02 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/andres-canchon-37439-unsplash.jpg"
 
 ---
 17 edycja podsumowania ze świata dotnet. Krótko i treściwie, akurat na przerwę.
