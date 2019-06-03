@@ -26,8 +26,15 @@ A całość po kompilacji dostępna jest na [sharlab.io](https://sharplab.io/#v2
 
 ## Desktop i .NET Core
 
-Chyba pierwszy tak kompleksowy artykuł na temat portowania aplikacji Windows z .NET Framework na .NET Core. Krok po kroku, nawet z opisem jak naprawiać błędy. Dla chętnych też video: 
+Chyba pierwszy tak kompleksowy artykuł na temat portowania aplikacji Windows z .NET Framework na .NET Core. Krok po kroku, nawet z opisem jak naprawiać błędy. Dla chętnych też video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/upVQEUc_KwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upVQEUc_KwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A artykuł dostępny pod adresem: [https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/](https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/ "https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/")
+
+## 2 tematy z od śmieciarzy
+
+Dwa tematy związane z GC:
+
+1. [8 Techniques to Avoid GC Pressure and Improve Performance in C# .NET](https://michaelscodingspot.com/avoid-gc-pressure/)
+2. [Spying on .NET Garbage Collector with .NET Core EventPipes](https://medium.com/criteo-labs/spying-on-net-garbage-collector-with-net-core-eventpipes-9f2a986d5705)
