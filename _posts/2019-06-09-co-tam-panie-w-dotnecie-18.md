@@ -44,3 +44,7 @@ Ten nagłówek to nie dowcip. Jeszcze nie do końca wiadomo co z tego wyniknie, 
 
 * od TechCrunch: [https://techcrunch.com/2019/06/05/microsoft-and-oracle-link-up-their-clouds/](https://techcrunch.com/2019/06/05/microsoft-and-oracle-link-up-their-clouds/ "https://techcrunch.com/2019/06/05/microsoft-and-oracle-link-up-their-clouds/")
 * i od MS: [https://news.microsoft.com/2019/06/05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud/](https://news.microsoft.com/2019/06/05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud/ "https://news.microsoft.com/2019/06/05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud/")
+
+## Jak zmienił się świat
+
+Ostatnimi laty MS bardzo się zmienił. Jednym z ostatnich posunięć było przejęcie GitHub. Ale plan ten był już od 2014 roku. Microsoft nie był jednak na to gotowy. Całość historii o tym jak wróg numer 1, zaczął wygrywać wśród developerów można przeczytać na Bloomberg: [https://www.bloomberg.com/news/articles/2019-06-03/open-source-great-satan-no-more-microsoft-wins-over-skeptics](https://www.bloomberg.com/news/articles/2019-06-03/open-source-great-satan-no-more-microsoft-wins-over-skeptics "https://www.bloomberg.com/news/articles/2019-06-03/open-source-great-satan-no-more-microsoft-wins-over-skeptics") 
