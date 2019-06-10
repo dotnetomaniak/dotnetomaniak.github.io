@@ -35,3 +35,10 @@ Pozostałe artykuły na temat uwolnienia się z WCF, są też warte spojrzenia: 
 ## Blazor + Material Design = <3
 
 Cały czas nie mogę uwierzyć jak rozwija się Blazor. I mówiąc szczerze nadal traktuje go jako ciekawostkę. Pewnie któregoś dnia się to zmieni, patrząc na to co się dzieje wokół tego projektu. Tym razem komponenty w stylu Material Design do Blazor o nazwie idealnie pasującej: [MatBlazor](https://www.matblazor.com/)
+
+## Oracle i Microsoft łączą siły
+
+Ten nagłówek to nie dowcip. Jeszcze nie do końca wiadomo co z tego wyniknie, ale współpraca została ogłoszona. Połączenie jest w tematyce chmur, a dokładniej Oracle Cloud i Azure. Więcej w artykułach:
+
+* od TechCrunch: [https://techcrunch.com/2019/06/05/microsoft-and-oracle-link-up-their-clouds/](https://techcrunch.com/2019/06/05/microsoft-and-oracle-link-up-their-clouds/ "https://techcrunch.com/2019/06/05/microsoft-and-oracle-link-up-their-clouds/")
+* i od MS: [https://news.microsoft.com/2019/06/05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud/](https://news.microsoft.com/2019/06/05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud/ "https://news.microsoft.com/2019/06/05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud/")
