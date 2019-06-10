@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #18'
 date: 2019-06-09 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/hayden-walker-705539-unsplash.png"
 
 ---
 Nowości ze świata .NET edycja 18. W tym tygodniu stojąca pod znakiem ciekawostek drobnych, ale użytecznych na co dzień. No to co, zaczynamy? TAK!
