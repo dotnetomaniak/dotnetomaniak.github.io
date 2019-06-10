@@ -23,6 +23,13 @@ Więcej informacji dostępnych pod URL: [https://docs.microsoft.com/en-us/ef/cor
 
 Duży strach przed migracją do .NET Core to 2 skróty: WCF i WF. Jeżeli nie znasz ich to pewnie jesteś szczęśliwym człowiekiem :) Microsoft nadal nie zamierza ich przenosić na .NET Core, ale pojawiły się dwa projekty open-source, które mogą Cię wspomóc: Core WCF i Core WF. Więcej na ich temat (i minimalnym wsparciu) można przeczytać na stronie: [https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/](https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/ "https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/"). Dodatkowo .NET Foundation wita oba na swoim pokładzie: [https://dotnetfoundation.org/blog/2019/06/07/welcoming-core-wcf-to-the-net-foundation](https://dotnetfoundation.org/blog/2019/06/07/welcoming-core-wcf-to-the-net-foundation "https://dotnetfoundation.org/blog/2019/06/07/welcoming-core-wcf-to-the-net-foundation")
 
+## Alternatywa do WCF
+
+Mark Rendle na swoim blogu, pokazuje porównanie w użyciu gRPC oraz WCF. Patrzy pod rożnymi kątami i sprawdza jak można się migrować. Warto poczytać:
+
+* Odcinek 1 
+* Odcinek 2 - [https://unwcf.com/posts/wcf-vs-grpc-round-2/](https://unwcf.com/posts/wcf-vs-grpc-round-2/ "https://unwcf.com/posts/wcf-vs-grpc-round-2/")
+
 ## Blazor + Material Design = <3
 
 Cały czas nie mogę uwierzyć jak rozwija się Blazor. I mówiąc szczerze nadal traktuje go jako ciekawostkę. Pewnie któregoś dnia się to zmieni, patrząc na to co się dzieje wokół tego projektu. Tym razem komponenty w stylu Material Design do Blazor o nazwie idealnie pasującej: [MatBlazor](https://www.matblazor.com/)
