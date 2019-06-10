@@ -15,4 +15,10 @@ Druga wiadomość jest bardziej interesująca i dla niektórych może okazać si
 
 1. Dotychczas gdy EF nie umiał wykonać konwersji LINQ na SQL - kwerenda wykonywała się częściowo po stronie klienckiej. Najbardziej znany przykład do GROUP BY do wersji 2.1. Od wersji 3.0 w takiej sytuacji, będzie wyjątek w domyślnych ustawieniach.
 2. Funkcja `FromSQL` będzie zamieniona na `FromSqlRaw` i `FromSqlInterpolated`, by uniknąć niechcianych SQL injection
-3. 
+3. Zmiany dotyczące użycia getter i setter - w nowej wersji zostaną one pominięte i od razu zapis nastąpi do tzw. "backing field"
+
+Więcej informacji dostępnych pod URL: [https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.0/breaking-changes#query-types-are-consolidated-with-entity-types](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.0/breaking-changes#query-types-are-consolidated-with-entity-types "https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.0/breaking-changes#query-types-are-consolidated-with-entity-types")
+
+## Core WF i WCF
+
+Duży strach przed migracją do .NET Core to 2 skróty: WCF i WF. Jeżeli nie znasz ich to pewnie jesteś szczęśliwym człowiekiem :) Microsoft nadal nie zamierza ich przenosić na .NET Core, ale pojawiły się dwa projekty open-source, które mogą Cię wspomóc: Core WCF i Core WF. Więcej na ich temat (i minimalnym wsparciu) można przeczytać na stronie: [https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/](https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/ "https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/")
