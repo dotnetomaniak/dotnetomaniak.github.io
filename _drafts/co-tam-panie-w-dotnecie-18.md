@@ -32,6 +32,8 @@ Mark Rendle na swoim nowym blogu, pokazuje porównanie w użyciu gRPC oraz WCF. 
 
 Pozostałe artykuły na temat uwolnienia się z WCF, są też warte spojrzenia: [https://unwcf.com/](https://unwcf.com/ "https://unwcf.com/")
 
+A przy okazji gRPC to 4 czerwca zespół gRPC gościł w ASP.NET Community Standup: [https://www.youtube.com/watch?v=Pa6qtu1wIs8](https://www.youtube.com/watch?v=Pa6qtu1wIs8 "https://www.youtube.com/watch?v=Pa6qtu1wIs8")
+
 ## Blazor + Material Design = <3
 
 Cały czas nie mogę uwierzyć jak rozwija się Blazor. I mówiąc szczerze nadal traktuje go jako ciekawostkę. Pewnie któregoś dnia się to zmieni, patrząc na to co się dzieje wokół tego projektu. Tym razem komponenty w stylu Material Design do Blazor o nazwie idealnie pasującej: [MatBlazor](https://www.matblazor.com/)
