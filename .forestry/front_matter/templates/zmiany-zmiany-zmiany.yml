@@ -19,7 +19,6 @@ fields:
   name: header-img
   label: HEADER IMG
 pages:
-- _posts/co-tam-panie-w-dotnecie-18-1.md
 - _posts/2019-06-02-co-tam-panie-w-dotnecie-17.md
 - _posts/co-tam-panie-w-dotnecie-18.md
 - _posts/2019-04-28-co-tam-panie-w-dotnecie-12.md
