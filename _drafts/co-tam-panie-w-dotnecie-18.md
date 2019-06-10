@@ -25,10 +25,12 @@ Duży strach przed migracją do .NET Core to 2 skróty: WCF i WF. Jeżeli nie zn
 
 ## Alternatywa do WCF
 
-Mark Rendle na swoim blogu, pokazuje porównanie w użyciu gRPC oraz WCF. Patrzy pod rożnymi kątami i sprawdza jak można się migrować. Warto poczytać:
+Mark Rendle na swoim nowym blogu, pokazuje porównanie w użyciu gRPC oraz WCF. Patrzy pod rożnymi kątami i sprawdza jak można się migrować. Warto poczytać:
 
-* Odcinek 1 
+* Odcinek 1 - [https://unwcf.com/posts/wcf-vs-grpc/](https://unwcf.com/posts/wcf-vs-grpc/ "https://unwcf.com/posts/wcf-vs-grpc/")
 * Odcinek 2 - [https://unwcf.com/posts/wcf-vs-grpc-round-2/](https://unwcf.com/posts/wcf-vs-grpc-round-2/ "https://unwcf.com/posts/wcf-vs-grpc-round-2/")
+
+Pozostałe artykuły na temat uwolnienia się z WCF, są też warte spojrzenia: [https://unwcf.com/](https://unwcf.com/ "https://unwcf.com/")
 
 ## Blazor + Material Design = <3
 
