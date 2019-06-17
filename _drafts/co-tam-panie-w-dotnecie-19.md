@@ -35,7 +35,9 @@ Jedna z nowości w NET 3.0 to service workers. Jeżeli ktoś nie ma ochoty klika
 
 No właśnie cały rok planowania, commit do GitHub żeby ułożyć napis. Czy było warto oceńcie sami:
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">It has taken a _YEAR_ of carefully planned commits, but finally, my war on <a href="https://twitter.com/hashtag/fsharp?src=hash&amp;ref_src=twsrc%5Etfw">#fsharp</a> can begin. <a href="https://t.co/r12bDsuMoD">pic.twitter.com/r12bDsuMoD</a></p>&mdash; Joe Stead (@Joe_Stead) <a href="https://twitter.com/Joe_Stead/status/1139119246976409600?ref_src=twsrc%5Etfw">13 June 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">It has taken a _YEAR_ of carefully planned commits, but finally, my war on <a href="https://twitter.com/hashtag/fsharp?src=hash&ref_src=twsrc%5Etfw">#fsharp</a> can begin. <a href="https://t.co/r12bDsuMoD">pic.twitter.com/r12bDsuMoD</a></p>— Joe Stead (@Joe_Stead) <a href="https://twitter.com/Joe_Stead/status/1139119246976409600?ref_src=twsrc%5Etfw">13 June 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Tydzień podsumowania dotnetomaniaka
+## Tydzień dotnetomaniaka
+
+A na dotnetomaniaku w tym tygodniu 10 nowych artykułów. Tematyka jak zawsze bardzo różnorodna. Jest co poczytać: [https://dotnetomaniak.pl/weekly/2019/24](https://dotnetomaniak.pl/weekly/2019/24 "https://dotnetomaniak.pl/weekly/2019/24")
