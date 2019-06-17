@@ -40,4 +40,4 @@ No właśnie cały rok planowania, commit do GitHub żeby ułożyć napis. Czy b
 
 ## Tydzień dotnetomaniaka
 
-A na dotnetomaniaku w tym tygodniu 10 nowych artykułów. Tematyka jak zawsze bardzo różnorodna. Jest co poczytać: [https://dotnetomaniak.pl/weekly/2019/24](https://dotnetomaniak.pl/weekly/2019/24 "https://dotnetomaniak.pl/weekly/2019/24")
+A na dotnetomaniaku w tym tygodniu 10 nowych artykułów. Tematyka jak zawsze bardzo różnorodna. Od async-await, przez null-check, czy PR w Visual Studio, aż do ograniczeń w Cosmos DB. Jest co poczytać, więc serdecznie polecam: [https://dotnetomaniak.pl/weekly/2019/24](https://dotnetomaniak.pl/weekly/2019/24 "https://dotnetomaniak.pl/weekly/2019/24")
