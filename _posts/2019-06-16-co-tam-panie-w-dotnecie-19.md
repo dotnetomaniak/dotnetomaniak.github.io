@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #19'
 date: 2019-06-16 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/hack-capital-568971-unsplash.jpg"
 
 ---
 Edycja 19 podsumowania świata .NET. W tym tygodniu dominują ciekawostki, a petard jest mało :)
