@@ -26,3 +26,13 @@ Wersja preview 6 dotknęła w poprzednim tygodniu:
 ## Co może wejść w C# 9.0
 
 Na podstawie planowania C# na [GitHub](https://github.com/dotnet/csharplang/milestone/15) pojawił się artykuł z próbą zgadniecia jakie nowości czekają nas w następnej wersji C#. Moim zdaniem większość jest ukradziona z innych języków (głównie funkcyjnych). Przejrzeć warto, ale za bardzo bym się jeszcze nie przywiązywał: [https://www.c-sharpcorner.com/article/candidate-features-for-c-sharp-9/](https://www.c-sharpcorner.com/article/candidate-features-for-c-sharp-9/ "https://www.c-sharpcorner.com/article/candidate-features-for-c-sharp-9/")
+
+## Wprowadzenie do service workers
+
+Jedna z nowości w NET 3.0 to service workers. Jeżeli ktoś nie ma ochoty klikać samemu to artykuł w formacie "za-rączkę" ukazał się na medium. Nawet nie trzeba odpalać Visual Studio, żeby zobaczyć jak całość działa, gdyż wszystko jest na screen-shot: [https://medium.com/@nickgfane/introduction-to-worker-services-in-net-core-3-0-4bb3fc631225](https://medium.com/@nickgfane/introduction-to-worker-services-in-net-core-3-0-4bb3fc631225 "https://medium.com/@nickgfane/introduction-to-worker-services-in-net-core-3-0-4bb3fc631225")
+
+## Rok planowania żeby ...
+
+No właśnie cały rok planowania, commit do GitHub żeby ułożyć napis. Czy było warto oceńcie sami:
+
+## Tydzień podsumowania dotnetomaniaka
