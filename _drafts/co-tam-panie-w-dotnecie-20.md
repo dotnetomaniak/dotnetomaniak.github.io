@@ -15,7 +15,7 @@ Nie pozostało mi nic innego jak zaprosić Was na nową odsłonę: [https://dotn
 
 Przy okazji dotnetomaniak to już 404 strony. Jeżeli jesteś ciekaw co jest na ostatniej, a w zasadzie pierwszej to zapraszam: [https://dotnetomaniak.pl/404](https://dotnetomaniak.pl/404 "https://dotnetomaniak.pl/404")
 
-## Jak eweoluowała infrastruktura build NET Core
+## Jak ewoluowała infrastruktura build NET Core
 
 Niesamowity artykuł, choć mięsa trochę w nim brakuje. Pełna ewolucja jak powstawały repozytoria NET Core i jak ich "build" został zoptymalizowany. Jeżeli macie dużą solucję, którą budujecie na raz to można się zainspirować (chociaż trochę) jak zrobić to lepiej (albo chociaż inaczej). Ponieważ w kilku zdaniach tego artykułu streścić się nie da to zapraszam do źródła: [https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/ "https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/")
 
@@ -32,6 +32,16 @@ Udało mi się zainstalować nową konsolę od Microsoft. Na moim komputerze wyg
 Mówiąc szczerze to instalacja była dłuuuuggggaaaaa, ale jak widać zakończyła się szczęśliwie. Obiecuję, że napiszę o tym więcej następnym razem.
 
 Jeżeli chcesz zacząć sam (i spełniasz wymagania) to link do sklepu Windows jest: [https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab](https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab "https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab"), a jeżeli chcesz przeczytać więcej to [https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/](https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/ "https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/")
+
+## Wydajność w konwersji Guid na Base64 
+
+Steve Grodon jak zwykle w formie. Tym razem postanowił pochylić się nad poniższym kodem:
+
+    Convert.ToBase64String(_guid.ToByteArray()).Replace("/", "-").Replace("+", "_").Replace("=", "")
+
+Co z tego wynikło? Nie pozostaje Ci nic innego jak sprawdzić samemu: [https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid](https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid "https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid")
+
+p.s. Kod na pewno krótszy nie będzie 
 
 ## JWT i mapowanie
 
