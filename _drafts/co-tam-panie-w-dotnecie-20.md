@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #20'
 date: 2019-06-23 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/bernard-hermant-624964-unsplash.jpg"
 
 ---
 Dotrwaliśmy do 20 edycji podsumowania tygodnia. W związku z jubileuszem kilka bomb wewnętrznych i zewnętrznych. Zaczynamy za 3...2..1..JUŻ!
@@ -13,7 +13,7 @@ Dotrwaliśmy do 20 edycji podsumowania tygodnia. W związku z jubileuszem kilka 
 
 Nie pozostało mi nic innego jak zaprosić Was na nową odsłonę: [https://dotnetomaniak.pl](http://dotnetomaniak.pl "http://dotnetomaniak.pl") i mam szczerą nadzieję, że poza widokiem mobile nie zauważycie dużej różnicy.
 
-Przy okazji dotnetomaniak to już 404 strony. Jeżeli jesteś ciekaw co jest na ostatniej (czyli 
+Przy okazji dotnetomaniak to już 404 strony. Jeżeli jesteś ciekaw co jest na ostatniej, a w zasadzie pierwszej to zapraszam: [https://dotnetomaniak.pl/404](https://dotnetomaniak.pl/404 "https://dotnetomaniak.pl/404")
 
 ## Jak eweoluowała infrastruktura build NET Core
 
