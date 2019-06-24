@@ -45,7 +45,7 @@ p.s. Spoiler: Kod na pewno krótszy nie będzie
 
 ## Kryptografia w .NET
 
-Pełny opis (chyba) wszystkich rodzajów typów odpowiedzialnych za kryptografie w .NET. Co najważniejsze z rysunkami co jest czym. Jeżeli przygotowujesz się do rozmowy kwalifikacyjnej z tematyki .NET to na warto zajrzeć: [https://www.meziantou.net/cryptography-in-dotnet.htm](https://www.meziantou.net/cryptography-in-dotnet.htm "https://www.meziantou.net/cryptography-in-dotnet.htm")
+Pełny opis (chyba) wszystkich rodzajów typów odpowiedzialnych za kryptografie w .NET. Oczywiście wszystkich algorytmów nie ma. Najważniejsze, że poza teksem są proste i intuicyjne rysunki co jest czym. Jeżeli przygotowujesz się do rozmowy kwalifikacyjnej z tematyki .NET to na warto zajrzeć: [https://www.meziantou.net/cryptography-in-dotnet.htm](https://www.meziantou.net/cryptography-in-dotnet.htm "https://www.meziantou.net/cryptography-in-dotnet.htm")
 
 ## JWT i mapowanie
 
