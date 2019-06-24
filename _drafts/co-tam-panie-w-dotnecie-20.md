@@ -13,6 +13,8 @@ Dotrwaliśmy do 20 edycji podsumowania tygodnia. W związku z jubileuszem kilka 
 
 Nie pozostało mi nic innego jak zaprosić Was na nową odsłonę: [https://dotnetomaniak.pl](http://dotnetomaniak.pl "http://dotnetomaniak.pl") i mam szczerą nadzieję, że poza widokiem mobile nie zauważycie dużej różnicy.
 
+Przy okazji dotnetomaniak to już 404 strony. Jeżeli jesteś ciekaw co jest na ostatniej (czyli 
+
 ## Jak eweoluowała infrastruktura build NET Core
 
 Niesamowity artykuł, choć mięsa trochę w nim brakuje. Pełna ewolucja jak powstawały repozytoria NET Core i jak ich "build" został zoptymalizowany. Jeżeli macie dużą solucję, którą budujecie na raz to można się zainspirować (chociaż trochę) jak zrobić to lepiej (albo chociaż inaczej). Ponieważ w kilku zdaniach tego artykułu streścić się nie da to zapraszam do źródła: [https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/](https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/ "https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/")
