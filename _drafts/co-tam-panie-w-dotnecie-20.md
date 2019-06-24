@@ -43,6 +43,10 @@ Co z tego wynikło? Nie pozostaje Ci nic innego jak sprawdzić samemu: [https://
 
 p.s. Spoiler: Kod na pewno krótszy nie będzie 
 
+## Kryptografia w .NET
+
+Pełny opis (chyba) wszystkich rodzajów typów odpowiedzialnych za kryptografie w .NET. Co najważniejsze z rysunkami co jest czym. Jeżeli przygotowujesz się do rozmowy kwalifikacyjnej z tematyki .NET to na warto zajrzeć: [https://www.meziantou.net/cryptography-in-dotnet.htm](https://www.meziantou.net/cryptography-in-dotnet.htm "https://www.meziantou.net/cryptography-in-dotnet.htm")
+
 ## JWT i mapowanie
 
 Przy okazji trafiłem na krótki, ale treściwy artykuł na temat mapowania claim w JWT w NET Core. Rok temu dałbym się za niego zastrzelić. Teraz wiedziałem już wszystko. Ale mam nadzieję, że Tobie się przyda i nie będziesz zrzucał mięsem jak ja, szukając jak to zrobić. Bo sama robota to 5 minut: [https://mderriey.com/2019/06/23/where-are-my-jwt-claims/](https://mderriey.com/2019/06/23/where-are-my-jwt-claims/ "https://mderriey.com/2019/06/23/where-are-my-jwt-claims/")
