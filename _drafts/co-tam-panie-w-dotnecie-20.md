@@ -21,7 +21,7 @@ Udało mi się zainstalować nową konsolę od Microsoft. Na moim komputerze wyg
 
 Mówiąc szczerze to instalacja była dłuuuuggggaaaaa, ale jak widać zakończyła się szczęśliwie. Obiecuję, że napiszę o tym więcej następnym razem.
 
-Jeżeli chcesz zacząć sam (i spełniasz wymagania) to link do sklepu Windows jest: [https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab](https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab "https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab")
+Jeżeli chcesz zacząć sam (i spełniasz wymagania) to link do sklepu Windows jest: [https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab](https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab "https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab"), a jeżeli chcesz przeczytać więcej to [https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/](https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/ "https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/")
 
 ## Tydzień dotnetomaniaka
 
