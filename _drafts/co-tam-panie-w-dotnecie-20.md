@@ -41,7 +41,7 @@ Steve Grodon jak zwykle w formie. Tym razem postanowił pochylić się nad poni�
 
 Co z tego wynikło? Nie pozostaje Ci nic innego jak sprawdzić samemu: [https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid](https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid "https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guid")
 
-Spoiler: Kod na pewno krótszy nie będzie 
+p.s. Spoiler: Kod na pewno krótszy nie będzie 
 
 ## JWT i mapowanie
 
