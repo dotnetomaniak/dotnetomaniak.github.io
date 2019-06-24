@@ -9,7 +9,7 @@ Dotrwaliśmy do 20 edycji podsumowania tygodnia. W związku z jubileuszem kilka 
 
 ## Nowy dotnetomaniak
 
-[Mateusz Wiatrzyk](https://www.linkedin.com/in/mateusz-wiatrzyk-91637516b/) wykonał dużą pracę u podstaw naszego portalu. Zrobił upgrade większości bibliotek frontendowych oraz "ułożył" portal jeszcze raz używając Bootstrap. Dana wydania nowego portalu to 21:37 w środę przed długim weekendem. Choć mówi się że nie robi się release tuż przed weekendem, akurat w tym przypadku termin idealny - mniejszy ruch, obaj mieliśmy więcej czasu, itd.
+[Mateusz Wiatrzyk](https://www.linkedin.com/in/mateusz-wiatrzyk-91637516b/) wykonał dużą pracę u podstaw naszego portalu. Zrobił upgrade większości bibliotek frontendowych oraz "ułożył" portal jeszcze raz używając Bootstrap. Dana wydania nowego portalu to 21:37 w środę przed długim weekendem. Choć mówi się że nie robi się release tuż przed weekendem, akurat w tym przypadku termin idealny - mniejszy ruch, obaj mieliśmy więcej czasu, itd
 
 Nie pozostało mi nic innego jak zaprosić Was na nową odsłonę: [https://dotnetomaniak.pl](http://dotnetomaniak.pl "http://dotnetomaniak.pl") i mam szczerą nadzieję, że poza widokiem mobile nie zauważycie dużej różnicy.
 
