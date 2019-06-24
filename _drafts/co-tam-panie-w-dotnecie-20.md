@@ -15,8 +15,14 @@ Nie pozostało mi nic innego jak zaprosić Was na nową odsłonę: [https://dotn
 
 ## Nowa konsola już jest
 
-Udało mi się zainstalować nową konsolę od Microsoft
+Udało mi się zainstalować nową konsolę od Microsoft. Na moim komputerze wygląda ona tak:
+
+![](/images/content/cmd.png)
+
+Mówiąc szczerze to instalacja była dłuuuuggggaaaaa, ale jak widać zakończyła się szczęśliwie. Obiecuję, że napiszę o tym więcej następnym razem.
+
+Jeżeli chcesz zacząć sam (i spełniasz wymagania) to link do sklepu Windows jest: [https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab](https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab "https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab")
 
 ## Tydzień dotnetomaniaka
 
-Jeżeli powyższy link Cię nie skusił to może chociaż podsumowanie tygodnia Cię zachęci. Dużo się nie działo - wiadomo długi weekend, ale 7 artykułów jest. Przy okazji polecam serię o Code reviews, która bardzo wpadła mi w oko: [https://dotnetomaniak.pl/weekly/2019/25](https://dotnetomaniak.pl/weekly/2019/25 "https://dotnetomaniak.pl/weekly/2019/25")
+Jeżeli link do strony głównej Cię nie skusił to może chociaż podsumowanie tygodnia Cię zachęci. Dużo się nie działo - wiadomo długi weekend, ale 7 artykułów jest. Przy okazji polecam serię o Code reviews, która bardzo wpadła mi w oko: [https://dotnetomaniak.pl/weekly/2019/25](https://dotnetomaniak.pl/weekly/2019/25 "https://dotnetomaniak.pl/weekly/2019/25")
