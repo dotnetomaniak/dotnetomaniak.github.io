@@ -2,7 +2,7 @@
 layout: post
 title: Windows Terminal
 date: 2019-06-25 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/cmd.png"
 
 ---
 W ostatnim [podsumowaniu tygodnia](https://blog.dotnetomaniak.pl/co-tam-panie-w-dotnecie-20/) pochwaliłem się, że udało mi się zainstalować nowy _Windows Terminal (Preview)_. Przy okazji czemu wszystko w dzisiejszych czasach musi być preview? Nie wiem, ale instalacja tego cuda prosta nie była.
@@ -62,3 +62,20 @@ I mamy następujące "combo":
 A jeszcze jedno, jeżeli chcecie ukryć duży textbox do wyszukiwania obok przycisku start to trzeba kliknąć to:
 
 ![](/images/content/windows-dark-mode-settings2.jpg)
+
+## No to instalujemy Terminal
+
+I po całej tej zabawie nareszcie możemy zainstalować Windows Terminal (Preview) ze sklepu. Jeżeli ktoś nie zapamiętał linka to podaję go jeszcze raz: [https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701](https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701 "https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701")
+
+Po instalacji istnieją następujące możliwości (o ile je macie zainstalowane):
+
+* cmd - to na pewno macie
+* PowerShell - to też
+* PowerShell 6 - o ile go ściągneliście
+* Różne Linux - o ile macie WSL (albo nawet i WSL2) - ja nie mam więc mi się nie pojawiło, bo czekam na oficjalne WSL2
+
+Do tego mega opcją są settings, które są zwykłym JSON. Można wybrać, kolejność, tło, przezroczystość, katalog "startowy" i inne. Używam już prawie tydzień i powiem, że jestem zadowolony. A wygląda on u mnie tak:
+
+![](/images/content/cmd.png)
+
+I to by było na tyle.
