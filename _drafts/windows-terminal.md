@@ -32,3 +32,27 @@ Jak wejdziecie do sklepu to waszym oczom ukaże się:
 ![](/images/content/terminal-store.jpg)
 
 Pewnie tak jak ja (i kilku moich kolegów) naciśniecie szybko **Get** i wiecie co? Najprawdopodobniej, NIC się nie stanie. Dlaczego tak jest? Polecam zakładkę System Requirements, która u mnie wyglądała tak:
+
+![](/images/content/terminal-store1.jpg)
+
+No właśnie potrzebny jest build Windows 10 o numerze 18362 lub wyższej - czyli mówiąc wprost majowy update (numerek kodowy 1903)
+
+## Update do 18362
+
+Macie teraz trochę czasu? To puszczajcie ściąganie. W zależności od internetu chwilę to zajmie. Ja mam wolny, więc zajęło to długo, ale kolegom w pracy poszło już szybciej. Niestety instalacja tego update może zając do 90 minut. Tak instalacja, nie samo ściąganie. Nawet jest to napisane gdy komputer jest gotowy do instalacji:
+
+![](/images/content/terminal-update-windows2.jpg)
+
+No nic, trudno się mówi czego się nie zrobi dla nowego terminala.
+
+A co daje ten update poza terminalem? Jedną wspaniała rzecz. Tak zwany "dark mode", dzięki któremu na przykład explorator wygląda tak:
+
+![](/images/content/windows-dark-mode.jpg)
+
+Jak by ktoś miał problem po instalacji z odszukaniem tej opcji to ścieżka jest następująca:
+
+* Wpisujemy w wyszukiwarkę czy tam start: "Themes"
+* Wybieramy "Themes and related settings"
+* Potem Color
+
+I mamy następujące "combo"
