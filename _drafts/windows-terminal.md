@@ -27,4 +27,8 @@ Po drugie jest Windows Store: [https://www.microsoft.com/pl-pl/p/windows-termina
 
 (przepraszam nie mogłem się powstrzymać)
 
-Jak wejdziecie do sklepu i naciśniecie przycisk "GET"
+Jak wejdziecie do sklepu to waszym oczom ukaże się: 
+
+![](/images/content/terminal-store.jpg)
+
+Pewnie tak jak ja (i kilku moich kolegów) naciśniecie szybko **Get** i wiecie co? Najprawdopodobniej, NIC się nie stanie. Dlaczego tak jest? Polecam zakładkę System Requirements, która u mnie wyglądała tak:
