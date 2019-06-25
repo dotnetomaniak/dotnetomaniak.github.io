@@ -55,4 +55,10 @@ Jak by ktoś miał problem po instalacji z odszukaniem tej opcji to ścieżka je
 * Wybieramy "Themes and related settings"
 * Potem Color
 
-I mamy następujące "combo"
+I mamy następujące "combo":
+
+![](/images/content/windows-dark-mode-settings.jpg)
+
+A jeszcze jedno, jeżeli chcecie ukryć duży textbox do wyszukiwania obok przycisku start to trzeba kliknąć to:
+
+![](/images/content/windows-dark-mode-settings2.jpg)
