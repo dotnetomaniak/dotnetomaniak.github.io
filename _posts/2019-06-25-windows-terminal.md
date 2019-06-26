@@ -11,7 +11,7 @@ Jeżeli masz ochotę mieć go u siebie to zapraszam, zaoszczędzę Ci chwili dra
 
 ## Skąd?
 
-Opcje są dwie. Po pierwsze jest GitHub, ale jak tylko się pojawił terminal to próbowałem go skompilować i prosto nie było. Teraz może jest łatwiej, ale wolę gotowca. 
+Opcje są dwie. Po pierwsze jest GitHub, ale jak tylko się pojawił terminal to próbowałem go skompilować i prosto nie było. Teraz może jest łatwiej, ale wolę gotowca.
 
 Po drugie jest Windows Store: [https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701](https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701 "https://www.microsoft.com/pl-pl/p/windows-terminal-preview/9n0dx20hk701"). Link łatwy do zapamiętania bo:
 
@@ -27,7 +27,7 @@ Po drugie jest Windows Store: [https://www.microsoft.com/pl-pl/p/windows-termina
 
 (przepraszam nie mogłem się powstrzymać)
 
-Jak wejdziecie do sklepu to waszym oczom ukaże się: 
+Jak wejdziecie do sklepu to waszym oczom ukaże się:
 
 ![](/images/content/terminal-store.jpg)
 
@@ -77,5 +77,7 @@ Po instalacji istnieją następujące możliwości (o ile je macie zainstalowane
 Do tego mega opcją są settings, które są zwykłym JSON. Można wybrać, kolejność, tło, przezroczystość, katalog "startowy" i inne. Używam już prawie tydzień i powiem, że jestem zadowolony. A wygląda on u mnie tak:
 
 ![](/images/content/cmd.png)
+
+![](/images/content/terminal.png)
 
 I to by było na tyle.
