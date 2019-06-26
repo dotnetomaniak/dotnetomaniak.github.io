@@ -74,10 +74,12 @@ Po instalacji istnieją następujące możliwości (o ile je macie zainstalowane
 * PowerShell 6 - o ile go ściągneliście
 * Różne Linux - o ile macie WSL (albo nawet i WSL2) - ja nie mam więc mi się nie pojawiło, bo czekam na oficjalne WSL2
 
-Do tego mega opcją są ustawienia, które są zwykłym JSON. Można wybrać, kolejność, tło, przezroczystość, katalog "startowy" i inne. Używam już prawie tydzień i powiem, że jestem zadowolony. A wygląda on u mnie tak:
+Do tego mamy zwykły JSON z ustawieniami (czytać Settings). Można wybrać, kolejność, tło, przezroczystość, katalog "startowy" i inne. Chwilę się pobawiłem i jest "tak jak lubię"
+
+Podsumowując używam już prawie tydzień i powiem, że jestem zadowolony. A wygląda on u mnie tak:
 
 ![](/images/content/cmd.png)
 
 ![](/images/content/terminal.png)
 
-I to by było na tyle.
+I to by było na tyle. Dużo bólu w instalacji, ale potem już jest spoko. No i dark-mode w Explorer wymiata jako bonus do całości ;)
