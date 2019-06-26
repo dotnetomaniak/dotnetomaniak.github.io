@@ -21,7 +21,7 @@ Po drugie jest Windows Store: [https://www.microsoft.com/pl-pl/p/windows-termina
 * d - jak d...obrze że już jest
 * x - wiadomo X zawsze powoduje, że jest lepiej
 * 20 - była taka piosenka - ja mam 20 lat, ty masz 20 lat, a dotnet zaraz będzie mieć 20 lat
-* hk - to jakiś skrót ale nie wiem jaki
+* hk - <del>to jakiś skrót ale nie wiem jaki</del>
 * 701 - tutaj prosto o ile mieszkacie/mieszkaliście w gminie Izabelin. 701 to autobus, który zawsze tu dojeżdżał, ale w tym roku zmienili mu nazwę na 210.
 * no a sam początek można zgadnąć ;)
 
