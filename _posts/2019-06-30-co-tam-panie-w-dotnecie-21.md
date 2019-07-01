@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #21'
 date: 2019-06-30 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/jens-johnsson-n-6dDxFI7xc-unsplash.jpg"
 
 ---
 W tym tygodniu bomba, bo MS upublicznił jądro. Do tego dowcip tygodnia, zaproszenie na darmowy warsztat, długi artykuł na temat wersjonowania, migracja WPF i to nie wszystko. Gotowi? Można zaczynać? No to jedziemy z koksem!
