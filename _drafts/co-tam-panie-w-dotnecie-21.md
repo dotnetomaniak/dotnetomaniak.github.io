@@ -19,7 +19,11 @@ Ale bądźmy szczerzy - frajda jest. Szczegóły na GitHub: [https://github.com/
 
 ## Darmowe szkolenie z Kubernetes
 
-Razem z 
+Lato to dobry czas na poznanie nowej technologii, a Kubernetes aktualnie staje się "trendy". Ma on jednak jedną wadę - wejście i zrozumienie technologii nie jest robotą na 5 minut.  
+Dlatego właśnie razem z Łukaszem Kałużnym i Jakubem Gutkowskim chcielibyśmy zaprosić Was na darmowe szkolenie, które odbędzie się 20 lipca w Warszawie (taa wiem Warszawa - beznadzieja, ale jest nam najbliżej).   
+Szkolenie, a w zasadzie warsztat w wersji od podstaw, by spróbować zrozumieć o co chodzi w tej technologii. Takie pierwsze z nią spotkanie z punktu widzenia programistów.  
+W tej chwili zbieramy zainteresowanych i jeżeli zapiszesz się to obiecujemy poinformować Cię w pierwszej kolejności.  
+Strona z zapisami to [http://kursk8s.pl](http://kursk8s.pl "http://kursk8s.pl") a więcej szczegółów jest też u Łukasza na blogu: [https://kaluzny.io/letni-warsztat-z-podstaw-kubernetesa/](https://kaluzny.io/letni-warsztat-z-podstaw-kubernetesa/ "https://kaluzny.io/letni-warsztat-z-podstaw-kubernetesa/")
 
 ## Jak migrować do .NET Core aplikację desktop (WPF)?
 
