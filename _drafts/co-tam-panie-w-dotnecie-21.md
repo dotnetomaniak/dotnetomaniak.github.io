@@ -27,4 +27,9 @@ Jeżeli macie aplikację w WPF, to moim zdaniem warto sprawdzić. Może części
 
 W tym wydaniu 2 kolejne artykuły w tematyce wydajnościowej:
 
-* Co jak i dlaczego w temacie tablica obiektów konta tablica struktur: [http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/](http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/ "http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/")
+* Co jak i dlaczego w temacie tablica obiektów konta tablica struktur: [http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/](http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/ "http://cultureofdevelopment.com/blog/how-we-sped-up-random-forest-processing-lots-of-common-performance-patterns/"). Bonusem jest kod źródłowy oraz wcześniejszy artykuł w serii
+* Czysty clickbait czyli 10 najlepszych praktyk jak naprawiać i unikać problemów wydajnościowych: [https://michaelscodingspot.com/performance-problems-in-csharp-dotnet/?](https://michaelscodingspot.com/performance-problems-in-csharp-dotnet/? "https://michaelscodingspot.com/performance-problems-in-csharp-dotnet/?")
+
+## Dowcip tygodnia
+
+Trafiłem na to video przypadkiem i nie mogę się powstrzymać, żeby go nie umieścić:
