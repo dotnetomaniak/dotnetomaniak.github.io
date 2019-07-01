@@ -5,6 +5,8 @@ date: 2019-06-30 22:00:00 +0000
 header-img: ''
 
 ---
+W tym tygodniu bomba, bo MS upublicznił jądro. Do tego dowcip tygodnia, zaproszenie na darmowy warsztat, długi artykuł na temat wersjonowania, migracja WPF i to nie wszystko. Gotowi? Można zaczynać? No to jedziemy z koksem!
+
 ## Microsoft upublicznił jądro systemu
 
 Pamiętacie taki stary dowcip z cyklu radio Erewań:
@@ -53,3 +55,7 @@ Trafiłem na to video przypadkiem i nie mogę się powstrzymać, żeby go nie um
 \#Linux #Programming #coding #softwaretesting #softwaredevelopment  #webdesign #webdeveloper #sysadmins #Network #engineer #coderslife #programmer #programmerlife #python</p>Posted by <a href="https://www.facebook.com/TecMint/">Linux Inside</a> on Tuesday, April 30, 2019</blockquote></div>
 
 ## Tydzień dotnetomaniaka
+
+W tym tygodniu aź 11 artykułów. Tematy miękkie (np: Czy B2B się opłaca?) i twarde (np: Jak zrobić porządek z branchami). Jest nawet wpis autorski o nowym terminalu w Windows - jak go uruchomić u siebie.
+
+Nie pozostało mi nic innego jak tylko serdecznie zaprosić: [https://dotnetomaniak.pl/weekly/2019/26](https://dotnetomaniak.pl/weekly/2019/26 "https://dotnetomaniak.pl/weekly/2019/26")
