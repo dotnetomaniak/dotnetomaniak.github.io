@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #22'
 date: 2019-07-07 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/nihon-graphy-nCvi-gS5r88-unsplash.jpg"
 
 ---
 22 edycja podsumowania tygodnia. Tym razem mamy wakacje w pełni i może się wydawać, że `cicho wszędzie, głucho wszędzie`. Ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. Zapraszam Cię do czytania
