@@ -39,4 +39,4 @@ To nie żart. Na Twitter MS, pojawiło się bardzo dużo zachęt do zakupu Windo
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Be a part of the computing revolution and get your copy of Windows 1.0 today! <a href="https://t.co/VJzgYnfEvB">pic.twitter.com/VJzgYnfEvB</a></p>— Windows (@Windows) <a href="https://twitter.com/Windows/status/1146456110917914624?ref_src=twsrc%5Etfw">3 July 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). Teorii jak na razie jest kilka
+Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). Teorii jak na razie jest kilka - rocznica Windows 1.0, współpraca z Netflix (premiera Stranger Things 3), i kilka innych. Co to jest naprawdę zobaczymy.
