@@ -48,3 +48,5 @@ To nie żart. Na Twitter MS, pojawiło się bardzo dużo zachęt do zakupu Windo
 Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). Teorii jak na razie jest kilka - rocznica Windows 1.0, współpraca z Netflix (premiera Stranger Things 3), i kilka innych. Co to jest naprawdę zobaczymy.
 
 ## Tydzień dotnetomaniaka
+
+A u nas w polskiej blogosferze 9 artykułów, czyli wakacje w pełni. Ale tematy bardzo interesujące od pytań rekrutacyjnych, aż do ORMów. Akurat do poczytania w przerwie: [https://dotnetomaniak.pl/weekly/2019/27](https://dotnetomaniak.pl/weekly/2019/27 "https://dotnetomaniak.pl/weekly/2019/27")
