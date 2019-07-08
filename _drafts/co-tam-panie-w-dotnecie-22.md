@@ -5,6 +5,7 @@ date: 2019-07-07 22:00:00 +0000
 header-img: ''
 
 ---
+
 ## PooledAwait
 
 Marc Gravell wpadł na genialny pomysł jak lekko oszukać publiczne API C# i uzyskać `PooledAwait` za pomocą `PooledValueTask`, który jest szczególnym przypadkiem `ValueTask`.  Dzięki takiemu zabiegowi, chce on uzyskać zero alokacji przy "niekompletnym" async/await. Udało się? Oceńcie sami, a po szczegóły (no i kod) zapraszam Was na Github Marka: [https://github.com/mgravell/PooledAwait](https://github.com/mgravell/PooledAwait "https://github.com/mgravell/PooledAwait")
@@ -32,6 +33,10 @@ Bardzo ciekawa opowieść (lepiej pasuje war-story) o tym jak zwiększyła się 
 Jak chcecie poznać CLI do ML.NET to chyba najprostszy sposób:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjPRn3NRTvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Co jest czym w CosmosDB
+
+CosmosDB łatwe w obsłudze nie jest. Chociaż powinienem napisać inaczej: łatwe jest ale czasem rachunek zaskakuje dość mocno. Dla osób, które mają w planach używanie tej bazy, albo już używają i chcą wiedzieć czym naprawdę jest to RTU, mogę polecić ładną graficzną formę. Wystarczy odwiedzić ten adres: [https://azurecosmosdb.github.io/CosmicNotes](https://azurecosmosdb.github.io/CosmicNotes "https://azurecosmosdb.github.io/CosmicNotes")
 
 ## Microsoft zachęca do Windows 1.0 (jeden-kropka-zero)
 
