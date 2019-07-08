@@ -5,7 +5,9 @@ date: 2019-07-07 22:00:00 +0000
 header-img: "/images/content/nihon-graphy-nCvi-gS5r88-unsplash.jpg"
 
 ---
-22 edycja podsumowania tygodnia. Tym razem mamy wakacje w pełni i może się wydawać, że _cicho wszędzie, głucho wszędzie_ jak to pisał Adam M. Ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. Zapraszam Cię do czytania
+22 edycja podsumowania tygodnia. Tym razem mamy wakacje w pełni i może się wydawać, że _cicho wszędzie, głucho wszędzie_ jak to pisał Adam M. 
+
+Ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. Zapraszam Cię do czytania
 
 ## PooledAwait
 
