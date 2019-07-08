@@ -33,4 +33,10 @@ Jak chcecie poznać CLI do ML.NET to chyba najprostszy sposób:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjPRn3NRTvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## d
+## Microsoft zachęca do Windows 1.0 (jeden-kropka-zero)
+
+To nie żart. Na Twitter MS, pojawiło się bardzo dużo zachęt do zakupu Windows 1.0 - nie 10 tylko 1.0. Spójrzcie sami:
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Be a part of the computing revolution and get your copy of Windows 1.0 today! <a href="https://t.co/VJzgYnfEvB">pic.twitter.com/VJzgYnfEvB</a></p>— Windows (@Windows) <a href="https://twitter.com/Windows/status/1146456110917914624?ref_src=twsrc%5Etfw">3 July 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). Teorii jak na razie jest kilka
