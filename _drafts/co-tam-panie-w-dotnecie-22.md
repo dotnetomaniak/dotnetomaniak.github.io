@@ -26,3 +26,11 @@ I co bać się? Czy może już cieszyć? Strach czy radość sugeruję przeczyta
 ## 25 tys inżynierów MS na GitHub
 
 Bardzo ciekawa opowieść (lepiej pasuje war-story) o tym jak zwiększyła się kontrybucja Microsoft na GitHub. Od 2 tysięcy do 25 tysięcy inżynierów. Można poczytać o wszystkim, czego użyli i używają do dziś. Polecam szczególnie, że pochodzi to z "wewnętrznego kręgu": [https://jeffwilcox.blog/2019/06/scaling-25k](https://jeffwilcox.blog/2019/06/scaling-25k "https://jeffwilcox.blog/2019/06/scaling-25k")
+
+## Video wprowadzenie do ML.NET CLI
+
+Jak chcecie poznać CLI do ML.NET to chyba najprostszy sposób:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjPRn3NRTvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## d
