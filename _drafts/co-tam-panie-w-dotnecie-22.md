@@ -9,9 +9,9 @@ header-img: ''
 
 Marc Gravell wpadł na genialny pomysł jak lekko oszukać publiczne API C# i uzyskać `PooledAwait` za pomocą `PooledValueTask`, który jest szczególnym przypadkiem `ValueTask`.  Dzięki takiemu zabiegowi, chce on uzyskać zero alokacji przy "niekompletnym" async/await. Udało się? Oceńcie sami, a po szczegóły (no i kod) zapraszam Was na Github Marka: [https://github.com/mgravell/PooledAwait](https://github.com/mgravell/PooledAwait "https://github.com/mgravell/PooledAwait")
 
-##  F# VS. C# czyli clickbait w natarciu
+## F# VS. C# czyli clickbait w natarciu
 
-Artykuł jest stary ma już ponad 2 lata, jednak akurat dla mnie jest on nowością. Nigdy wcześniej na niego nie trafiłem. 
+Artykuł jest stary ma już ponad 2 lata, jednak akurat dla mnie jest on nowością. Nigdy wcześniej na niego nie trafiłem.
 
 Artykuł został u nas w firmie wrzucony z następującymi zdaniami:
 
