@@ -5,6 +5,8 @@ date: 2019-07-07 22:00:00 +0000
 header-img: ''
 
 ---
+## 
+
 ## F# VS. C# czyli clickbait w natarciu
 
 Artykuł jest stary ma już ponad 2 lata, jednak akurat dla mnie jest on nowością. Nigdy wcześniej na niego nie trafiłem. 
@@ -18,3 +20,7 @@ oraz
 > **This time F# is almost 15 times slower than C#**
 
 I co bać się? Czy może już cieszyć? Strach czy radość sugeruję przeczytać do końca i nie przerywać w trakcie. Dotyczy to zarówno zwolenników jak i przeciwników: [http://www.ybouglouan.pl/2017/04/fsharp-vs-charp-performance-comparison-with-benchmarkdotnet/](http://www.ybouglouan.pl/2017/04/fsharp-vs-charp-performance-comparison-with-benchmarkdotnet/ "http://www.ybouglouan.pl/2017/04/fsharp-vs-charp-performance-comparison-with-benchmarkdotnet/")
+
+## 25 tys inżynierów MS na GitHub
+
+Bardzo ciekawa opowieść (lepiej pasuje war-story) o tym jak zwiększyła się kontrybucja Microsoft na GitHub. Od 2 tysięcy do 25 tysięcy inżynierów. Można poczytać o wszystkim, czego użyli i używają do dziś. Polecam szczególnie, że pochodzi to z "wewnętrznego kręgu": [https://jeffwilcox.blog/2019/06/scaling-25k](https://jeffwilcox.blog/2019/06/scaling-25k "https://jeffwilcox.blog/2019/06/scaling-25k")
