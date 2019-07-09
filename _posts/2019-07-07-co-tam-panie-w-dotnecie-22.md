@@ -47,7 +47,9 @@ CosmosDB łatwe w obsłudze nie jest. Chociaż powinienem napisać inaczej: łat
 
 To nie żart. Na Twitter MS, pojawiło się bardzo dużo wiadomości na temat Windows 1.0 - nie 10 tylko 1.0. Spójrzcie sami:
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Be a part of the computing revolution and get your copy of Windows 1.0 today! <a href="https://t.co/VJzgYnfEvB">pic.twitter.com/VJzgYnfEvB</a></p>— Windows (@Windows) <a href="https://twitter.com/Windows/status/1146456110917914624?ref_src=twsrc%5Etfw">3 July 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Introducing the all-new Windows 1.0, with MS-Dos Executive, Clock, and more!! 😲 💾 <a href="https://t.co/guU4QxwsGG">pic.twitter.com/guU4QxwsGG</a></p>&mdash; Windows (@Windows) <a href="https://twitter.com/Windows/status/1145731141695168512?ref_src=twsrc%5Etfw">1 July 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). 
 
