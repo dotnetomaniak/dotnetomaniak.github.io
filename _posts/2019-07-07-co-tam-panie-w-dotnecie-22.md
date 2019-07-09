@@ -5,7 +5,9 @@ date: 2019-07-07 22:00:00 +0000
 header-img: "/images/content/nihon-graphy-nCvi-gS5r88-unsplash.jpg"
 
 ---
-22 edycja. Tym razem mamy wakacje w pełni i może się wydawać, że _cicho wszędzie, głucho wszędzie_ jak to pisał Adam M. A tu proszę wszystko już wiadomo o najnowszej wersji Windows! A do tego, ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. 
+22 edycja. Tym razem mamy wakacje w pełni i może się wydawać, że _cicho wszędzie, głucho wszędzie_ jak to pisał Adam M. 
+
+A tu proszę wszystko już wiadomo o najnowszej wersji Windows! A do tego, ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. 
 
 Zapraszam Cię do czytania
 
