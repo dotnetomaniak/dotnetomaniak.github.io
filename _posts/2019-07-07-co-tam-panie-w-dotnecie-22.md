@@ -5,9 +5,9 @@ date: 2019-07-07 22:00:00 +0000
 header-img: "/images/content/nihon-graphy-nCvi-gS5r88-unsplash.jpg"
 
 ---
-22 edycja podsumowania tygodnia. Tym razem mamy wakacje w pełni i może się wydawać, że _cicho wszędzie, głucho wszędzie_ jak to pisał Adam M. 
+22 edycja. Tym razem mamy wakacje w pełni i może się wydawać, że _cicho wszędzie, głucho wszędzie_ jak to pisał Adam M. A tu proszę wszystko już wiadomo o najnowszej wersji Windows! A do tego, ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. 
 
-Ku mojemu własnemu zaskoczeniu, sporo wiadomości ze świata .NET w tym tygodniu wykopałem. Zapraszam Cię do czytania
+Zapraszam Cię do czytania
 
 ## PooledAwait
 
@@ -41,13 +41,15 @@ Jak chcecie poznać CLI do ML.NET to chyba najprostszy sposób:
 
 CosmosDB łatwe w obsłudze nie jest. Chociaż powinienem napisać inaczej: łatwe jest ale czasem rachunek zaskakuje dość mocno. Dla osób, które mają w planach używanie tej bazy, albo już używają i chcą wiedzieć czym naprawdę jest to RTU, mogę polecić ładną graficzną formę. Wystarczy odwiedzić ten adres: [https://azurecosmosdb.github.io/CosmicNotes](https://azurecosmosdb.github.io/CosmicNotes "https://azurecosmosdb.github.io/CosmicNotes")
 
-## Microsoft zachęca do Windows 1.0 (jeden-kropka-zero)
+## Nowy Windows już jest do pobrania!
 
-To nie żart. Na Twitter MS, pojawiło się bardzo dużo zachęt do zakupu Windows 1.0 - nie 10 tylko 1.0. Spójrzcie sami:
+To nie żart. Na Twitter MS, pojawiło się bardzo dużo wiadomości na temat Windows 1.0 - nie 10 tylko 1.0. Spójrzcie sami:
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Be a part of the computing revolution and get your copy of Windows 1.0 today! <a href="https://t.co/VJzgYnfEvB">pic.twitter.com/VJzgYnfEvB</a></p>— Windows (@Windows) <a href="https://twitter.com/Windows/status/1146456110917914624?ref_src=twsrc%5Etfw">3 July 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). Teorii jak na razie jest kilka - rocznica Windows 1.0, współpraca z Netflix (premiera Stranger Things 3), i kilka innych. Co to jest naprawdę zobaczymy.
+Więcej można obejrzeć na pełnym profilu: [https://twitter.com/Windows](https://twitter.com/Windows "https://twitter.com/Windows"). 
+
+I do wczoraj spekulacje były różne, ale już wiadomo. W USA można pobrać "najnowszy" system operacyjny 1.11 z Microsoft Store: [https://www.microsoft.com/en-us/p/windows-111/9pghpx7zmjrc](https://www.microsoft.com/en-us/p/windows-111/9pghpx7zmjrc "https://www.microsoft.com/en-us/p/windows-111/9pghpx7zmjrc"). Niestety w Polsce wersja jeszcze nie jest dostępna. A wszystko we współpracy z Netflix i serialem Stranger Things. 
 
 ## Tydzień dotnetomaniaka
 
