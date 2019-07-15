@@ -24,4 +24,15 @@ A teraz prawda: szybszy. I twierdzi to MS we współpracy z RedHat. I choć brzm
 
 Zysk 6% to naprawdę DUŻO! A przy Linux (oczywiście nie Red Hat) są spore szanse na obniżenie kosztów :)
 
+Jak już jesteśmy w tematyce SQL Server to jeszcze polecę Wam dwa linki:
+
+1. [SQL Server 2019: Features for the Rest of Us](https://www.red-gate.com/simple-talk/opinion/editorials/sql-server-2019-features-for-the-rest-of-us/) - jak nazwa sama wskazuje, kilka przydatnych drobiazgów, które mogą się nam przydać w pracy
+2. [One specific query runs slower in Azure DB than on-premises SQL Server?!](https://techcommunity.microsoft.com/t5/Azure-Database-Support-Blog/One-specific-query-runs-slower-in-Azure-DB-than-on-premises-SQL/ba-p/751165) - choć może pytanie które Was nie interesuje, to w odpowiedzi mamy "check-listę" rzeczy do sprawdzenia przy diagnostyce, dlaczego kwerenda na jednym środowisku jest szybsza niż na drugim
+
+## Jak działa R# i dlaczego tak ...
+
+R# ma zwolenników i przeciwników, jak wszystko z resztą :) Natomiast poczytanie o tym dlaczego jest tak wolny/szybki (w zależności od Twoich upodobań skreśl jedno), jest warte poczytania, gdyż mamy kawałek porządnego software.
+
+Całość dotyczy w dużej mierze Rider, czyli uruchomiania ReSharper "obok". Więcej już nie spoileruję i zapraszam do artykułu [Long read: Where we are with “out of process” ReSharper](https://blog.jetbrains.com/dotnet/2019/07/11/where-we-are-with-out-of-process-resharper/)
+
 Oglądaliście kiedyś "X-Men: Przeszłość, która nadejdzie"
