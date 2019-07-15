@@ -37,10 +37,20 @@ Całość dotyczy w dużej mierze Rider, czyli uruchomiania ReSharper "obok". Wi
 
 ## Jak Regex zabił pół Internetu
 
-Jeżeli dwa tygodnie temu mieliście problem z dostępem do stron internetowych (dokładnie 2 lipca), to mogło być to "potknięcie" CloudFlare. Całość to zbyt zasobożerny regex i brak testów. Więcej w [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/).
+Jeżeli dwa tygodnie temu mieliście problem z dostępem do stron internetowych (dokładnie 2 lipca), to mogło być to "potknięcie" CloudFlare. Całość to zbyt zasobożerny regex i brak testów. Więcej w [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/). Jest też wersja polska opisu jak ktoś woli: [.*(?:.*=.*))) zabiło całe Cloudflare. Przerywamy spotkanie! Wszystkie ręce do konsol!](https://sekurak.pl/zabilo-cale-cloudflare-przerywamy-spotkanie-wszystkie-rece-do-konsol/)
 
 Przy okazji przypomniał się stary dowcip: Niektórzy programiści gdy mają problem, wpadają na pomysł użycia wyrażeń regularnych. Od tego momentu mają dwa problemy.
 
 A na temat tego dowcipu kiedyś został opublikowany bardzo dobry artykuł: [https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/ "https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/")
 
-Oglądaliście kiedyś "X-Men: Przeszłość, która nadejdzie"
+## Mały kącik wydajności
+
+Krótko bo tylko jeden artykuł, ale za to jaki. Tematyka znana od zarania dziejów czyli: for vs. foreach w dotnet: 
+
+* [Performance Tip: for vs. foreach in Microsoft .NET]() 
+
+## Gra dla dotnetomaniaków
+
+Konrad Kokosa udostępnił swoją grę do wydruku i grania w domu. Mówiąc szczerze sam by zagrał, ale nie mam z kim. Polecam serdecznie, szczególnie że przy okazji można też spróbować IT Startup Mateusza Kupilasa: [http://tooslowexception.com/outofmemory-and-it-startup-card-game-prototypes-available/](http://tooslowexception.com/outofmemory-and-it-startup-card-game-prototypes-available/ "http://tooslowexception.com/outofmemory-and-it-startup-card-game-prototypes-available/")
+
+A jak już jesteśmy w tematyce dotnetomaniaków, to zapraszam na podsumowanie tygodnia dotnetomaniaka: [https://dotnetomaniak.pl/weekly/2019/28](https://dotnetomaniak.pl/weekly/2019/28 "https://dotnetomaniak.pl/weekly/2019/28"). Przy okazji otworzyliśmy ponownie nasz sklep z gadżetami: [http://dotnetomaniak.cupsell.pl/](http://dotnetomaniak.cupsell.pl/ "http://dotnetomaniak.cupsell.pl/") - dochód idzie na cele charytatywne. Jakie? O tym w przyszłości :)
