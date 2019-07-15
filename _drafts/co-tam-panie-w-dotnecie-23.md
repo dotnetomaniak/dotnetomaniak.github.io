@@ -20,6 +20,8 @@ Wstęp trochę przy długi a artykułu polecam dwa:
 
 Ciekawy jestem jakie słowo pomyśleliście - jak możecie zostawcie w komentarzu.
 
-A teraz prawda: szybszy. I twierdzi to MS we współpracy z RedHat. I choć brzmi to jak dowcip prima aprilis, to tak nie jest. Wystarczy obejrzeć PDF ze strony: a szczegóły odnajdziecie w artykule: [https://www.redhat.com/en/blog/microsoft-red-hat-and-hpe-collaboration-delivers-choice-value-enterprise-customers](https://www.redhat.com/en/blog/microsoft-red-hat-and-hpe-collaboration-delivers-choice-value-enterprise-customers "https://www.redhat.com/en/blog/microsoft-red-hat-and-hpe-collaboration-delivers-choice-value-enterprise-customers")
+A teraz prawda: szybszy. I twierdzi to MS we współpracy z RedHat. I choć brzmi to jak dowcip prima aprilis, to tak nie jest. Wystarczy obejrzeć PDF ze strony: [https://clouddamcdnprodep.azureedge.net/gdc/gdcaEDCeI/original](https://clouddamcdnprodep.azureedge.net/gdc/gdcaEDCeI/original "https://clouddamcdnprodep.azureedge.net/gdc/gdcaEDCeI/original"), a szczegóły odnajdziecie w artykule: [https://www.redhat.com/en/blog/microsoft-red-hat-and-hpe-collaboration-delivers-choice-value-enterprise-customers](https://www.redhat.com/en/blog/microsoft-red-hat-and-hpe-collaboration-delivers-choice-value-enterprise-customers "https://www.redhat.com/en/blog/microsoft-red-hat-and-hpe-collaboration-delivers-choice-value-enterprise-customers")
+
+Zysk 6% to naprawdę DUŻO! A przy Linux (oczywiście nie Red Hat) są spore szanse na obniżenie kosztów :)
 
 Oglądaliście kiedyś "X-Men: Przeszłość, która nadejdzie"
