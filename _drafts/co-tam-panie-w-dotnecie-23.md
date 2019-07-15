@@ -35,4 +35,12 @@ R# ma zwolenników i przeciwników, jak wszystko z resztą :) Natomiast poczytan
 
 Całość dotyczy w dużej mierze Rider, czyli uruchomiania ReSharper "obok". Więcej już nie spoileruję i zapraszam do artykułu [Long read: Where we are with “out of process” ReSharper](https://blog.jetbrains.com/dotnet/2019/07/11/where-we-are-with-out-of-process-resharper/)
 
+## Jak Regex zabił pół Internetu
+
+Jeżeli dwa tygodnie temu mieliście problem z dostępem do stron internetowych (dokładnie 2 lipca), to mogło być to "potknięcie" CloudFlare. Całość to zbyt zasobożerny regex i brak testów. Więcej w [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/).
+
+Przy okazji przypomniał się stary dowcip: Niektórzy programiści gdy mają problem, wpadają na pomysł użycia wyrażeń regularnych. Od tego momentu mają dwa problemy.
+
+A na temat tego dowcipu kiedyś został opublikowany bardzo dobry artykuł: [https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/ "https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/")
+
 Oglądaliście kiedyś "X-Men: Przeszłość, która nadejdzie"
