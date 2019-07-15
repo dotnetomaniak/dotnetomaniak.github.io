@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #23'
 date: 2019-07-14 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/ross-findon-mG28olYFgHI-unsplash.jpg"
 
 ---
 Podsumowanie świata dotnet - edycja 23. Wakacje w pełni, a na świecie cały czas coś się dzieje. Aż czasem żałuję, że nie mogę napisać: w tym tygodniu zawiało nudą i w sumie to nie mam co pisać. No dobra po marudziłem, czas do pracy. Jedziemy z koksem!
