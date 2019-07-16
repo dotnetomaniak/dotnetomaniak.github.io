@@ -37,7 +37,7 @@ Całość dotyczy w dużej mierze Rider, czyli uruchomiania ReSharper "obok". Wi
 
 ## Jak Regex zabił pół Internetu
 
-Jeżeli dwa tygodnie temu mieliście problem z dostępem do stron internetowych (dokładnie 2 lipca), to mogło być to "potknięcie" CloudFlare. Całość to zbyt zasobożerny regex i brak testów. Więcej w [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/). Jest też wersja polska opisu jak ktoś woli: [.*(?:.*=.*))) zabiło całe Cloudflare. Przerywamy spotkanie! Wszystkie ręce do konsol!](https://sekurak.pl/zabilo-cale-cloudflare-przerywamy-spotkanie-wszystkie-rece-do-konsol/)
+Jeżeli dwa tygodnie temu mieliście problem z dostępem do stron internetowych (dokładnie 2 lipca), to mogło być to "potknięcie" CloudFlare. Całość to zbyt zasobożerny regex i brak testów. Więcej w [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/). Jest też wersja polska opisu jak ktoś woli: [._(?:._=.*))) zabiło całe Cloudflare. Przerywamy spotkanie! Wszystkie ręce do konsol!](https://sekurak.pl/zabilo-cale-cloudflare-przerywamy-spotkanie-wszystkie-rece-do-konsol/)
 
 Przy okazji przypomniał się stary dowcip: Niektórzy programiści gdy mają problem, wpadają na pomysł użycia wyrażeń regularnych. Od tego momentu mają dwa problemy.
 
@@ -45,9 +45,9 @@ A na temat tego dowcipu kiedyś został opublikowany bardzo dobry artykuł: [htt
 
 ## Mały kącik wydajności
 
-Krótko bo tylko jeden artykuł, ale za to jaki. Tematyka znana od zarania dziejów czyli: for vs. foreach w dotnet: 
+Krótko bo tylko jeden artykuł, ale za to jaki. Tematyka znana od zarania dziejów czyli: for vs. foreach w dotnet:
 
-* [Performance Tip: for vs. foreach in Microsoft .NET]() 
+* [Performance Tip: for vs. foreach in Microsoft .NET](https://dotnettips.wordpress.com/2019/07/08/performance-tip-for-vs-foreach-in-microsoft-net/)
 
 ## Gra dla dotnetomaniaków
 
