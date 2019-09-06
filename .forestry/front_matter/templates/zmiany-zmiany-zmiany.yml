@@ -19,6 +19,10 @@ fields:
   name: header-img
   label: HEADER IMG
 pages:
+- _posts/co-tam-panie-w-dotnecie-24.md
+- _posts/2019-04-28-co-tam-panie-w-dotnecie-12.md
+- _posts/2019-02-10-co-tam-panie-w-dotnecie-1.md
+- _posts/2019-02-17-co-tam-panie-w-dotnecie-2.md
 - _posts/2019-07-14-co-tam-panie-w-dotnecie-23.md
 - _posts/2019-07-07-co-tam-panie-w-dotnecie-22.md
 - _posts/2019-06-30-co-tam-panie-w-dotnecie-21.md
@@ -27,7 +31,6 @@ pages:
 - _posts/2019-06-16-co-tam-panie-w-dotnecie-19.md
 - _posts/2019-06-02-co-tam-panie-w-dotnecie-17.md
 - _posts/2019-06-09-co-tam-panie-w-dotnecie-18.md
-- _posts/2019-04-28-co-tam-panie-w-dotnecie-12.md
 - _posts/2019-04-14-co-tam-panie-w-dotnecie-10.md
 - _posts/2019-03-31-co-tam-panie-w-dotnecie-8.md
 - _posts/2019-05-05-co-tam-panie-w-dotnecie-13.md
@@ -36,8 +39,6 @@ pages:
 - _posts/2019-04-22-co-tam-panie-w-dotnecie-11.md
 - _posts/2019-05-26-co-tam-panie-w-dotnecie-16.md
 - _posts/2019-05-12-co-tam-panie-w-dotnecie-14.md
-- _posts/2019-02-10-co-tam-panie-w-dotnecie-1.md
-- _posts/2019-02-17-co-tam-panie-w-dotnecie-2.md
 - _posts/2019-03-24-co-tam-panie-w-dotnecie-7.md
 - _posts/2019-02-24-co-tam-panie-w-dotnecie-3.md
 - _posts/2019-03-02-co-tam-panie-w-dotnecie-4.md
