@@ -13,6 +13,19 @@ Jeżeli jeszcze nie bawiliście się ValueTask, to artykuł Marca na pewno Was p
 
 Przy okazji, może się wydawać, że ValueTask ma pewne braki w API. Ale jest biblioteka, która dodaje metody WhenAny, WhenAll, Lazy właśnie do ValueTask. Więcej: [https://github.com/Cysharp/ValueTaskSupplement](https://github.com/Cysharp/ValueTaskSupplement "https://github.com/Cysharp/ValueTaskSupplement")
 
+## Zaproszenie
+
+Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Ponieważ nazwa sugeruje Kubernetes to porozmawiamy skąd się wziął i jakie problemy on rozwiązuje.
+
+Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
+
+Możesz też oznaczyć się w wydarzeniu na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
+
+## Kącik wydajności
+
+1. Seria artykułów która wchodzi głęboko w tematykę performance counters w nowym wydaniu w dotNet Core. Dla zainteresowanych: [https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c](https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c "https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c")
+2. Biblioteka ArrayFire ([https://github.com/arrayfire/arrayfire-dotnet](https://github.com/arrayfire/arrayfire-dotnet "https://github.com/arrayfire/arrayfire-dotnet")), która umożliwia łatwiejsze pisanie (lepszego) "naukowego" kodu uruchamianego na CUDA, OpenCL czy CPU. 
+
 ## Walidacja haseł
 
 Słyszałeś o serwisie "have i been pwned"? Jeżeli nie to jak najszybciej czas nadrobić ten brak: [https://haveibeenpwned.com/](https://haveibeenpwned.com/ "https://haveibeenpwned.com/"), gdyż dzięki niemu masz szansę dowiedzieć się kiedy Twoje hasło wyciekło. 
@@ -22,14 +35,6 @@ Co jednak z naszymi użytkownikami? Czy możemy ich chronić? Jakiś czas temu T
 Ale dlaczego o tym piszę? Czeski MVP - Valášek Altair - opublikował paczkę NuGet, dzięki której możemy sprawdzać API serwisu "have i been pwned" natywne w dotNET. Cały kod jest dostępny na GitHub: [https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator](https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator "https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator")
 
 Warto przemyśleć wykorzystanie!
-
-## Zaproszenie
-
-Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Ponieważ nazwa sugeruje Kubernetes to porozmawiamy skąd się wziął i jakie problemy on rozwiązuje.
-
-Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
-
-Możesz też oznaczyć się w wydarzeniu na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
 
 ## Canary Testing w .NET
 
