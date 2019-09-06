@@ -7,6 +7,20 @@ header-img: ''
 ---
 Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało.
 
+## ValueTask czyli Marc Gravell w formie
+
+Jeżeli jeszcze nie bawiliście się ValueTask, to artykuł Marca na pewno Was przekona. Bardzo dogłębna analiza kiedy używać Task, a kiedy ValueTask. Do tego moim zdaniem ułatwia lepsze zrozumienie asynchroniczności.  Więcej: [https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html "https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html")
+
+Przy okazji, może się wydawać, że ValueTask ma pewne braki w API. Ale jest biblioteka, która dodaje metody WhenAny, WhenAll, Lazy właśnie do ValueTask. Więcej: [https://github.com/Cysharp/ValueTaskSupplement](https://github.com/Cysharp/ValueTaskSupplement "https://github.com/Cysharp/ValueTaskSupplement")
+
+## Walidacja haseł
+
+Słyszałeś o serwisie "have i been pwned"? Jeżeli nie to jak najszybciej czas nadrobić ten brak: [https://haveibeenpwned.com/](https://haveibeenpwned.com/ "https://haveibeenpwned.com/"), gdyż dzięki niemu masz szansę dowiedzieć się kiedy Twoje hasło wyciekło. 
+
+Co jednak z naszymi użytkownikami? Czy możemy ich chronić? Jakiś czas temu Troy Hunt (autor powyższej strony) udostępnił API do weryfikacji, czy dane hasło wyciekło. Sam sposób sprawdzania jest bezpieczny, a opisy jak to jest zrobione są warte przeczytania.
+
+Ale dlaczego o tym piszę? Czeski MVP - Valášek Altair - opublikował paczkę NuGet, dzięki której możemy sprawdzać API serwisu "have i been pwned" natywne w dotNET. Cały kod jest dostępny na GitHub: [https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator](https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator "https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator")
+
 ## Zaproszenie
 
 Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Ponieważ nazwa sugeruje Kubernetes to porozmawiamy skąd się wziął i jakie problemy on rozwiązuje.
@@ -14,6 +28,12 @@ Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organiz
 Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
 
 Możesz też oznaczyć się w wydarzeniu na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
+
+## Canary Testing w .NET
+
+Poniższy artykuł pokazuje jak za pomocą biblioteki Scientist, wykonać Canary Testing w sposób prawie bezbolesny. Mówiąc szczerze nigdy jej nie używałem, ale pomysł mi się podoba i mam zamiar niedługo spróbować. Bardzo ciekawy artykuł: 
+
+[https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn](https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn "https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn")
 
 ## DotNet najlepszą platformą jest i już
 
