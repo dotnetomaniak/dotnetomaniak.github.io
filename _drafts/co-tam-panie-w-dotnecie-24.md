@@ -21,6 +21,8 @@ Co jednak z naszymi użytkownikami? Czy możemy ich chronić? Jakiś czas temu T
 
 Ale dlaczego o tym piszę? Czeski MVP - Valášek Altair - opublikował paczkę NuGet, dzięki której możemy sprawdzać API serwisu "have i been pwned" natywne w dotNET. Cały kod jest dostępny na GitHub: [https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator](https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator "https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator")
 
+Warto przemyśleć wykorzystanie!
+
 ## Zaproszenie
 
 Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Ponieważ nazwa sugeruje Kubernetes to porozmawiamy skąd się wziął i jakie problemy on rozwiązuje.
