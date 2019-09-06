@@ -11,7 +11,9 @@ Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiej
 
 Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Ponieważ nazwa sugeruje Kubernetes to porozmawiamy skąd się wziął i jakie problemy on rozwiązuje.
 
-Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl")
+Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
+
+Możesz też oznaczyć się w wydarzeniu na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
 
 ## DotNet najlepszą platformą jest i już
 
