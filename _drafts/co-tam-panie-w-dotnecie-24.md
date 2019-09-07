@@ -15,11 +15,11 @@ Przy okazji jeszcze jeden drobiazg. Może się wydawać, że ValueTask ma pewne 
 
 ## Zaproszenie
 
-Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Ponieważ nazwa sugeruje Kubernetes to porozmawiamy skąd się wziął i jakie problemy on rozwiązuje.
+Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Postaramy się jak Kubernetes radzi sobie i w czym może nam pomóc.
 
 Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
 
-Możesz też oznaczyć się w wydarzeniu na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
+Możesz też dodać się do wydarzenia na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
 
 ## Microsoft to musical
 
@@ -27,21 +27,24 @@ Obejrzałem już 2 raz i nadal nie jakoś nie mogę uwierzyć, że to jest napra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGeWNR8CWnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Przez powyższe video świat MS na zawsze się dla mnie zmienił :)
 
 ## Kącik wydajności
+
+W tym tygodniu dwa tematy:
 
 1. Seria artykułów która wchodzi głęboko w tematykę performance counters w nowym wydaniu w dotNet Core. Dla zainteresowanych: [https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c](https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c "https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c")
 2. Biblioteka ArrayFire ([https://github.com/arrayfire/arrayfire-dotnet](https://github.com/arrayfire/arrayfire-dotnet "https://github.com/arrayfire/arrayfire-dotnet")), która umożliwia łatwiejsze pisanie (lepszego) "naukowego" kodu uruchamianego na CUDA, OpenCL czy CPU.
 
 ## Walidacja haseł
 
-Słyszałeś o serwisie "have i been pwned"? Jeżeli nie to jak najszybciej czas nadrobić ten brak: [https://haveibeenpwned.com/](https://haveibeenpwned.com/ "https://haveibeenpwned.com/"), gdyż dzięki niemu masz szansę dowiedzieć się kiedy Twoje hasło wyciekło.
+Słyszałeś o serwisie "have i been pwned"? Jeżeli nie to jak najszybciej czas nadrobić ten brak i wejść na [https://haveibeenpwned.com/](https://haveibeenpwned.com/ "https://haveibeenpwned.com/"). Dzięki niemu masz szansę dowiedzieć się kiedy Twoje hasło wyciekło.
 
-Co jednak z naszymi użytkownikami? Czy możemy ich chronić? Jakiś czas temu Troy Hunt (autor powyższej strony) udostępnił API do weryfikacji, czy dane hasło wyciekło. Sam sposób sprawdzania jest bezpieczny, a opisy jak to jest zrobione są warte przeczytania.
+Co jednak z naszymi użytkownikami? Czy możemy ich chronić? Szczególnie tych mało zaawansowanych techniczne. Jakiś czas temu Troy Hunt (autor powyższej strony) udostępnił API do weryfikacji, czy dane hasło wyciekło. Sam sposób sprawdzania jest bezpieczny, a opisy jak to jest zrobione są warte przeczytania.
 
 Ale dlaczego o tym piszę? Czeski MVP - Valášek Altair - opublikował paczkę NuGet, dzięki której możemy sprawdzać API serwisu "have i been pwned" natywne w dotNET. Cały kod jest dostępny na GitHub: [https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator](https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator "https://github.com/ridercz/Altairis.Services.PwnedPasswordsValidator")
 
-Warto przemyśleć wykorzystanie!
+Warto przemyśleć wykorzystanie w swojej aplikacji.
 
 ## Canary Testing w .NET
 
