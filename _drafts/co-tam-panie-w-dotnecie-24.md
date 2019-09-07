@@ -2,16 +2,16 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #24'
 date: 2019-09-08 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/ahmad-odeh-TK_WT3dl2tw-unsplash (1).jpg"
 
 ---
-Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu.
+Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu.![](/images/content/ahmad-odeh-TK_WT3dl2tw-unsplash (1)-1.jpg)
 
 ## ValueTask czyli Marc Gravell w formie
 
-Jeżeli jeszcze nie bawiliście się ValueTask, to artykuł Marca na pewno Was przekona. Bardzo dogłębna analiza kiedy używać Task, a kiedy ValueTask. Do tego moim zdaniem ułatwia lepsze zrozumienie asynchroniczności.  Więcej: [https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html "https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html")
+Jeżeli jeszcze nie bawiliście się ValueTask, to artykuł Marca na pewno Was przekona. Bardzo dogłębna analiza kiedy używać Task, a kiedy ValueTask. Całość moim zdaniem ułatwia lepsze zrozumienie asynchroniczności. Więcej: [https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html](https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html "https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html")
 
-Przy okazji, może się wydawać, że ValueTask ma pewne braki w API. Ale jest biblioteka, która dodaje metody WhenAny, WhenAll, Lazy właśnie do ValueTask. Więcej: [https://github.com/Cysharp/ValueTaskSupplement](https://github.com/Cysharp/ValueTaskSupplement "https://github.com/Cysharp/ValueTaskSupplement")
+Przy okazji jeszcze jeden drobiazg. Może się wydawać, że ValueTask ma pewne braki w API. Ale jest biblioteka, która dodaje metody WhenAny, WhenAll, Lazy właśnie do ValueTask. Więcej: [https://github.com/Cysharp/ValueTaskSupplement](https://github.com/Cysharp/ValueTaskSupplement "https://github.com/Cysharp/ValueTaskSupplement")
 
 ## Zaproszenie
 
