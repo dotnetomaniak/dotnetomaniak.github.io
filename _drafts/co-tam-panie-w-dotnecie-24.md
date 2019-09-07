@@ -5,7 +5,7 @@ date: 2019-09-08 22:00:00 +0000
 header-img: ''
 
 ---
-Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało.
+Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu.
 
 ## ValueTask czyli Marc Gravell w formie
 
@@ -21,14 +21,21 @@ Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kuberne
 
 Możesz też oznaczyć się w wydarzeniu na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
 
+## Microsoft to musical
+
+Obejrzałem już 2 raz i nadal nie jakoś nie mogę uwierzyć, że to jest naprawdę. Moim faworytem jest koszulka ze znaczkiem Excela. Prawie 8 minut (+ napisy na 2.5) śpiewanej opowieści o Microsoft
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGeWNR8CWnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Kącik wydajności
 
 1. Seria artykułów która wchodzi głęboko w tematykę performance counters w nowym wydaniu w dotNet Core. Dla zainteresowanych: [https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c](https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c "https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c")
-2. Biblioteka ArrayFire ([https://github.com/arrayfire/arrayfire-dotnet](https://github.com/arrayfire/arrayfire-dotnet "https://github.com/arrayfire/arrayfire-dotnet")), która umożliwia łatwiejsze pisanie (lepszego) "naukowego" kodu uruchamianego na CUDA, OpenCL czy CPU. 
+2. Biblioteka ArrayFire ([https://github.com/arrayfire/arrayfire-dotnet](https://github.com/arrayfire/arrayfire-dotnet "https://github.com/arrayfire/arrayfire-dotnet")), która umożliwia łatwiejsze pisanie (lepszego) "naukowego" kodu uruchamianego na CUDA, OpenCL czy CPU.
 
 ## Walidacja haseł
 
-Słyszałeś o serwisie "have i been pwned"? Jeżeli nie to jak najszybciej czas nadrobić ten brak: [https://haveibeenpwned.com/](https://haveibeenpwned.com/ "https://haveibeenpwned.com/"), gdyż dzięki niemu masz szansę dowiedzieć się kiedy Twoje hasło wyciekło. 
+Słyszałeś o serwisie "have i been pwned"? Jeżeli nie to jak najszybciej czas nadrobić ten brak: [https://haveibeenpwned.com/](https://haveibeenpwned.com/ "https://haveibeenpwned.com/"), gdyż dzięki niemu masz szansę dowiedzieć się kiedy Twoje hasło wyciekło.
 
 Co jednak z naszymi użytkownikami? Czy możemy ich chronić? Jakiś czas temu Troy Hunt (autor powyższej strony) udostępnił API do weryfikacji, czy dane hasło wyciekło. Sam sposób sprawdzania jest bezpieczny, a opisy jak to jest zrobione są warte przeczytania.
 
@@ -38,9 +45,9 @@ Warto przemyśleć wykorzystanie!
 
 ## Canary Testing w .NET
 
-Poniższy artykuł pokazuje jak za pomocą biblioteki Scientist, wykonać Canary Testing w sposób prawie bezbolesny. Mówiąc szczerze nigdy jej nie używałem, ale pomysł mi się podoba i mam zamiar niedługo spróbować. Bardzo ciekawy artykuł: 
+Poniższy artykuł pokazuje jak za pomocą biblioteki Scientist, wykonać Canary Testing w sposób prawie bezbolesny. Mówiąc szczerze nigdy jej nie używałem, ale pomysł mi się podoba i mam zamiar niedługo spróbować. Bardzo ciekawy artykuł:
 
-[https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn](https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn "https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn")
+[https://dev.to/integerman/victimless-canary-testing-](https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn "https://dev.to/integerman/victimless-canary-testing-with-scientist-9nn")
 
 ## DotNet najlepszą platformą jest i już
 
