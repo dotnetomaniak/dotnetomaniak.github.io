@@ -5,7 +5,7 @@ date: 2019-09-08 22:00:00 +0000
 header-img: "/images/content/ahmad-odeh-TK_WT3dl2tw-unsplash (1).jpg"
 
 ---
-Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu.![](/images/content/ahmad-odeh-TK_WT3dl2tw-unsplash (1)-1.jpg)
+Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu.
 
 ## ValueTask czyli Marc Gravell w formie
 
