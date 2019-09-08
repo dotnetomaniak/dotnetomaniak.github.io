@@ -5,7 +5,7 @@ date: 2019-09-08 22:00:00 +0000
 header-img: "/images/content/ahmad-odeh-TK_WT3dl2tw-unsplash (1).jpg"
 
 ---
-Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu.
+Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu, chociaż może data wydania pełnej wersji .NET Core 3.0 jest ważniejsza ;)
 
 ## ValueTask czyli Marc Gravell w formie
 
@@ -31,10 +31,11 @@ Przez powyższe video świat MS na zawsze się dla mnie zmienił :)
 
 ## Kącik wydajności
 
-W tym tygodniu dwa tematy:
+W tym tygodniu trzy tematy:
 
 1. Seria artykułów która wchodzi głęboko w tematykę performance counters w nowym wydaniu w dotNet Core. Dla zainteresowanych: [https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c](https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c "https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c")
 2. Biblioteka ArrayFire ([https://github.com/arrayfire/arrayfire-dotnet](https://github.com/arrayfire/arrayfire-dotnet "https://github.com/arrayfire/arrayfire-dotnet")), która umożliwia łatwiejsze pisanie (lepszego) "naukowego" kodu uruchamianego na CUDA, OpenCL czy CPU.
+3. Bardzo solidny opis System.IO.Pipelines - [https://habr.com/en/post/466137/](https://habr.com/en/post/466137/ "https://habr.com/en/post/466137/")
 
 ## Walidacja haseł
 
@@ -58,3 +59,5 @@ Na sam koniec małe heheszki, które umieścił Scott Hanselman w ramach zapowie
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">What can you do with .NET? A teaser. <a href="https://twitter.com/hashtag/dotnet?src=hash&ref_src=twsrc%5Etfw">#dotnet</a> <a href="https://twitter.com/hashtag/dotnetconf?src=hash&ref_src=twsrc%5Etfw">#dotnetconf</a> <a href="https://t.co/bJbpgvziJZ">pic.twitter.com/bJbpgvziJZ</a></p>— Scott Hanselman (@shanselman) <a href="https://twitter.com/shanselman/status/1169403223016263680?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Więcej szczegółów na temat samej konferencji na oficjalnej stronie: [https://www.dotnetconf.net/](https://www.dotnetconf.net/ "https://www.dotnetconf.net/")
+
+p.s. Tam jest napisane, że: **.NET Core 3.0 launches at .NET Conf!**
