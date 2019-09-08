@@ -5,7 +5,9 @@ date: 2019-09-08 22:00:00 +0000
 header-img: "/images/content/ahmad-odeh-TK_WT3dl2tw-unsplash (1).jpg"
 
 ---
-Wakacje się skończyły, więc powracamy z cyklem news ze świata .NET. Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale wygrywa jedna na temat musicalu, chociaż może data wydania pełnej wersji .NET Core 3.0 jest ważniejsza ;)
+Wakacje się skończyły, więc powracamy z cyklem "Co tam Panie w dotnecie?". Dzisiejsza edycja wybiega poza ostatni tydzień, bo wiadomości w sierpniu się nazbierało. Ale król jest jeden - musical, chociaż może data wydania pełnej wersji .NET Core 3.0 jest ważniejsza o ile jej jeszcze nie znacie :)
+
+Zaczniemy jednak od ...
 
 ## ValueTask czyli Marc Gravell w formie
 
@@ -17,7 +19,7 @@ Przy okazji jeszcze jeden drobiazg. Może się wydawać, że ValueTask ma pewne 
 
 Przy okazji chciałbym zaprosić Cię na "Wieczór z Kubernetes", który organizuję wraz z Jakubem Gutkowskim i Łukaszem Kałużnym. Porozmawiamy o nowoczesnej architekturze i jej problemach. Spojrzymy trochę na infrastrukturę i spróbujemy sobie odpowiedzieć czy potrafi ona nam pomóc. Postaramy się jak Kubernetes radzi sobie i w czym może nam pomóc.
 
-Jeżeli masz ochotę się zapisać, dostać ebook "Jak zacząć pracę z Kubernetes" oraz dostawać co tydzień wiadomości w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
+Jeżeli masz ochotę się zapisać oraz przy okazji dostać ebook "Jak zacząć pracę z Kubernetes" wraz z wiadomościami co tydzień w tematyce nowoczesnej architektury i Kubernetes to zapraszam na stronę: [http://webinar.poznajkubernetes.pl](http://webinar.poznajkubernetes.pl "http://webinar.poznajkubernetes.pl").
 
 Możesz też dodać się do wydarzenia na Facebook: [https://www.facebook.com/events/489059444977239/](https://www.facebook.com/events/489059444977239/ "https://www.facebook.com/events/489059444977239/")
 
