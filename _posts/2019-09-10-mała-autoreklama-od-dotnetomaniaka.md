@@ -11,13 +11,15 @@ Mam nadzieję, że mi wybaczycie małą autoreklamę. Możliwe, że już słysze
 
 Jeżeli Ty tak nie pomyślałeś, to super. Ja jeszcze 3 lata temu na pewno bym tak pomyślał. Nawet jeżeli 3 lata temu lada dzień miałby pojawić się dotNET Core 3.0.
 
-Mam prośbę, jeżeli słyszysz ten głos w głowie, to na moment go wycisz. 3-5 minut czytania, więcej nie trzeba. Zacznijmy od prowadzących:
+Mam prośbę, jeżeli słyszysz ten głos w głowie, to na moment go wycisz. 3-5 minut czytania, więcej nie trzeba. Udało się? No to jazda.
+
+Zacznijmy od prowadzących:
 
 * Gutek - 12 razy z rzędu Microsoft MVP w "dotnecie" - kocha i nienawidzi równocześnie wszystko co wyszło ze stajni MS.
 * Łukasz - 8 razy Microsoft MVP w "Ejżulu" - stary dotnetowiec, który żeby być cool przesiadł się na Maka. Ale nie potrafi zapomnieć o Windows i cały czas można go z nakryć.
-* Stapp (czyli ja) - ledwie 3 razy MVP w "dotnecie", ale za to mBank jeszcze niedawno robił, który jak wiadomo .NET Framework stoi i jest z tego dumny.
+* Stapp (czyli ja) - ledwie 3 razy MVP w "dotnecie", ale za to Bank jeszcze niedawno robił, który .NET Framework stoi i jest z tego dumny. No i ma WCFy w hurtowej ilości.
 
-Mam nadzieję, że pomyślałeś coś w stylu:
+W tym miejscu mam nadzieję, że pomyślałeś coś w stylu:
 
 > Czyli prowadzący, wiedzą o co w IIS chodzi i prawdopodobnie dotykają go dość często. To dlaczego ten Kubernetes?
 
@@ -25,7 +27,7 @@ Druga sprawa to słynne Windows Containers. Coraz częściej słyszę to sformu�
 
 >  Czy to już działa i można testować? Czy może można myśleć o produkcji? Czy już??? 
 
-Wybacz na te pytania nie odpowiem tutaj, ale odpowiemy na nie podczas kursu. Co więcej podamy nie tylko suchą odpowiedź, ale konkretne argumenty. Szczególnie na kwestie: "Czy już? A jak nie już to kiedy?"
+Wybacz na te pytania nie odpowiem tutaj, ale obiecuję, że odpowiemy na nie podczas kursu. Co więcej podamy nie tylko suchą odpowiedź, ale konkretne argumenty. Szczególnie na kwestie: "Czy już? A jak nie już to kiedy?"
 
 Trzecia sprawa, to podejście do deployment. Wiele razy słyszałem chęć na 10-100-1000 deploy dziennie na prod. Tylko, że sam deploy to nie wszystko. Trzeba to umieć robić bezpiecznie, trzeba umieć monitorować i umieć się wycofać. I niezależnie od technologi, metodologia postępowania jest taka sama. Jeżeli ciekawi Cię jakie powinieneś mieć healthcheck czy jak planować rollback, albo jak zautomatyzować skalowanie, to Kubernetes, moim zdaniem, idealnie porządkuje to wiedzę. 
 
