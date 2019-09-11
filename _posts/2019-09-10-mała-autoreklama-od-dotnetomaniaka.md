@@ -2,7 +2,7 @@
 layout: post
 title: Mała autoreklama od dotnetomaniaka
 date: 2019-09-10 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/john-cameron-0RpNG7OpWNM-unsplash.jpg"
 
 ---
 Mam nadzieję, że mi wybaczycie małą autoreklamę. Możliwe, że już słyszeliście o "Poznaj Kubernetes", który organizuję razem z Jakubem "Gutkiem" Gutkowskim i Łukaszem Kałużnym. Mam wrażenie, że sporo dotnetowców pomyślało sobie:
