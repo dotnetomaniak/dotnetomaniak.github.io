@@ -5,11 +5,15 @@ date: 2019-09-14 22:00:00 +0000
 header-img: ''
 
 ---
-Wdrożenia + teoria
-
 Niezależnie od technologii używanej w projekcie, raz na jakiś czas trzeba wdrożyć kod na produkcję. Sposobów na wdrożenie go jest N, gdzie N dąży do nieskończoności 😉. Tak jak każda firma ma w dzisiejszych czasach swój “scrum” albo “agile”, tak i ma swój sposób na instalacje. Jednym z moich ulubionych jest “sposób na PM’a”. Wygląda on następująco: PM tworzy task, a opsy go realizują...
 
 Podchodząc do sprawy na poważnie, można N znacząco zredukować. Dzisiaj zaprezentuję 3 z pośród najbardziej popularnych technik wdrożeniowych. Kolejne przybliżę w przyszłym tygodniu.
+
+## Autoreklama
+
+Nim przejdziemy do teorii, chciałbym zaprosić Cię na drugą cześć LIVE Wieczoru z Kubernetes, który odbędzie się w najbliższy wtorek o godzinie 20:00. Więcej informacji na [Facebook ](https://www.facebook.com/events/381253005877591/)i [YouTube](http://poznajkubernetes.pl/live2).
+
+Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam [sekcję "Dla Kogo"](https://poznajkubernetes.pl).
 
 ## Okienko serwisowe
 
@@ -60,23 +64,23 @@ Na schemacie mamy pokazaną sytuację w której wersja v1.0.0.0 jest wgrana na s
 
 W Kubernetes, żeby uzyskać taki sposób wdrożenia, musimy stworzyć serwis, który równocześnie wybiera aplikację. Na przykład:
 
-	apiVersion: v1  
-	kind: Service  
-	metadata:  
-	name: my-app  
-	labels:  
-	app: my-app  
-	spec:  
-	type: NodePort  
-	ports:
+    apiVersion: v1  
+    kind: Service  
+    metadata:  
+    name: my-app  
+    labels:  
+    app: my-app  
+    spec:  
+    type: NodePort  
+    ports:
     - name: http  
-  	  port: 8080  
-  	  targetPort: 8080
+      port: 8080  
+      targetPort: 8080
     # Poniższe 3 linie "łapią" aplikację my-app z wersją v1.0.0
-	# Po wykonaniu deployment z wersją v2.0.0 dokonujemy
-	# aktualizacji wersji do v2.0.0
-	selector:  
-	  app: my-app
+    # Po wykonaniu deployment z wersją v2.0.0 dokonujemy
+    # aktualizacji wersji do v2.0.0
+    selector:  
+      app: my-app
       version: v1.0.0
 
 Zalety:
@@ -91,13 +95,6 @@ Wady:
 * Może być "bardzo drogo” - jeżeli nie usuwamy "zasobów" po wdrożeniu, to przez cały czas mamy ich dwukrotnie więcej.
 * Instalacja aplikacji typu _stateful_ może być niemożliwa ponieważ tracimy "stan" podczas instalacji, przenosząc aplikacje na inne "maszyny"
 
-## Co dalej?
+## Przerwa na ...
 
-Więcej sposobów na sprawną instalację za tydzień. Będzie, między innymi, strategia stosowana w samochodach Tesla.
-
-Jeżeli masz pytania lub uwagi, odpowiedz na tego maila.
-
-Miłego dnia (i nadchodzącego weekendu)  
-Piotrek
-
-p.s. Mam nadzieję, że zobaczymy się we wtorek. Jeśli możesz, podziel się informacją o "Wieczorze z Kubernetes" ze znajomymi. Wystarczy kliknąć poniżej. Dzięki!
+Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [https://poznajkubernetes.pl](https://poznajkubernetes.pl "https://poznajkubernetes.pl"). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
