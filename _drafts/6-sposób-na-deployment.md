@@ -98,3 +98,102 @@ Wady:
 ## Przerwa na ...
 
 Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [https://poznajkubernetes.pl](https://poznajkubernetes.pl "https://poznajkubernetes.pl"). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
+
+Teraz zajmiemy się bardziej delikatnymi rozwiązaniami, które wymagają pracy szarych komórek, żeby zainstalować je bez wpadki.
+
+Ramped
+
+Po polsku słoworamped możemy przetłumaczyć jako wjazd i to słowo całkiem dobrze oddaje sens tej strategii. W Kubernetes funkcjonuje ona pod pojęciem rolling update, które moim zdaniem lepiej oddaje sens tej strategii. Idea polega na powolnym wdrażaniu nowej wersji aplikacji, zamieniając pojedynczo poszczególne instancje. Sposób postępowania jest następujący:
+
+1. Mamy pulę aplikacji w wersji v1.0.0 udostępnionej przez load balancer sprzętowy lub softwareowy.
+2. Dodajemy jedną instancję aplikacji w wersji v2.0.0.
+3. Rozgrzewamy ją (m.in. sprawdzamy połączenie do bazy, inicjalizujemy DI, itd.)
+4. Kiedy instancja jest gotowa do przyjmowania ruchu dodajemy ją do puli load balancer.
+5. W tym momencie mamy jedną nową instancję v2.0.0 oraz kilka instancji v1.0.0
+6. Usuwamy jedną instancję v1.0.0 z load balancer i wyłączamy ją.
+7. Powtarzamy powyższy proces, aż wszystkie instancje będą w wersji v2.0.0
+
+W Kubernetes jest to domyślny sposób na deployment, ale możemy też wpisać go w plik YAML jawnie określając ile instancji aplikacji wymieniamy w danym momencie oraz ile instancji może być niedostępne:  
+  
+spec:  
+ replicas: 3  
+ strategy:  
+ type: RollingUpdate  
+ rollingUpdate:  
+ maxSurge: 2 # ile instancji dodajemy na raz  
+ maxUnavailable: 0 # ile instancji może być niedostępnych  
+  
+Parametry_maxSurge_oraz_maxUnavailable_umożliwiają nam sterowanie szybkością instalacji, ewentualnymi kosztami oraz bezpieczeństwem korzystania z systemu  
+  
+**Zalety:**
+
+* Brak _downtime_
+* Niskie koszty - minimalnie potrzebujemy jedną dodatkową instancję
+* Wolna propagacja, dająca weryfikacji czy wszystko działa
+* Można spokojnie odbudować “dane” na przykład w cache, bez ciężkich zapytań do bazy danych przez wszystkie instancje na raz
+* Łatwość implementacji w Kubernetes ;)
+
+  
+**Wady:**
+
+* Należy zaprojektować obsługę dwóch wersji API czy dwóch schematów bazy danych (szczególnie przy ORM)
+* _Rollout_ i _rollback_ zajmują czas szczególnie “rozgrzewanie” instancji trwa długo
+
+## Canary
+
+Pewnie słyszeliście o tej metodzie, ale czy wiecie skąd wzięła się nazwa “kanarek”?   
+  
+Pochodzi ona od starego sposobu stosowanego w brytyjskich (i nie tylko) kopalniach. Według[Kata Eschnera z museum Smithsonian](https://www.smithsonianmag.com/smart-news/story-real-canary-coal-mine-180961570/)polegała ona na używaniu żywych kanarków w celu wykrycia czadu i innych trujących gazów. Przy niskim stężeniu gazów ptaszek stroszył pióra, a przy większym omdlewał albo i nawet umierał. Brutalna metoda, ale bardzo skuteczna. Na pocieszenie dodam, że Brytyjscy górnicy po zauważeniu niepokojących objawów wychodzi i podawali kanarkom tlen.  
+  
+A jak to jest powiązane z wytwarzaniem oprogramowania i wdrożeniami? W dużym uproszczeniu, gdy wypuszczamy nową wersję, część naszych użytkowników staje się takimi właśniekanarkami. Obserwujemy ich bardzo uważnie i gdy wszystko jest w porządku, zwiększamy liczbę użytkowników. Sama metoda wdrażania jest więc bardzo podobna do_ramped_(aka_rolling-update_). Jedyna różnica odpowiedzialność za liczbę replik v1.0.0 i v2.0.0, która spoczywa na “ludziach”, a nie K8s.  
+  
+Najprostszym przepisem na taką instalację jest:
+
+1. Wdrożyć v1.0.0 w 9 replikach
+2. Wdrożyć v2.0.0 w 1 replice (10% ruchu trafia do _canary_)
+3. Po weryfikacji zwiększać liczbą v2.0.0 i zmniejszać v1.0.0 za pomocą komendy _kubectl scale_
+
+  
+Jeżeli nasz ruch do aplikacji przechodzi przez Ingress (taki jeden serwis wystawiany na świat) i nie ma komunikacji wewnętrznej to możemy skorzystać z adnotacji w Ingress  
+  
+ annotations:  
+ kubernetes.io/ingress.class: "nginx"  
+ # Włączenie canary i przekierowanie 10% ruchu  
+ nginx.ingress.kubernetes.io/canary: "true"  
+ nginx.ingress.kubernetes.io/canary-weight: "10"  
+  
+**Zalety:**
+
+* Brak _downtime_
+* Nowa wersja dotyka tylko części użytkowników
+* Wymusza dobry monitoring :)
+* Szybki _rollback_
+
+**Wady:**
+
+* Powolny _rollout_
+* W zależności od implementacji może być zasobożerne, przez co drogie
+
+## Shadow
+
+Jestem przekonany, że słyszeliście o firmie Tesla, a także o autopilocie wbudowanym w ich samochody. Mała dygresja, wyobraź sobie drogi Czytelniku sytuację, w której w Tesli jedzie śpiący pijany kierowca. Czy popełnia on przestępstwo? Jedzie, ale nie prowadzi. To nie abstrkacja i takie sytuację miały już miejsce. Polecam poszukać w google:_drunk driver tesla_.  
+Wróćmy jednak do oprogramowania. Niezależnie od stanu prawnego, firma musi mieć pewność, że oprogramowanie autopilota jest 100% sprawne i wszystkie testy regresyjne przechodzą. Ciężko jednak wykonać takie testy, gdyż symulator nie odda wszystkich sytuacji, a ręcznie są one niewykonalne. Na samych testach jednostkowych, ja osobiście bym w tej sytuacji nie polegał. Co w takim razie można zrobić? Wgrać do wszystkich samochodów dwie wersje oprogramowania, z czego tylko jedna jest odpowiedzialna za pracę samochodu. Druga natomiast działa jak cień (czyli_shadow_), dostaje takie same dane jak pierwsza, natomiast wynik działania jest tylko zapisywany i nie wpływa na samochód. Dzięki temu możemy przetestować nasze oprogramowanie na wszystkich użytkownikach i przeanalizować miliony jak i nie miliardy operacji. W uproszczeniu ta metoda to testowanie na produkcji w bezpieczny sposób.  
+  
+Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jesteśmy wstanie wprowadzić. Przykładowy problem to jak rozwiązać wirtualne zapisy do bazy danych, czy wirtualne wysłanie wiadomości na kolejki. Wszystkie interakcje ze światem, muszą być w aplikacji odpowiednio zamokowane. Dodatkowo potrzebujemy komponentu, który zbiera wyniki, porównuje je i wykonuje analizę. Podsumowując dużo pracy.  
+  
+**Zalety:**
+
+* Brak wpływu na użytkownika
+* Bardzo dokładne testy na danych produkcyjnych
+* Bezpieczny rollout
+
+  
+**Wady:**
+
+* Bardzo dużo pracy
+* Podwójna infrastruktura
+* Może powodować niebezpieczeństwo przy złej konfiguracji
+
+## Podsumowanie
+
+Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jakiś to napisz do mnie koniecznie!
