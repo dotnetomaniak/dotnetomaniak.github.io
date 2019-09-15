@@ -13,7 +13,7 @@ Podchodząc do sprawy na poważnie, można N znacząco zredukować. Dzisiaj zapr
 
 Nim przejdziemy do teorii, chciałbym zaprosić Cię na drugą cześć LIVE Wieczoru z Kubernetes, który odbędzie się w najbliższy wtorek o godzinie 20:00. Więcej informacji na [Facebook ](https://www.facebook.com/events/381253005877591/)i [YouTube](http://poznajkubernetes.pl/live2).
 
-Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam [sekcję "Dla Kogo"](https://poznajkubernetes.pl).
+**Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam** [**sekcję "Dla Kogo"**](https://poznajkubernetes.pl)**.**
 
 ## Okienko serwisowe
 
