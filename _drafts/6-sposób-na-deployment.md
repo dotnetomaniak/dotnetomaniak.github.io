@@ -115,13 +115,13 @@ Po polsku słoworamped możemy przetłumaczyć jako wjazd i to słowo całkiem d
 
 W Kubernetes jest to domyślny sposób na deployment, ale możemy też wpisać go w plik YAML jawnie określając ile instancji aplikacji wymieniamy w danym momencie oraz ile instancji może być niedostępne:  
   
-spec:  
- replicas: 3  
- strategy:  
- type: RollingUpdate  
- rollingUpdate:  
- maxSurge: 2 # ile instancji dodajemy na raz  
- maxUnavailable: 0 # ile instancji może być niedostępnych  
+	spec:  
+	 replicas: 3  
+	 strategy:  
+	   type: RollingUpdate  
+	   rollingUpdate:  
+	     maxSurge: 2 # ile instancji dodajemy na raz  
+	     maxUnavailable: 0 # ile instancji może być niedostępnych  
   
 Parametry_maxSurge_oraz_maxUnavailable_umożliwiają nam sterowanie szybkością instalacji, ewentualnymi kosztami oraz bezpieczeństwem korzystania z systemu  
   
@@ -156,11 +156,11 @@ Najprostszym przepisem na taką instalację jest:
   
 Jeżeli nasz ruch do aplikacji przechodzi przez Ingress (taki jeden serwis wystawiany na świat) i nie ma komunikacji wewnętrznej to możemy skorzystać z adnotacji w Ingress  
   
- annotations:  
- kubernetes.io/ingress.class: "nginx"  
- # Włączenie canary i przekierowanie 10% ruchu  
- nginx.ingress.kubernetes.io/canary: "true"  
- nginx.ingress.kubernetes.io/canary-weight: "10"  
+	 annotations:  
+	   kubernetes.io/ingress.class: "nginx"  
+	   # Włączenie canary i przekierowanie 10% ruchu  
+	   nginx.ingress.kubernetes.io/canary: "true"  
+	   nginx.ingress.kubernetes.io/canary-weight: "10"  
   
 **Zalety:**
 
