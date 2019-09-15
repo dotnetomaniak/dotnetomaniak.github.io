@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 6 sposób na deployment (teoria + praktyka)
+title: 6 sposobów na deployment (teoria + praktyka)
 date: 2019-09-14 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (5).jpg"
 
 ---
 Niezależnie od technologii używanej w projekcie, raz na jakiś czas trzeba wdrożyć kod na produkcję. Sposobów na wdrożenie go jest N, gdzie N dąży do nieskończoności 😉. Tak jak każda firma ma w dzisiejszych czasach swój “scrum” albo “agile”, tak i ma swój sposób na instalacje. Jednym z moich ulubionych jest “sposób na PM’a”. Wygląda on następująco: PM tworzy task, a opsy go realizują...
 
-Podchodząc do sprawy na poważnie, można N znacząco zredukować. Dzisiaj zaprezentuję 3 z pośród najbardziej popularnych technik wdrożeniowych. Kolejne przybliżę w przyszłym tygodniu.
+Podchodząc do sprawy na poważnie, można N znacząco zredukować. Poniżej 6 strategii na automatycznie wdrożenie aplikacji.
 
 ## Autoreklama
 
@@ -101,9 +101,9 @@ Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tema
 
 Teraz zajmiemy się bardziej delikatnymi rozwiązaniami, które wymagają pracy szarych komórek, żeby zainstalować je bez wpadki.
 
-Ramped
+## Ramped
 
-Po polsku słoworamped możemy przetłumaczyć jako wjazd i to słowo całkiem dobrze oddaje sens tej strategii. W Kubernetes funkcjonuje ona pod pojęciem rolling update, które moim zdaniem lepiej oddaje sens tej strategii. Idea polega na powolnym wdrażaniu nowej wersji aplikacji, zamieniając pojedynczo poszczególne instancje. Sposób postępowania jest następujący:
+Po polsku słowo _ramped_ możemy przetłumaczyć jako wjazd i to słowo całkiem dobrze oddaje sens tej strategii. W Kubernetes funkcjonuje ona pod pojęciem rolling update, które moim zdaniem lepiej oddaje sens tej strategii. Idea polega na powolnym wdrażaniu nowej wersji aplikacji, zamieniając pojedynczo poszczególne instancje. Sposób postępowania jest następujący:
 
 1. Mamy pulę aplikacji w wersji v1.0.0 udostępnionej przez load balancer sprzętowy lub softwareowy.
 2. Dodajemy jedną instancję aplikacji w wersji v2.0.0.
@@ -123,7 +123,7 @@ W Kubernetes jest to domyślny sposób na deployment, ale możemy też wpisać g
          maxSurge: 2 # ile instancji dodajemy na raz  
          maxUnavailable: 0 # ile instancji może być niedostępnych  
 
-Parametry_maxSurge_oraz_maxUnavailable_umożliwiają nam sterowanie szybkością instalacji, ewentualnymi kosztami oraz bezpieczeństwem korzystania z systemu
+Parametry _maxSurge_ oraz _maxUnavailable_ umożliwiają nam sterowanie szybkością instalacji, ewentualnymi kosztami oraz bezpieczeństwem korzystania z systemu
 
 **Zalety:**
 
@@ -142,9 +142,9 @@ Parametry_maxSurge_oraz_maxUnavailable_umożliwiają nam sterowanie szybkością
 
 Pewnie słyszeliście o tej metodzie, ale czy wiecie skąd wzięła się nazwa “kanarek”?
 
-Pochodzi ona od starego sposobu stosowanego w brytyjskich (i nie tylko) kopalniach. Według[Kata Eschnera z museum Smithsonian](https://www.smithsonianmag.com/smart-news/story-real-canary-coal-mine-180961570/)polegała ona na używaniu żywych kanarków w celu wykrycia czadu i innych trujących gazów. Przy niskim stężeniu gazów ptaszek stroszył pióra, a przy większym omdlewał albo i nawet umierał. Brutalna metoda, ale bardzo skuteczna. Na pocieszenie dodam, że Brytyjscy górnicy po zauważeniu niepokojących objawów wychodzi i podawali kanarkom tlen.
+Pochodzi ona od starego sposobu stosowanego w brytyjskich (i nie tylko) kopalniach. Według [Kata Eschnera z museum Smithsonian](https://www.smithsonianmag.com/smart-news/story-real-canary-coal-mine-180961570/) polegała ona na używaniu żywych kanarków w celu wykrycia czadu i innych trujących gazów. Przy niskim stężeniu gazów ptaszek stroszył pióra, a przy większym omdlewał albo i nawet umierał. Brutalna metoda, ale bardzo skuteczna. Na pocieszenie dodam, że Brytyjscy górnicy po zauważeniu niepokojących objawów wychodzi i podawali kanarkom tlen.
 
-A jak to jest powiązane z wytwarzaniem oprogramowania i wdrożeniami? W dużym uproszczeniu, gdy wypuszczamy nową wersję, część naszych użytkowników staje się takimi właśniekanarkami. Obserwujemy ich bardzo uważnie i gdy wszystko jest w porządku, zwiększamy liczbę użytkowników. Sama metoda wdrażania jest więc bardzo podobna do_ramped_(aka_rolling-update_). Jedyna różnica odpowiedzialność za liczbę replik v1.0.0 i v2.0.0, która spoczywa na “ludziach”, a nie K8s.
+A jak to jest powiązane z wytwarzaniem oprogramowania i wdrożeniami? W dużym uproszczeniu, gdy wypuszczamy nową wersję, część naszych użytkowników staje się takimi właśnie kanarkami. Obserwujemy ich bardzo uważnie i gdy wszystko jest w porządku, zwiększamy liczbę użytkowników. Sama metoda wdrażania jest więc bardzo podobna do _ramped_ (aka _rolling-update_). Jedyna różnica odpowiedzialność za liczbę replik v1.0.0 i v2.0.0, która spoczywa na “ludziach”, a nie K8s.
 
 Najprostszym przepisem na taką instalację jest:
 
@@ -174,8 +174,8 @@ Jeżeli nasz ruch do aplikacji przechodzi przez Ingress (taki jeden serwis wysta
 
 ## Shadow
 
-Jestem przekonany, że słyszeliście o firmie Tesla, a także o autopilocie wbudowanym w ich samochody. Mała dygresja, wyobraź sobie drogi Czytelniku sytuację, w której w Tesli jedzie śpiący pijany kierowca. Czy popełnia on przestępstwo? Jedzie, ale nie prowadzi. To nie abstrkacja i takie sytuację miały już miejsce. Polecam poszukać w google:_drunk driver tesla_.  
-Wróćmy jednak do oprogramowania. Niezależnie od stanu prawnego, firma musi mieć pewność, że oprogramowanie autopilota jest 100% sprawne i wszystkie testy regresyjne przechodzą. Ciężko jednak wykonać takie testy, gdyż symulator nie odda wszystkich sytuacji, a ręcznie są one niewykonalne. Na samych testach jednostkowych, ja osobiście bym w tej sytuacji nie polegał. Co w takim razie można zrobić? Wgrać do wszystkich samochodów dwie wersje oprogramowania, z czego tylko jedna jest odpowiedzialna za pracę samochodu. Druga natomiast działa jak cień (czyli_shadow_), dostaje takie same dane jak pierwsza, natomiast wynik działania jest tylko zapisywany i nie wpływa na samochód. Dzięki temu możemy przetestować nasze oprogramowanie na wszystkich użytkownikach i przeanalizować miliony jak i nie miliardy operacji. W uproszczeniu ta metoda to testowanie na produkcji w bezpieczny sposób.
+Jestem przekonany, że słyszeliście o firmie Tesla, a także o autopilocie wbudowanym w ich samochody. Mała dygresja, wyobraź sobie drogi Czytelniku sytuację, w której w Tesli jedzie śpiący pijany kierowca. Czy popełnia on przestępstwo? Jedzie, ale nie prowadzi. To nie abstrakcja i takie sytuację miały już miejsce. Polecam poszukać w Google: _drunk driver tesla_.  
+Wróćmy jednak do oprogramowania. Niezależnie od stanu prawnego, firma musi mieć pewność, że oprogramowanie autopilota jest 100% sprawne i wszystkie testy regresyjne przechodzą. Ciężko jednak wykonać takie testy, gdyż symulator nie odda wszystkich sytuacji, a ręcznie są one niewykonalne. Na samych testach jednostkowych, ja osobiście bym w tej sytuacji nie polegał. Co w takim razie można zrobić? Wgrać do wszystkich samochodów dwie wersje oprogramowania, z czego tylko jedna jest odpowiedzialna za pracę samochodu. Druga natomiast działa jak cień (czyli _shadow_), dostaje takie same dane jak pierwsza, natomiast wynik działania jest tylko zapisywany i nie wpływa na samochód. Dzięki temu możemy przetestować nasze oprogramowanie na wszystkich użytkownikach i przeanalizować miliony jak i nie miliardy operacji. W uproszczeniu ta metoda to testowanie na produkcji w bezpieczny sposób.
 
 Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jesteśmy wstanie wprowadzić. Przykładowy problem to jak rozwiązać wirtualne zapisy do bazy danych, czy wirtualne wysłanie wiadomości na kolejki. Wszystkie interakcje ze światem, muszą być w aplikacji odpowiednio zamokowane. Dodatkowo potrzebujemy komponentu, który zbiera wyniki, porównuje je i wykonuje analizę. Podsumowując dużo pracy.
 
@@ -183,7 +183,7 @@ Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jeste
 
 * Brak wpływu na użytkownika
 * Bardzo dokładne testy na danych produkcyjnych
-* Bezpieczny rollout
+* Bezpieczny _rollout_
 
 **Wady:**
 
