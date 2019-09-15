@@ -35,8 +35,8 @@ To rozwiązanie przyjemne z punktu widzenia deweloperów i administratorów jest
 
 ## Recreate
 
-Jeżeli nie ma możliwości skorzystania z okna serwisowego, musimy zastosować inne metody. Najbliższa opisanemu powyżej rozwiązaniu w Kubernetes jest metoda wdrażania typu_recreate_.  
-Na proces składają się następujące etapy: najpierw "ubijamy" wszystkie instancje naszej aplikacji, potem uruchamiamy nową wersję. Jaka jest różnica pomiędzy_recreate_a oknem serwisowym? W procesie bierze udział tylko aplikacja. Cała infrastruktura (np.: baza danych), którą mogliśmy włączyć/wyłączyć podczas okna serwisowego musimy mieć przygotowaną wcześniej.  
+Jeżeli nie ma możliwości skorzystania z okna serwisowego, musimy zastosować inne metody. Najbliższa opisanemu powyżej rozwiązaniu w Kubernetes jest metoda wdrażania typu _recreate_.  
+Na proces składają się następujące etapy: najpierw "ubijamy" wszystkie instancje naszej aplikacji, potem uruchamiamy nową wersję. Jaka jest różnica pomiędzy _recreate_ a oknem serwisowym? W procesie bierze udział tylko aplikacja. Cała infrastruktura (np.: baza danych), którą mogliśmy włączyć/wyłączyć podczas okna serwisowego musimy mieć przygotowaną wcześniej.  
 Ten sposób wdrożenia oszczędza nam sporo problemów, takich jak dwie równolegle działające wersje API, czy obsługa "starego" i "nowego" schematu bazy danych, szczególnie przy ORM.  
 Opisany powyżej sposób instalacji jest wbudowany w K8s. Żeby z niego skorzystać, tworzymy plik YAML deployment zawierający:
 
@@ -55,10 +55,10 @@ Wady:
 
 ## Blue green
 
-O sposobie wdrażania kodu typu_blue-green_usłyszałem bardzo dawno temu, w mojej pierwszej pracy. Sprowadza się on do posiadania dwukrotnie większej liczby serwerów niż nam potrzeba do prawidłowego działania aplikacji. Przynajmniej podczas wdrożenia. Nasze serwery dzielimy na dwie takie same grupy, jedną nazywamy_blue,_a drugą_green_. Przed nimi stawiamy element rozdzielający ruch (_router_) albo na jedną albo na druga grupę. W klasycznej architekturze trójwarstwowej można to zobrazować w ten sposób:  
+O sposobie wdrażania kodu typu _blue-green_ usłyszałem bardzo dawno temu, w mojej pierwszej pracy. Sprowadza się on do posiadania dwukrotnie większej liczby serwerów niż nam potrzeba do prawidłowego działania aplikacji. Przynajmniej podczas wdrożenia. Nasze serwery dzielimy na dwie takie same grupy, jedną nazywamy _blue_,a drugą _green_. Przed nimi stawiamy element rozdzielający ruch (_router_) albo na jedną albo na druga grupę. W klasycznej architekturze trójwarstwowej można to zobrazować w ten sposób:  
 ![](https://lh5.googleusercontent.com/NJSFQMsEDBV4Nen8mwc_044Y5wHteRV0yDghVw0glJq7KICg3dRx-5tvOJADEjyxqOrzaMdwVR6UxR78CEXVO2n8fiVI4aqMfdCM5OgESXVugIA1InkvDI9nD0VZqyBvobM0dXNp =602x288)
 
-Kiedy pierwszy raz przeczytałem o tym sposobie od razu nasunęło mi się pytanie: ale jak to, baza danych osobno? Jak widać na powyższym diagramie, pełny schemat_blue-green_zakłada, że serwery_blue_i serwery_green_mają także osobne bazy danych. Tak zostało to przedstawione przez Martina Fowlera. W rzeczywistości rzadko spotykamy system, który może działać w ten sposób. Dlatego przeważnie_blue-green_dotyczy tylko części aplikacyjnej.
+Kiedy pierwszy raz przeczytałem o tym sposobie od razu nasunęło mi się pytanie: ale jak to, baza danych osobno? Jak widać na powyższym diagramie, pełny schemat blue-green_zakłada, że serwery_blue_i serwery_green_mają także osobne bazy danych. Tak zostało to przedstawione przez Martina Fowlera. W rzeczywistości rzadko spotykamy system, który może działać w ten sposób. Dlatego przeważnie_blue-green_dotyczy tylko części aplikacyjnej.
 
 Na schemacie mamy pokazaną sytuację w której wersja v1.0.0.0 jest wgrana na serwery_green_. Z niej korzystają użytkownicy, dzięki przekierowaniu całego ruchu przez_router_(czyli sprzętowy bądź_softwareowy load-balancer_). Wersję v2.0.0 wgrywamy na serwery_blue_, rozgrzewamy, testujemy, itp. Gdy wszystko jest gotowe przełączamy wajchę na_router_i kierujemy cały ruch na_blue_. A co robimy z serwerami_green_? Czekają sobie spokojnie, na kolejny_deployment_, w razie problemów umożliwiając szybki_rollback_. W wersji "taniej" po chwili możemy usunąć elementy_green_, ale wtedy tracimy możliwość_rollback_.
 
