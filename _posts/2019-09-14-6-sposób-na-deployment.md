@@ -7,7 +7,7 @@ header-img: "/images/content/pablo (5).jpg"
 ---
 Niezależnie od technologii używanej w projekcie, raz na jakiś czas trzeba wdrożyć kod na produkcję. Sposobów na wdrożenie go jest N, gdzie N dąży do nieskończoności 😉. Tak jak każda firma ma w dzisiejszych czasach swój “scrum” albo “agile”, tak i ma swój sposób na instalacje. Jednym z moich ulubionych jest “sposób na PM’a”. Wygląda on następująco: PM tworzy task, a opsy go realizują...
 
-Podchodząc do sprawy na poważnie, można N znacząco zredukować. Poniżej 6 strategii na automatycznie wdrożenie aplikacji.
+Podchodząc do sprawy na poważnie, można N znacząco zredukować. Moim zdaniem do 6 i wszystkie 6 strategii opisałem poniżej.
 
 ## Autoreklama
 
