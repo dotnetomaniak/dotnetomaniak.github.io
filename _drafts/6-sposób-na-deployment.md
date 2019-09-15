@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 sposób na deployment
+title: 6 sposób na deployment (teoria + praktyka)
 date: 2019-09-14 22:00:00 +0000
 header-img: ''
 
@@ -97,7 +97,7 @@ Wady:
 
 ## Przerwa na ...
 
-Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [https://poznajkubernetes.pl](https://poznajkubernetes.pl "https://poznajkubernetes.pl"). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
+Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl "https://poznajkubernetes.pl"). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
 
 Teraz zajmiemy się bardziej delikatnymi rozwiązaniami, które wymagają pracy szarych komórek, żeby zainstalować je bez wpadki.
 
@@ -195,4 +195,4 @@ Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jeste
 
 Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jakiś to napisz do mnie koniecznie!
 
-p.s. Jeszcze raz przypominam o LIVE ([Facebook](https://www.facebook.com/events/381253005877591/) i [YouTube](http://poznajkubernetes.pl/live2)) oraz samym kursie [https://poznajkubernetes.pl](https://poznajkubernetes.pl "https://poznajkubernetes.pl")
+**p.s. Jeszcze raz przypominam o LIVE (**[**Facebook**](https://www.facebook.com/events/381253005877591/) **i** [**YouTube**](http://poznajkubernetes.pl/live2)**) oraz samym kursie** [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl "https://poznajkubernetes.pl")
