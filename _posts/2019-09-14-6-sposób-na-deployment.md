@@ -196,3 +196,7 @@ Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jeste
 Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jakiś to napisz do mnie koniecznie!
 
 **p.s. Jeszcze raz przypominam o LIVE (**[**Facebook**](https://www.facebook.com/events/381253005877591/) **i** [**YouTube**](http://poznajkubernetes.pl/live2)**) oraz samym kursie** [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl "https://poznajkubernetes.pl")
+
+<a href="https://poznajkubernetes.pl#0">
+  <img src="/images/content/og-image2.png"/>
+</a> 
