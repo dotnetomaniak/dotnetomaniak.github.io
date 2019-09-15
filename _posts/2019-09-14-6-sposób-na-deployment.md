@@ -15,6 +15,10 @@ Nim przejdziemy do teorii, chciałbym zaprosić Cię na drugą cześć LIVE Wiec
 
 **Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam** [**sekcję "Dla Kogo"**](https://poznajkubernetes.pl)**.**
 
+<a href="https://poznajkubernetes.pl#0">
+  <img src="/images/content/og-image2.png"/>
+</a>
+
 ## Okienko serwisowe
 
 W przypadku systemu z dużym oknem serwisowym (bardziej znanym pod angielską nazwą _maintenance window_) problem rozwiązuje się sam. Dla niektórych firm to zamierzchła przeszłość, ale wiele systemów poważnych instytucji wciąż wykorzystuje okna serwisowe. Szczególnie dwie noce w roku mają podwyższone prawdopodobieństwo wystąpienia “tego zjawiska”. Najbliższa odbędzie się w ostatni weekend października, w związku ze zmianą czasu. Dlaczego tak się dzieje?  
@@ -199,4 +203,4 @@ Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jaki
 
 <a href="https://poznajkubernetes.pl#0">
   <img src="/images/content/og-image2.png"/>
-</a> 
+</a>
