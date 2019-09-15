@@ -197,3 +197,5 @@ Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jeste
 ## Podsumowanie
 
 Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jakiś to napisz do mnie koniecznie!
+
+p.s. Jeszcze raz przypominam o LIVE (Facebook i YouTube) oraz samym kursie 
