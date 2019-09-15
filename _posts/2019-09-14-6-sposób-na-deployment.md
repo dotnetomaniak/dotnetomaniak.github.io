@@ -13,7 +13,7 @@ Podchodząc do sprawy na poważnie, można N znacząco zredukować. Moim zdaniem
 
 Nim przejdziemy do teorii, chciałbym zaprosić Cię na drugą cześć LIVE Wieczoru z Kubernetes, który odbędzie się w najbliższy wtorek o godzinie 20:00. Więcej informacji na [Facebook ](https://www.facebook.com/events/381253005877591/)i [YouTube](http://poznajkubernetes.pl/live2).
 
-**Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam** [**sekcję "Dla Kogo"**](https://poznajkubernetes.pl)**.**
+**Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam** [**sekcję "Dla Kogo"**](https://poznajkubernetes.pl#0)**.**
 
 ## Okienko serwisowe
 
@@ -97,7 +97,7 @@ Wady:
 
 ## Przerwa na ...
 
-Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl "https://poznajkubernetes.pl"). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
+Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl#0). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
 
 <a href="https://poznajkubernetes.pl#0">
   <img src="/images/content/og-image2.png"/>
@@ -199,7 +199,7 @@ Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jeste
 
 Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jakiś to napisz do mnie koniecznie!
 
-**p.s. Jeszcze raz przypominam o LIVE (**[**Facebook**](https://www.facebook.com/events/381253005877591/) **i** [**YouTube**](http://poznajkubernetes.pl/live2)**) oraz samym kursie** [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl "https://poznajkubernetes.pl")
+**p.s. Jeszcze raz przypominam o LIVE (**[**Facebook**](https://www.facebook.com/events/381253005877591/) **i** [**YouTube**](http://poznajkubernetes.pl/live2)**) oraz samym kursie** [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl#0)
 
 <a href="https://poznajkubernetes.pl#0">
   <img src="/images/content/og-image2.png"/>
