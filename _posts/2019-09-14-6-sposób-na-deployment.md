@@ -15,10 +15,6 @@ Nim przejdziemy do teorii, chciałbym zaprosić Cię na drugą cześć LIVE Wiec
 
 **Jest też nowa strona przedsprzedaży kursu "Poznaj Kubernetes", szczególnie polecam** [**sekcję "Dla Kogo"**](https://poznajkubernetes.pl)**.**
 
-<a href="https://poznajkubernetes.pl#0">
-  <img src="/images/content/og-image2.png"/>
-</a>
-
 ## Okienko serwisowe
 
 W przypadku systemu z dużym oknem serwisowym (bardziej znanym pod angielską nazwą _maintenance window_) problem rozwiązuje się sam. Dla niektórych firm to zamierzchła przeszłość, ale wiele systemów poważnych instytucji wciąż wykorzystuje okna serwisowe. Szczególnie dwie noce w roku mają podwyższone prawdopodobieństwo wystąpienia “tego zjawiska”. Najbliższa odbędzie się w ostatni weekend października, w związku ze zmianą czasu. Dlaczego tak się dzieje?  
@@ -102,6 +98,10 @@ Wady:
 ## Przerwa na ...
 
 Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl "https://poznajkubernetes.pl"). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
+
+<a href="https://poznajkubernetes.pl#0">
+  <img src="/images/content/og-image2.png"/>
+</a>
 
 Teraz zajmiemy się bardziej delikatnymi rozwiązaniami, które wymagają pracy szarych komórek, żeby zainstalować je bez wpadki.
 
