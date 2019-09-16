@@ -38,3 +38,15 @@ A przedsprzedaż trwa tylko do 18 września do 21:00 - polecam sekcję "Dla Kogo
 Nim nadejdzie oficjalnie WSL2, przyjemny tutorial jak pracować z docker w WSL na Windows. Trochę może przydługi, ale z wyjaśnieniem dlaczego opcja "to nie jest bezpieczne" aż tak niebezpieczna nie jest:
 
 [https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly "https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly")
+
+## RyuJIT
+
+Niestety tylko slajdy, bo samej prezentacji nie znalazłem. Ale temat mega How to add an optimization for C# to RyuJIT. 45 slajdów pełnych wiedzy: [https://www.slideshare.net/egorbogatov/how-to-add-an-optimization-for-c-to-ryujit-170891159](https://www.slideshare.net/egorbogatov/how-to-add-an-optimization-for-c-to-ryujit-170891159 "https://www.slideshare.net/egorbogatov/how-to-add-an-optimization-for-c-to-ryujit-170891159")
+
+## Co nowego w C# 8.0
+
+Pełna lista feature, z których już możemy skorzystać w C# 8.0 preview 5.
+
+[https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8 "https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8")
+
+Macie jakieś ulubione? Albo takie które uznajecie za bezsensu?
