@@ -17,4 +17,6 @@ Drugi artykuł to już migracja z 2.2 na 3.0. Jakość artykułu jak do na docs 
 
 ## A co z API?
 
-Jak już jesteśmy w tematyce migracji to warto zerknąć na bibliotekę typu "utils" opisaną w artykule: [https://www.blogofpi.com/versioning-web-api/](https://www.blogofpi.com/versioning-web-api/ "https://www.blogofpi.com/versioning-web-api/")
+Jak już jesteśmy w tematyce migracji to warto zerknąć na bibliotekę typu "utils" opisaną w artykule: [https://www.blogofpi.com/versioning-web-api/](https://www.blogofpi.com/versioning-web-api/ "https://www.blogofpi.com/versioning-web-api/") czyli Microsoft.AspNetCore.Mvc.Versioning.
+
+Podoba mi się że wspiera wszystkie opcje, ale jak na Facebook zostało zauważone warto też przeczytać: [https://nordicapis.com/api-change-strategy/](https://nordicapis.com/api-change-strategy/ "https://nordicapis.com/api-change-strategy/") 
