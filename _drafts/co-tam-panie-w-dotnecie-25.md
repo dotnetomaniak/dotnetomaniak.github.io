@@ -5,3 +5,4 @@ date: 2019-09-15 22:00:00 +0000
 header-img: ''
 
 ---
+Edycja 25 jubileuszowa.
