@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #25'
 date: 2019-09-15 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-1.jpg"
 
 ---
 Edycja 25 jubileuszowa. Dziś dużo o migracjach, bo pewnie część z nas nie może się już doczekać na dotNET Core 3.0
