@@ -15,6 +15,8 @@ Powoli, krok po kroku, więc można to przenieść na swój projekt o ile jeszcz
 
 Drugi artykuł to już migracja z 2.2 na 3.0. Jakość artykułu jak do na docs microsoft. Albo się lubi albo nie. Natomiast jak jesteście jeszcze przed (to na przykład ja) to na pewno się przyda Szczególnie sekcja "Json.NET support". Więcej: [https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio "https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio")
 
+Do tego na sam koniec w moim zdaniem bardziej przystępnej wersji porównanie kodu w _Startup.cs_ pomiędzy 2.2 a 3.0: [https://andrewlock.net/comparing-startup-between-the-asp-net-core-3-templates/](https://andrewlock.net/comparing-startup-between-the-asp-net-core-3-templates/ "https://andrewlock.net/comparing-startup-between-the-asp-net-core-3-templates/")
+
 ## A co z API?
 
 Jak już jesteśmy w tematyce migracji to warto zerknąć na bibliotekę typu "utils" opisaną w artykule: [https://www.blogofpi.com/versioning-web-api/](https://www.blogofpi.com/versioning-web-api/ "https://www.blogofpi.com/versioning-web-api/") czyli Microsoft.AspNetCore.Mvc.Versioning.
