@@ -100,7 +100,7 @@ Wady:
 Jak na razie mamy za sobą sposoby, proste i przyjazne deweloperom. Jeżeli tematyka Cię zaciekawiła to zapraszam Cię na [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl#0). Podczas kursu będziesz miał okazję wypróbować powyższe i poniższe sposoby deployment :)
 
 <a href="https://poznajkubernetes.pl#0">
-  <img src="/images/content/og-image2.png"/>
+<img src="/images/content/og-image2.png"/>
 </a>
 
 Teraz zajmiemy się bardziej delikatnymi rozwiązaniami, które wymagają pracy szarych komórek, żeby zainstalować je bez wpadki.
@@ -179,7 +179,7 @@ Jeżeli nasz ruch do aplikacji przechodzi przez Ingress (taki jeden serwis wysta
 ## Shadow
 
 Jestem przekonany, że słyszeliście o firmie Tesla, a także o autopilocie wbudowanym w ich samochody. Mała dygresja, wyobraź sobie drogi Czytelniku sytuację, w której w Tesli jedzie śpiący pijany kierowca. Czy popełnia on przestępstwo? Jedzie, ale nie prowadzi. To nie abstrakcja i takie sytuację miały już miejsce. Polecam poszukać w Google: _drunk driver tesla_.  
-Wróćmy jednak do oprogramowania. Niezależnie od stanu prawnego, firma musi mieć pewność, że oprogramowanie autopilota jest 100% sprawne i wszystkie testy regresyjne przechodzą. Ciężko jednak wykonać takie testy, gdyż symulator nie odda wszystkich sytuacji, a ręcznie są one niewykonalne. Na samych testach jednostkowych, ja osobiście bym w tej sytuacji nie polegał. Co w takim razie można zrobić? Wgrać do wszystkich samochodów dwie wersje oprogramowania, z czego tylko jedna jest odpowiedzialna za pracę samochodu. Druga natomiast działa jak cień (czyli _shadow_), dostaje takie same dane jak pierwsza, natomiast wynik działania jest tylko zapisywany i nie wpływa na samochód. Dzięki temu możemy przetestować nasze oprogramowanie na wszystkich użytkownikach i przeanalizować miliony jak i nie miliardy operacji. W uproszczeniu ta metoda to testowanie na produkcji w bezpieczny sposób.
+Wróćmy jednak do oprogramowania. Niezależnie od stanu prawnego, firma musi mieć pewność, że oprogramowanie autopilota jest 100% sprawne i wszystkie testy regresji przechodzą. Ciężko jednak wykonać takie testy, gdyż symulator nie odda wszystkich sytuacji, a ręcznie są one niewykonalne. Na samych testach jednostkowych, ja osobiście bym w tej sytuacji nie polegał. Co w takim razie można zrobić? Wgrać do wszystkich samochodów dwie wersje oprogramowania, z czego tylko jedna jest odpowiedzialna za pracę samochodu. Druga natomiast działa jak cień (czyli _shadow_), dostaje takie same dane jak pierwsza, natomiast wynik działania jest tylko zapisywany i nie wpływa na samochód. Dzięki temu możemy przetestować nasze oprogramowanie na wszystkich użytkownikach i przeanalizować miliony jak i nie miliardy operacji. W uproszczeniu ta metoda to testowanie na produkcji w bezpieczny sposób.
 
 Niestety tej metody bez dużej liczby zmian w kodzie i infrastrukturze nie jesteśmy wstanie wprowadzić. Przykładowy problem to jak rozwiązać wirtualne zapisy do bazy danych, czy wirtualne wysłanie wiadomości na kolejki. Wszystkie interakcje ze światem, muszą być w aplikacji odpowiednio zamokowane. Dodatkowo potrzebujemy komponentu, który zbiera wyniki, porównuje je i wykonuje analizę. Podsumowując dużo pracy.
 
@@ -202,5 +202,5 @@ Opisaliśmy 6 sposób na automatyczny deployment. Jeżeli kojarzysz jeszcze jaki
 **p.s. Jeszcze raz przypominam o LIVE (**[**Facebook**](https://www.facebook.com/events/381253005877591/) **i** [**YouTube**](http://poznajkubernetes.pl/live2)**) oraz samym kursie** [**https://poznajkubernetes.pl**](https://poznajkubernetes.pl#0)
 
 <a href="https://poznajkubernetes.pl#0">
-  <img src="/images/content/og-image2.png"/>
+<img src="/images/content/og-image2.png"/>
 </a>
