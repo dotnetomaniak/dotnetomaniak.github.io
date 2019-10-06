@@ -35,3 +35,7 @@ Tyle lat już minęło, a one nadal są i działają całkiem sprawnie. Bardzo c
 W zeszłym tygodniu (piątek i sobota) odbyła się konferencja, na której każdy może siedzieć u siebie na kanapie w domu, czyli dotnetconfpl. 6 bardzo fajnych sesji, które można już obejrzeć na YouTube (o ile nie oglądaliście na żywo). Obrobione video pojawią się za kilka dni na YouTube: [https://www.youtube.com/channel/UCs3oPPpRdETQTsxVF-Wvqbg/videos](https://www.youtube.com/channel/UCs3oPPpRdETQTsxVF-Wvqbg/videos "https://www.youtube.com/channel/UCs3oPPpRdETQTsxVF-Wvqbg/videos")
 
 Brawo dla chłopaków za świetną robotę!
+
+## Tydzień dotnetomaniaka
+
+Na dotnetomaniaku w zeszłym tygodniu 11 solidnych artykułów. Akurat do porannej kawy czy herbaty: [https://dotnetomaniak.pl/weekly/2019/40](https://dotnetomaniak.pl/weekly/2019/40 "https://dotnetomaniak.pl/weekly/2019/40"). Dodatkowo pojawi się pierwszy artykuł reklamowy: [https://dotnetomaniak.pl/Reklama-Mikroserwisy-NET-Kompleksowy-kurs-online-wprowadzajacy-w-swiat-nowoczesnej-architektury-mikroserwisow](https://dotnetomaniak.pl/Reklama-Mikroserwisy-NET-Kompleksowy-kurs-online-wprowadzajacy-w-swiat-nowoczesnej-architektury-mikroserwisow "https://dotnetomaniak.pl/Reklama-Mikroserwisy-NET-Kompleksowy-kurs-online-wprowadzajacy-w-swiat-nowoczesnej-architektury-mikroserwisow"). Dzięki niemu Polska Akcja Humanitarna dostała małą cegiełkę. 
