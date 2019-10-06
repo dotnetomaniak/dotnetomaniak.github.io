@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #26'
 date: 2019-10-06 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/fabrizio-verrecchia-BXwbfuM0cdk-unsplash.jpg"
 
 ---
 Nie idzie mi ostatnio co tydzień, więc tym razem nieregularne podsumowanie tygodnia.
