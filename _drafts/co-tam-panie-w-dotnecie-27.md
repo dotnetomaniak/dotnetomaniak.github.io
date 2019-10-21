@@ -24,3 +24,21 @@ Jeżeli używacie NET Core na Linux to wreszcie w trybie Server GC nie będzie o
 Przy okazji dowcip ze świata Java. W JVM liczba CPU przekłada się na liczbę wątków. Ponieważ do Java 11 nie działały ograniczenia na CPU, tak jak w dotnet nie działały limity na RAM, to nagły upgrade do 11 w pewnej firmie spowodował mały stop na produkcji.
 
 Więcej w temacie (+ obrazy do docker): [https://devblogs.microsoft.com/dotnet/using-net-and-docker-together-dockercon-2019-update/](https://devblogs.microsoft.com/dotnet/using-net-and-docker-together-dockercon-2019-update/ "https://devblogs.microsoft.com/dotnet/using-net-and-docker-together-dockercon-2019-update/")
+
+## Trochę więcej o Linux
+
+Artykuł od RedHat, czyli jak by nie patrzeć specjalistów od Linux :) Z ciekawostek:
+
+* `/p:PublishReadyToRun=true` - kod skąpilowany w ten sposob nie potrzebuje późniejszej just-in-time kompilacji co oznacza szynszy start
+* 3 narzędzia do konsoli diagnostycznej: dotnet-dump, dotnet-trace i dotnet-counters
+* `/p:PublishSingleFile=true` oraz `/p:PublishTrimmed=true` - czyli spakowanie całości aplikacji w jeden `exe` mający minimum zależności w sobie
+
+Całość: [https://developers.redhat.com/blog/2019/10/17/new-features-in-net-core-3-0-on-linux/](https://developers.redhat.com/blog/2019/10/17/new-features-in-net-core-3-0-on-linux/ "https://developers.redhat.com/blog/2019/10/17/new-features-in-net-core-3-0-on-linux/")
+
+## A co z Windows Containers?
+
+Dla mnie to szok, serio!!!! A ponieważ mam znajomych, którzy są w tematyce głęboko i dla nich to też szok, to mam szok do kwadratu!
+
+Mówiąc wprost AWS (tak to nie pomyłka, nie Azure tylko AWS) ogłosił GA (czyli coś stabilnego) dla Windows Containers. Artykuł na 30 sekund czytania, ale dzięki niemu jest oficjalnie: [https://aws.amazon.com/blogs/aws/amazon-eks-windows-container-support-now-generally-available/](https://aws.amazon.com/blogs/aws/amazon-eks-windows-container-support-now-generally-available/ "https://aws.amazon.com/blogs/aws/amazon-eks-windows-container-support-now-generally-available/")
+
+## 
