@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #27'
 date: 2019-10-20 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo (6).jpg"
 
 ---
 27 podsumowanie tygodnia. W dużej mierze powstał dzięki moim kolegom z pracy, za co bardzo im dziękuję.
