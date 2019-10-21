@@ -7,7 +7,7 @@ header-img: ''
 ---
 27 podsumowanie tygodnia. W dużej mierze powstał dzięki moim kolegom z pracy, za co bardzo im dziękuję.
 
- W tym tygodniu najważniejszy news to cytat z JetBrains:
+W tym tygodniu najważniejszy news to cytat z JetBrains:
 
 > But if the results are normalized by sample size, C# is the most loved language
 
@@ -41,4 +41,22 @@ Dla mnie to szok, serio!!!! A ponieważ mam znajomych, którzy są w tematyce g�
 
 Mówiąc wprost AWS (tak to nie pomyłka, nie Azure tylko AWS) ogłosił GA (czyli coś stabilnego) dla Windows Containers. Artykuł na 30 sekund czytania, ale dzięki niemu jest oficjalnie: [https://aws.amazon.com/blogs/aws/amazon-eks-windows-container-support-now-generally-available/](https://aws.amazon.com/blogs/aws/amazon-eks-windows-container-support-now-generally-available/ "https://aws.amazon.com/blogs/aws/amazon-eks-windows-container-support-now-generally-available/")
 
-## 
+## Nowość do mikroserwisów
+
+Pojawił się DAPR czyli cały projekt do łatwiejszej budowy mikroserwisów. Czy się przyjmie czy nie - pożyjemy zobaczymy. Przy okazji jest mały shit-storm, bo nazwa przypomina za bardzo dapper (podobno).
+
+Co jak i dlaczego w artykule: [https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/](https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/ "https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/")
+
+## Czym różni się JSON serializacja w NET Core?
+
+Małe zmiany duże różnice, ale pokazuje to że System.Text.Json i Json.NET nie są w 100% kompatybilne. Konsekwencją będzie albo pozostanie w Json.NET, albo bardzo uważna migracja. . Całość przykładu w: [https://weblogs.asp.net/rweigelt/json-serialization-in-net-core-3-tiny-difference-big-consequences](https://weblogs.asp.net/rweigelt/json-serialization-in-net-core-3-tiny-difference-big-consequences "https://weblogs.asp.net/rweigelt/json-serialization-in-net-core-3-tiny-difference-big-consequences")
+
+## Niespodzianka z tapetą
+
+Ile godzin spędziliście na patrzenie się w tapetę Windows XP? Mi aż ciężko oszacować. Poniżej Pan który zrobił to słynne zdjęcie + miejsce jego zrobienia:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is Charles, the man who took the Windows XP background photo in Sonoma, California. 😎🤘📷 <a href="https://t.co/NoRFGKDQIo">pic.twitter.com/NoRFGKDQIo</a></p>— The Retro Room 🎮🕹🎬🎥 (@TheRetroRoomRoo) <a href="https://twitter.com/TheRetroRoomRoo/status/1185570262407897091?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Podsumowanie dotnetomaniaka
+
+Na koniec podsumowanie tygodnia dotnetomaniaka. 8 fajnych artykułów akurat do porannej kawy: [https://dotnetomaniak.pl/weekly/2019/42](https://dotnetomaniak.pl/weekly/2019/42 "https://dotnetomaniak.pl/weekly/2019/42")
