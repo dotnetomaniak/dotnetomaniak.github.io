@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 5 mitów o kontenerach
-date: 
-header-img: ''
+date: 2019-11-02 23:00:00 +0000
+header-img: "/images/content/pablo (6) (1).jpg"
 
 ---
 Jeżeli używasz kontenerów to większość mitów pewnie znasz, a jeżeli nie używasz to słyszałeś je na 100%. Taki paradoks. 5 mitów, które krążą na temat konteneryzacji, jest tak powszechnych, że aż postanowiłem się z nimi rozprawić.
@@ -27,19 +27,19 @@ Podsumowując można zgodzić się z tym mitem, o ile rozszerzymy go o dodatkowe
 
 ## Kontenery są ciężkie w setup
 
-To znowu półprawda. Jeżeli podejdziemy od strony, że informatyka jest ciężka to kontenery też są. Oczywiście użycie niektórych technologii jest trudne, ale Docker jest naprawdę przyjazny. Wystarczy kilka dobrych praktyk, które mój kolega Gutek, jest wstanie opisać w 15 minut i dać Ci kilka ćwiczeń do domu, po których masz naprawdę wystarczającą wiedzę. 
+To znowu półprawda. Jeżeli podejdziemy od strony, że informatyka jest ciężka to kontenery też są. Oczywiście użycie niektórych technologii jest trudne, ale Docker jest naprawdę przyjazny. Wystarczy kilka dobrych praktyk, które mój kolega Gutek, jest wstanie opisać w 15 minut i dać Ci kilka ćwiczeń do domu, po których masz naprawdę wystarczającą wiedzę.
 
 Taki zakres wystarcza w 95% przypadków. A co z 5%? Pozwolę sobie użyć słynnego powiedzenia w świecie IT “to zależy”. Doświadczenie jednak mi mówi, że większość tych 5% to błędy nie w kontenerach, tylko w aplikacji :)
 
-## Jak odpalę docker to będzie lepiej
+## Jak odpalę Docker to będzie lepiej
 
-To kolejna półprawda, albo nawet totalne kłamstwo. Sam docker rozwiązuje bardzo określoną gamę problemów, poza tym jest takim plikiem ZIP, który zawiera naszą aplikację oraz wszystkie jej zależności. Żeby jednak całość działała dobrze, potrzebne jest magiczne narzędzie do uruchamiania i zarządzania kontenerami. Zawodników było wielu, ale na placu boju wygląda, że zostanie jeden - Kubernetes.
+To kolejna półprawda, albo nawet totalne kłamstwo. Sam Docker rozwiązuje określoną gamę problemów, a poza tym jest takim plikiem ZIP, który zawiera naszą aplikację oraz wszystkie jej zależności. Żeby jednak całość działała dobrze, potrzebne jest magiczne narzędzie do uruchamiania i zarządzania kontenerami. Zawodników było wielu, ale na placu boju wygląda, że zostanie jeden - Kubernetes.
 
 ## Podsumowanie
 
 Jeżeli temat Cię zainteresował i chcesz dowiedzieć się więcej to zapraszam Cię serdecznie na webinar “Wieczór z Kubernetes”. Tym razem motywem przewodnim będzie dyskusja na temat konteneryzacji, możesz dołączyć do wydarzenia:
 
-* Link YouTube
-* Link Facebook
+* [na YouTube](https://k8s.buzz/live-youtube)
+* [na Facebook](https://k8s.buzz/live-facebook)
 
-p.s. Wystartował też kurs “Poznaj Kubernetes”, na którym dowiesz się jak wejść w świat kontenerów nie tylko od praktycznej strony, ale też od teoretycznej. Dotykamy nie tylko Kubernetes, bo sam w sobie jest on tylko “młotkiem”. Omówimy tematy architektury systemów rozproszonych, jak używać docker czy jakie health check powinna mieć nasza aplikacja. Więcej na oficialnej stronie: [http://poznajkubernetes.pl](http://poznajkubernetes.pl "http://poznajkubernetes.pl")
+p.s. Wystartował też kurs “Poznaj Kubernetes”, na którym dowiesz się jak wejść w świat kontenerów nie tylko od praktycznej strony, ale też od teoretycznej. Dotykamy nie tylko Kubernetes, bo sam w sobie jest on tylko “młotkiem”. Omówimy tematy architektury systemów rozproszonych, jak używać docker czy jakie health check powinna mieć nasza aplikacja. Więcej na oficjalnej stronie: [http://poznajkubernetes.pl](http://poznajkubernetes.pl "http://poznajkubernetes.pl")
