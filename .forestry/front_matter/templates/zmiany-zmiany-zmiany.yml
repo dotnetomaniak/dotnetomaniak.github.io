@@ -19,6 +19,7 @@ fields:
   name: header-img
   label: HEADER IMG
 pages:
+- _posts/co-tam-panie-w-dotnecie-wróć-tym-razem-w-azure.md
 - _posts/2019-05-26-co-tam-panie-w-dotnecie-16.md
 - _posts/2019-06-09-co-tam-panie-w-dotnecie-18.md
 - _posts/2019-06-02-co-tam-panie-w-dotnecie-17.md
