@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #02/2020'
 date: 2020-02-09 23:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-2.jpg"
 
 ---
 Odcinek 2 podsumowania świata .NET w 2020. Dziś wyjątkowo krótki, bo niektórzy mają ferie i myślą o śniegu, a nie o programowaniu :D
