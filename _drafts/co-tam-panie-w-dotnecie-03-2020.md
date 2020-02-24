@@ -11,10 +11,6 @@ W zeszłym tygodniu, były narty, więc zabrakło odcinka. Ale w tym tygodniu wr
 
 Dokładnie na te pytania odpowiada autor artykułu, a warto znać odpowiedzi, bo używamy go na codziennie. Co więcej w artykule, są odnośniki do innych postów autora, które też warto przejrzeć. Warto kliknąć: [https://andrewlock.net/exploring-the-new-rollforward-and-allowprerelease-settings-in-global-json/](https://andrewlock.net/exploring-the-new-rollforward-and-allowprerelease-settings-in-global-json/ "https://andrewlock.net/exploring-the-new-rollforward-and-allowprerelease-settings-in-global-json/")
 
-## Co tam na dotnetomaniaku?
-
-Kolejny tydzień za nami i równe 10 artykułów. Warto zerknąć: [https://dotnetomaniak.pl/weekly/2020/8](https://dotnetomaniak.pl/weekly/2020/8 "https://dotnetomaniak.pl/weekly/2020/8") do kawy idealne :)
-
 ## Chcesz za darmo nauczyć się k8s?
 
 Razem z 2 osobnikami, przygotowałem mini-kurs jak zacząć z Kubernetes. Jest on w 100% za darmo - jedynie potrzebujemy Twojego maila do założenia konta. A w nim:
@@ -38,3 +34,7 @@ Machine Learning to dla mnie "terra incognita". Właśnie dlatego ten artykuł j
 ## Olbrzymie repo w Git? Scalar na ratunek
 
 Masz za duże Git repo? Microsoft ma ten problem i całkiem fajnie go rozwija. Więcej w artykule i na Git Merge 2020 z livestream: [https://devblogs.microsoft.com/devops/introducing-scalar/](https://devblogs.microsoft.com/devops/introducing-scalar/ "https://devblogs.microsoft.com/devops/introducing-scalar/")
+
+## Co tam na dotnetomaniaku?
+
+Kolejny tydzień za nami i równe 10 artykułów. Warto zerknąć: [https://dotnetomaniak.pl/weekly/2020/8](https://dotnetomaniak.pl/weekly/2020/8 "https://dotnetomaniak.pl/weekly/2020/8") do kawy idealne :)
