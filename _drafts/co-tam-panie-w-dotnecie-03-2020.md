@@ -5,7 +5,7 @@ date: 2020-02-23 23:00:00 +0000
 header-img: "/images/content/pablo-3.jpg"
 
 ---
-Kolejny odcinek :)
+W zeszłym tygodniu, były narty, więc zabrakło odcinka. Ale w tym tygodniu wracamy na antenę ;)
 
 ## Global.json - po co to i dlaczego?
 
