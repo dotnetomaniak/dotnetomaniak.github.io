@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #04/2020'
 date: 
-header-img: ''
+header-img: "/images/content/pablo-4.jpg"
 
 ---
 Ten tydzień pełen niespodzianek.Głównie dominują nowości. Powiem szczerze, że aż sam jestem zaskoczony.
@@ -36,4 +36,4 @@ Kolejna wersja już jest. Zestaw zmian naprawdę fajny, że aż mi szkoda, że o
 
 Co prawda tylko 9 postów w tym tygodniu, ale za to jakich! Szczególnie polecam ten o endpointach, które powinna mieć każda aplikacja. Gutek wie co pisze. Wszystkie 9 znajdziesz tutaj: [https://dotnetomaniak.pl/weekly/2020/9](https://dotnetomaniak.pl/weekly/2020/9 "https://dotnetomaniak.pl/weekly/2020/9")
 
-Do 12:00 trwa konkurs o wejściówkę na Wroc#. Wystarczy wysłać mema/śmieszny obrazek dotyczący dotNET do mnie. Jak na razie jest mało chętnych więc szanse na zwycięstwo duże!
+Do poniedziałku do 12:00 trwa konkurs o wejściówkę na Wroc#. Wystarczy wysłać mema/śmieszny obrazek dotyczący dotNET do mnie. Jak na razie jest mało chętnych więc szanse na zwycięstwo duże!
