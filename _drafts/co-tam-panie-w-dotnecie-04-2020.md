@@ -5,7 +5,7 @@ date:
 header-img: ''
 
 ---
-Ten tydzień pełen niespodzianek.
+Ten tydzień pełen niespodzianek.Głównie dominują nowości. Powiem szczerze, że aż sam jestem zaskoczony.
 
 ## Przyszłość C#
 
@@ -17,3 +17,7 @@ To zawsze wzbudza emocje - gdzie będzie się dało oszczędzić "pół linijki 
 * [Usprawnienia pattern maching](https://sharplab.io/#v2:EYLgZgpghgLgrgJwgZwLQAdYwggdsgZgB8ABAJgEYBYAKFoHp6ACACxhnWREYHMBLGCzjAAdAGMA9gFt6AEwkxcEGPTHIWUBOgA2UXD3p9kyOCnpkAHAFYADLVokKANibkmAYSYBvWkz9Nff0cXABk+SABlGCgeCCYwyOjYgEEYZNiACj5cGCYYiABKJgBeAD482KZkAHcBMRZAvx8af1amAB4mGxLy+PCIKPyRAAUkXFgobQAaRrbOsh6/BIGkiBEASVwwPRgZlra/ToAWRb7EoYAVCVlZbRw9g8OmFzKl/sHYkQBRTW0AT3cLD42lkD0enQoC1eyw+awAsnwbndAcDQbNWvNutD3qsRMl5HdkGIIDkwQdjljyjDcT8EP98XBtLt0f5Ok4rItqUMEUiIAymWS2gB9U5vc6fEKwPmyRnM/Z+AC+AG5aAr7DQSXApGcVvlaM1WqMSRNprNNttSbMrryEILaf8USDBTzbhBHWj5Ux8RJCcTLZ77X9+XLWi67sHBZLsBHVUA===)
 
 Mnie najbardziej podoba się ostatni punkt. A jakie jest Twoje zdanie?
+
+## Co nowego w Windows Server?
+
+Kolejna garść przecieków. Tym razem na tapecie vNext Windows Server. I chodź głównie pewnie zaciekawią one "opsów", to część dotycząca Windows Containers należy do "devów" ;) Więcej: [https://www.techrepublic.com/article/whats-vnext-for-windows-server/](https://www.techrepublic.com/article/whats-vnext-for-windows-server/ "https://www.techrepublic.com/article/whats-vnext-for-windows-server/")
