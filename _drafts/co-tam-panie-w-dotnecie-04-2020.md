@@ -18,6 +18,14 @@ To zawsze wzbudza emocje - gdzie będzie się dało oszczędzić "pół linijki 
 
 Mnie najbardziej podoba się ostatni punkt. A jakie jest Twoje zdanie?
 
+## Async stream
+
+Coś co już jest i można korzystać, czyli typ `IAsyncEnumerator<T>` , kt
+
 ## Co nowego w Windows Server?
 
 Kolejna garść przecieków. Tym razem na tapecie vNext Windows Server. I chodź głównie pewnie zaciekawią one "opsów", to część dotycząca Windows Containers należy do "devów" ;) Więcej: [https://www.techrepublic.com/article/whats-vnext-for-windows-server/](https://www.techrepublic.com/article/whats-vnext-for-windows-server/ "https://www.techrepublic.com/article/whats-vnext-for-windows-server/")
+
+## Typescript 3.8 już jest
+
+Kolejna wersja już jest. Zestaw zmian naprawdę fajny, że aż mi szkoda, że ostatnio zupełnie z niego nie korzystam. Całość: [https://www.infoq.com/news/2020/02/typescript-3-8-release/](https://www.infoq.com/news/2020/02/typescript-3-8-release/ "https://www.infoq.com/news/2020/02/typescript-3-8-release/")
