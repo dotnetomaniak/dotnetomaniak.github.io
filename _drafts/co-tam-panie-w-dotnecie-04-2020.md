@@ -32,8 +32,6 @@ Kolejna garść przecieków. Tym razem na tapecie vNext Windows Server. I chodź
 
 Kolejna wersja już jest. Zestaw zmian naprawdę fajny, że aż mi szkoda, że ostatnio zupełnie z niego nie korzystam. Całość: [https://www.infoq.com/news/2020/02/typescript-3-8-release/](https://www.infoq.com/news/2020/02/typescript-3-8-release/ "https://www.infoq.com/news/2020/02/typescript-3-8-release/")
 
-## Wejściówka na Wroc# i tydzień dotnetomaniaka
+## Tydzień dotnetomaniaka
 
 Co prawda tylko 9 postów w tym tygodniu, ale za to jakich! Szczególnie polecam ten o endpointach, które powinna mieć każda aplikacja. Gutek wie co pisze. Wszystkie 9 znajdziesz tutaj: [https://dotnetomaniak.pl/weekly/2020/9](https://dotnetomaniak.pl/weekly/2020/9 "https://dotnetomaniak.pl/weekly/2020/9")
-
-Do poniedziałku do 12:00 trwa konkurs o wejściówkę na Wroc#. Wystarczy wysłać mema/śmieszny obrazek dotyczący dotNET do mnie. Jak na razie jest mało chętnych więc szanse na zwycięstwo duże!
