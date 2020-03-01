@@ -20,7 +20,9 @@ Mnie najbardziej podoba się ostatni punkt. A jakie jest Twoje zdanie?
 
 ## Async stream
 
-Coś co już jest i można korzystać, czyli typ `IAsyncEnumerator<T>` , kt
+Coś co już jest i można korzystać, czyli typ `IAsyncEnumerator<T>`, który jest dość podobny do `IEnumerable<T>` :) Naprawdę fajne! Warto zerknąć na: [https://developers.redhat.com/blog/2020/02/24/c-8-asynchronous-streams/](https://developers.redhat.com/blog/2020/02/24/c-8-asynchronous-streams/ "https://developers.redhat.com/blog/2020/02/24/c-8-asynchronous-streams/")
+
+Przy okazji. Artykuł pojawił się na blogu Red Hat. Osobiście bardzo mnie to śmieszy :)
 
 ## Co nowego w Windows Server?
 
@@ -29,3 +31,9 @@ Kolejna garść przecieków. Tym razem na tapecie vNext Windows Server. I chodź
 ## Typescript 3.8 już jest
 
 Kolejna wersja już jest. Zestaw zmian naprawdę fajny, że aż mi szkoda, że ostatnio zupełnie z niego nie korzystam. Całość: [https://www.infoq.com/news/2020/02/typescript-3-8-release/](https://www.infoq.com/news/2020/02/typescript-3-8-release/ "https://www.infoq.com/news/2020/02/typescript-3-8-release/")
+
+## Wejściówka na Wroc# i tydzień dotnetomaniaka
+
+Co prawda tylko 9 postów w tym tygodniu, ale za to jakich! Szczególnie polecam ten o endpointach, które powinna mieć każda aplikacja. Gutek wie co pisze. Wszystkie 9 znajdziesz tutaj: [https://dotnetomaniak.pl/weekly/2020/9](https://dotnetomaniak.pl/weekly/2020/9 "https://dotnetomaniak.pl/weekly/2020/9")
+
+Do 12:00 trwa konkurs o wejściówkę na Wroc#. Wystarczy wysłać mema/śmieszny obrazek dotyczący dotNET do mnie. Jak na razie jest mało chętnych więc szanse na zwycięstwo duże!
