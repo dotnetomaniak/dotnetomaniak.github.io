@@ -5,7 +5,7 @@ date:
 header-img: "/images/content/pablo-4.jpg"
 
 ---
-Ten tydzień pełen niespodzianek.Głównie dominują nowości. Powiem szczerze, że aż sam jestem zaskoczony.
+Ten tydzień pełen niespodzianek. Głównie dominują nowości. Powiem szczerze, że aż sam jestem zaskoczony.
 
 ## Przyszłość C#
 
