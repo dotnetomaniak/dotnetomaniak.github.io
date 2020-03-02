@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Co tam Panie w dotnecie? #04/2020'
-date: 
+date: 2020-03-01 23:00:00 +0000
 header-img: "/images/content/pablo-4.jpg"
 
 ---
