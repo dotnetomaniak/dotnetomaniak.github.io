@@ -31,7 +31,7 @@ Więcej: [https://devblogs.microsoft.com/cosmosdb/build-apps-for-free-with-azure
 
 ## Seria na temat DAPR
 
-Powoli przymierzam się do zabawy z DAPR. Co z tego wyniknie pożyjemy - zobaczymy, ale przy okazji znalazłem całkiem fajny tutorial (seria 3 artykułów) na temat DAPR. Całość: [https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md](https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md "https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md")
+Powoli przymierzam się do zabawy z DAPR. Co z tego wyniknie pożyjemy - zobaczymy, ale przy okazji znalazłem całkiem fajny tutorial (seria 3 artykułów) na temat DAPR i kolejek. Całość: [https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md](https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md "https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md")
 
 Jak masz coś lepszego pisz do mnie śmiało, będę bardzo wdzięczny.
 
