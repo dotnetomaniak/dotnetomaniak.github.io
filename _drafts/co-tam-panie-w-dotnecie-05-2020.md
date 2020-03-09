@@ -16,4 +16,9 @@ Zarówno Microsoft jak i Amazon udostępniły za damo swoje komunikatory na najb
 
 ## PowerShell 7.0
 
-Choć moi znajomi często sięz 
+Choć moi znajomi często się nabijają, że jestem mega fanem PowerShell to zupełnie mi to nie przeszkadza :)
+
+Już PowerShell Core był dla mnie super wiadomością i choć może brzmieć to dziwnie to jako prawdziwy fan mam go nawet na swoim maczku. Nowa wersja to pod spodem dotnet core 3.1 zamiast 2.0. Oczywiście doszło kilka fajnych nowości, ale przede wszystkiem powoli zamiast PowerShell ISE będzie Visual Studio Code. Super! Więcej:
+
+* Oficjalne ogłoszenie: [https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/](https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/ "https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/")
+* Visual Studio Code for PowerShell 7: [https://devblogs.microsoft.com/powershell/visual-studio-code-for-powershell-7/](https://devblogs.microsoft.com/powershell/visual-studio-code-for-powershell-7/ "https://devblogs.microsoft.com/powershell/visual-studio-code-for-powershell-7/")
