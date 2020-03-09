@@ -36,3 +36,7 @@ Powoli przymierzam się do zabawy z DAPR. Co z tego wyniknie pożyjemy - zobaczy
 Jak masz coś lepszego pisz do mnie śmiało, będę bardzo wdzięczny.
 
 ## Tydzień dotentomaniaka
+
+Przyznam szczerze, że na dotetnomaniaku w tym tygodniu trochę sucho. Jedynie 6 artykułów, ale nie ilość a jakość się liczy :) Serdecznie zapraszam, bo jest ciekawie:
+
+[https://dotnetomaniak.pl/weekly/2020/10](https://dotnetomaniak.pl/weekly/2020/10 "https://dotnetomaniak.pl/weekly/2020/10")
