@@ -22,3 +22,17 @@ Już PowerShell Core był dla mnie super wiadomością i choć może brzmieć to
 
 * Oficjalne ogłoszenie: [https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/](https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/ "https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/")
 * Visual Studio Code for PowerShell 7: [https://devblogs.microsoft.com/powershell/visual-studio-code-for-powershell-7/](https://devblogs.microsoft.com/powershell/visual-studio-code-for-powershell-7/ "https://devblogs.microsoft.com/powershell/visual-studio-code-for-powershell-7/")
+
+## Darmowy Cosmos DB
+
+Po różnych przygodach z Cosmos DB, szczególnie pod względem cennika i niespodziewanych kosztów od czasu do czasu, wiadomość o darmowej wersji przyjąłem z przymrużeniem oka. A tu proszę całkiem fajna oferta na spróbowanie: 400/RU + 5GB. 
+
+Więcej: [https://devblogs.microsoft.com/cosmosdb/build-apps-for-free-with-azure-cosmos-db-free-tier/](https://devblogs.microsoft.com/cosmosdb/build-apps-for-free-with-azure-cosmos-db-free-tier/ "https://devblogs.microsoft.com/cosmosdb/build-apps-for-free-with-azure-cosmos-db-free-tier/")
+
+## Seria na temat DAPR
+
+Powoli przymierzam się do zabawy z DAPR. Co z tego wyniknie pożyjemy - zobaczymy, ale przy okazji znalazłem całkiem fajny tutorial (seria 3 artykułów) na temat DAPR. Całość: [https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md](https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md "https://github.com/ToonVanhoutte/dapr-samples/blob/master/README.md")
+
+Jak masz coś lepszego pisz do mnie śmiało, będę bardzo wdzięczny.
+
+## Tydzień dotentomaniaka
