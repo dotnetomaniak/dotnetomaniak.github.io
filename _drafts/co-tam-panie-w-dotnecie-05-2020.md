@@ -18,4 +18,12 @@ W tym tygodniu mam okazję współorganizować 2 świetne wydarzenia online:
 
 Serio, serio! Github właśnie wkupił NPM, czyli deweloperski świat MS właśni rozszerzył się o całkiem pokaźny kawałek świata. Więcej: [https://github.blog/2020-03-16-npm-is-joining-github/](https://github.blog/2020-03-16-npm-is-joining-github/ "https://github.blog/2020-03-16-npm-is-joining-github/")
 
-## 
+## Jak odinstalować dotnet core?
+
+Ilość wersji na naszym komputerze puchnie z prawie każdym tygodniem, dlatego MS wypuścił narzędzie do wygodnego odinstalowywania niepotrzebnych już wersji SDK: [https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/](https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/ "https://devblogs.microsoft.com/dotnet/announcing-the-net-core-uninstall-tool-1-0/") 
+
+## Jak szybki jest dotnet core 3.1?
+
+Benchmark jak benchmark - wierzysz albo nie 😅. Ten jest o tyle fajny, że porównuje te same metody w **dotnet** **4.8** i **dotnet core 3.1**. Różnica jest ogromna, warto kliknąć:
+
+[https://github.com/djfoxer/DotNetFrameworkVsCore](https://github.com/djfoxer/DotNetFrameworkVsCore "https://github.com/djfoxer/DotNetFrameworkVsCore")
