@@ -27,3 +27,7 @@ Ilość wersji na naszym komputerze puchnie z prawie każdym tygodniem, dlatego 
 Benchmark jak benchmark - wierzysz albo nie 😅. Ten jest o tyle fajny, że porównuje te same metody w **dotnet** **4.8** i **dotnet core 3.1**. Różnica jest ogromna, warto kliknąć:
 
 [https://github.com/djfoxer/DotNetFrameworkVsCore](https://github.com/djfoxer/DotNetFrameworkVsCore "https://github.com/djfoxer/DotNetFrameworkVsCore")
+
+## Dlaczego moja aplikacja tak długo wstaje?
+
+Świetny pomysł na wizualizację czasu startu aplikacji w dotnet. Dzięki temu może uda się odpowiedzieć na powyższe trudne pytanie :) Całość: [https://mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/](https://mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/ "https://mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/")
