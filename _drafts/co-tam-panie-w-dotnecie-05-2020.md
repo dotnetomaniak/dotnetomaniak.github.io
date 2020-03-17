@@ -31,3 +31,7 @@ Benchmark jak benchmark - wierzysz albo nie 😅. Ten jest o tyle fajny, że por
 ## Dlaczego moja aplikacja tak długo wstaje?
 
 Świetny pomysł na wizualizację czasu startu aplikacji w dotnet. Dzięki temu może uda się odpowiedzieć na powyższe trudne pytanie :) Całość: [https://mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/](https://mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/ "https://mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/")
+
+## Tydzień dotnetomaniaka
+
+Tym razem jest moc! 14 artykułów i to bardzo mięsistych. Warto zerknąć i przelecieć chociaż wzrokiem. Serdecznie zapraszam na [https://dotnetomaniak.pl/weekly/2020/11](https://dotnetomaniak.pl/weekly/2020/11 "https://dotnetomaniak.pl/weekly/2020/11")
