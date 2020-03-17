@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #05/2020'
 date: 2020-03-16 23:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-5.jpg"
 
 ---
 Ciężki czas nastał dla nas wszystkich, ale całe szczęście w świecie dotnet i MS dużo się dzieje. Idealne do poczytania w domu.
