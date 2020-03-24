@@ -5,6 +5,8 @@ date: 2020-03-23 23:00:00 +0000
 header-img: "/images/content/pablo-7.jpg"
 
 ---
+Przyznam szczerze, że wydanie #07/2020 to głównie nowości z NET 5.0, ale trafiły się też i inne ciekawostki :)
+
 ## NET 5.0 i dużo przecieków
 
 Zaczynają się "konkretne" przecieki na temat NET 5.0. Jest ich już całkiem sporo. Między innymi oficjalne:
