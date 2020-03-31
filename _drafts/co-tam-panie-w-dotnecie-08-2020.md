@@ -40,3 +40,11 @@ Ponieważ od dawna nie używam NHiberntate, to dla mnie artykuł jest tylko ciek
 Oczywiście dotyczy to Preview 2, a nie finalnej, bo jak wiadomo żyjemy w czasach beta i preview, ale zestaw nowości całkiem całkiem.
 
 Między innymi jest to nowy .NET Async Tool, za pomocą którego  będzie można optymalizować wywołania `async`/`await`. Naprawdę miło :)
+
+## Tydzień dotnetomaniaka
+
+I jak co tydzień, podsumowanie tygodnia z dotnetomaniaka:
+
+[https://dotnetomaniak.pl/weekly/2020/13](https://dotnetomaniak.pl/weekly/2020/13 "https://dotnetomaniak.pl/weekly/2020/13")
+
+W 13 tygodniu roku, mamy 12 artykułów. Prawie idealnie ;)
