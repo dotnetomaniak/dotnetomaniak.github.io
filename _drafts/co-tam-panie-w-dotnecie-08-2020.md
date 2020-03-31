@@ -34,3 +34,9 @@ W artykule zdecydowanie lepsze rozwiązanie: [https://blog.johnnyreilly.com/2020
 Dzięki użyciu `Futures` w NHibernate można zaoszczędzić ruch do bazy danych, czyli uzyskać lepszą wydajność :)
 
 Ponieważ od dawna nie używam NHiberntate, to dla mnie artykuł jest tylko ciekawostką. Ale mam nadzieję, że Tobie się przyda: [https://gunnarpeipman.com/nhibernate-future-results/](https://gunnarpeipman.com/nhibernate-future-results/ "https://gunnarpeipman.com/nhibernate-future-results/")
+
+## Nowości w Visual Studio 2019 w wersji 16.6
+
+Oczywiście dotyczy to Preview 2, a nie finalnej, bo jak wiadomo żyjemy w czasach beta i preview, ale zestaw nowości całkiem całkiem.
+
+Między innymi jest to nowy .NET Async Tool, za pomocą którego  będzie można optymalizować wywołania `async`/`await`. Naprawdę miło :)
