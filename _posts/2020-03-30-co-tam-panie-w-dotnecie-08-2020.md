@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #08/2020'
 date: 2020-03-30 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-8.jpg"
 
 ---
 Dziś liczy się tylko jedna wiadomość! I nie jest ona ze świata MS, acz dotyczy KAŻDEGO, kto kiedykolwiek programował. Do tego kilka innych ciekawostek ;)
