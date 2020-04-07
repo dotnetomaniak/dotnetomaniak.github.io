@@ -20,7 +20,7 @@ Dużo kursów za darmo zostało udostępnionych:
 * PacktPub niektóre warsztaty z kodem PACKTFREE - [https://courses.packtpub.com/pages/free](https://courses.packtpub.com/pages/free "https://courses.packtpub.com/pages/free")
 * Udi Dahan udostępni - Advanced Distributed Systems Design na 30 dni [https://particular.net/adsd](https://particular.net/adsd "https://particular.net/adsd")
 
-## .NET 5.0 Preview 2
+## .NET 5.0 Preview 2 - nudne i fajne linki
 
 W ramach tego weszło (nuda):
 
@@ -31,4 +31,5 @@ W ramach tego weszło (nuda):
 Ale do tego kilka ciekawostek (fajne):
 
 * Przyspieszenie REGEX - [Regex Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/)
-* 
+* Trochę o bałaganie który jest i który nas czeka - [Target Framework Names in .NET 5](https://github.com/dotnet/designs/blob/master/accepted/2020/net5/net5.md)
+* I jak to wszystko wpłynie na wydajność - [https://github.com/djfoxer/DotNetFrameworkVsCore](https://github.com/djfoxer/DotNetFrameworkVsCore "https://github.com/djfoxer/DotNetFrameworkVsCore") (link już był, ale nie było .NET 5.0)
