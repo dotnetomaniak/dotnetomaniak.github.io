@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #09/2020'
 date: 2020-04-06 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-9.jpg"
 
 ---
 ## Urodziny Microsoft
