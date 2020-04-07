@@ -5,6 +5,8 @@ date: 2020-04-06 22:00:00 +0000
 header-img: "/images/content/pablo-9.jpg"
 
 ---
+W tym tygodniu trochę mało linków, ale sporo wiedzy :)
+
 ## Urodziny Microsoft
 
 4 kwietnia Microsoft obchodził swoje urodzin i to dość okrągłe, ponieważ został założony 1975 roku :)
