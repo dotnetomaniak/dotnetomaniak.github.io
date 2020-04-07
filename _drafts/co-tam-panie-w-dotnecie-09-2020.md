@@ -33,3 +33,11 @@ Ale do tego kilka ciekawostek (fajne):
 * Przyspieszenie REGEX - [Regex Performance Improvements in .NET 5](https://devblogs.microsoft.com/dotnet/regex-performance-improvements-in-net-5/)
 * Trochę o bałaganie który jest i który nas czeka - [Target Framework Names in .NET 5](https://github.com/dotnet/designs/blob/master/accepted/2020/net5/net5.md)
 * I jak to wszystko wpłynie na wydajność - [https://github.com/djfoxer/DotNetFrameworkVsCore](https://github.com/djfoxer/DotNetFrameworkVsCore "https://github.com/djfoxer/DotNetFrameworkVsCore") (link już był, ale nie było .NET 5.0)
+
+## Jak RyuJIT wykonuje inline funkcji
+
+Co tu dużo pisać. Całość bardzo ciekawa [https://egorbo.com/how-inlining-works.html](https://egorbo.com/how-inlining-works.html "https://egorbo.com/how-inlining-works.html"). Szczególnie, że pokazane są heurystyki :)
+
+## Tydzień dotnetomaniaka
+
+10 bardzo artykułów pojawiło się w tym tygodniu. Akurat do kawy: [https://dotnetomaniak.pl/weekly/2020/14](https://dotnetomaniak.pl/weekly/2020/14 "https://dotnetomaniak.pl/weekly/2020/14")
