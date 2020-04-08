@@ -11,7 +11,7 @@ W tym tygodniu trochę mało linków, ale sporo wiedzy :)
 
 4 kwietnia Microsoft obchodził swoje urodzin i to dość okrągłe, ponieważ został założony 1975 roku :)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who wants a slice of cake? 🎂 <br><br>On this day in 1975, Microsoft was born. <a href="https://t.co/54dXcp1GOY">pic.twitter.com/54dXcp1GOY</a></p>— Microsoft (@Microsoft) <a href="[https://twitter.com/Microsoft/status/1246493293334028288?ref_src=twsrc%5Etfw](https://twitter.com/Microsoft/status/1246493293334028288?ref_src=twsrc%5Etfw "https://twitter.com/Microsoft/status/1246493293334028288?ref_src=twsrc%5Etfw")">April 4, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who wants a slice of cake? 🎂 <br><br>On this day in 1975, Microsoft was born. <a href="https://t.co/54dXcp1GOY">pic.twitter.com/54dXcp1GOY</a></p>&mdash; Microsoft (@Microsoft) <a href="https://twitter.com/Microsoft/status/1246493293334028288?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Dużo darmowej wiedzy
 
