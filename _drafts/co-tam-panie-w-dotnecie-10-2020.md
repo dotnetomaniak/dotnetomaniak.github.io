@@ -5,6 +5,20 @@ date: 2020-04-26 22:00:00 +0000
 header-img: ''
 
 ---
+## NET 5.0 Preview 3
+
+Co tu dużo pisać, całość w artykułach:
+
+* [https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/ "https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-3/")
+* [https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-3/](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-3/ "https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-3/")
+* [https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/](https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/ "https://devblogs.microsoft.com/dotnet/announcing-entity-framework-core-5-0-preview-3/")
+
+Śmieszne jest to, że w teorii każda część jest niezależna a zawsze wpadają całością :D
+
+## CosmosDB - spotkanie z szefem :)
+
+W środę odbywa się spotkanie w ramach Azure Group PL i będzie je prowadził Principal Program Manager of CosmosDB czyli Govind Kanshi. Jak masz ochotę to zapisy na środę na 18:00 dostępne są na: [https://www.eventbrite.com/e/wro-online-20-spotkanie-maugp-monitoring-and-logs-for-cosmos-db-registration-103495399526](https://www.eventbrite.com/e/wro-online-20-spotkanie-maugp-monitoring-and-logs-for-cosmos-db-registration-103495399526 "https://www.eventbrite.com/e/wro-online-20-spotkanie-maugp-monitoring-and-logs-for-cosmos-db-registration-103495399526")
+
 ## Wydajność w Rider
 
 JetBrains Rider chodził używając 2 procesów:
