@@ -15,6 +15,8 @@ Co tu dużo pisać, całość w artykułach:
 
 Śmieszne jest to, że w teorii każda część jest niezależna a zawsze wpadają całością :D
 
+A dodatkowo 100% clickbait: The Most Exciting Promise of .NET 5 - [https://developer.okta.com/blog/2020/04/17/most-exciting-promise-dotnet-5](https://developer.okta.com/blog/2020/04/17/most-exciting-promise-dotnet-5 "https://developer.okta.com/blog/2020/04/17/most-exciting-promise-dotnet-5"). Ja się rozczarowałem :D
+
 ## CosmosDB - spotkanie z szefem :)
 
 W środę odbywa się spotkanie w ramach Azure Group PL i będzie je prowadził Principal Program Manager of CosmosDB czyli Govind Kanshi. Jak masz ochotę to zapisy na środę na 18:00 dostępne są na: [https://www.eventbrite.com/e/wro-online-20-spotkanie-maugp-monitoring-and-logs-for-cosmos-db-registration-103495399526](https://www.eventbrite.com/e/wro-online-20-spotkanie-maugp-monitoring-and-logs-for-cosmos-db-registration-103495399526 "https://www.eventbrite.com/e/wro-online-20-spotkanie-maugp-monitoring-and-logs-for-cosmos-db-registration-103495399526")
@@ -37,3 +39,9 @@ Może Wam wydawać się to dziwne, ale proszę Cloudflare umożliwił tworzenie 
 A jeżeli myślisz, że to nie dla Ciebie to Paweł Łukasik zrobił grę w kamień, papier i nożyce wykorzystującą powyższe:
 
 [https://github.com/pawlos/cobol-worker/tree/rock-paper-scissors-lizard-spock](https://github.com/pawlos/cobol-worker/tree/rock-paper-scissors-lizard-spock "https://github.com/pawlos/cobol-worker/tree/rock-paper-scissors-lizard-spock")
+
+## Tydzień dotnetomaniaka
+
+9 artykułów z czego jeden mój prywatny aż z 8 klikami :D
+
+Wszystkie dostępne na [https://dotnetomaniak.pl/weekly/2020/17](https://dotnetomaniak.pl/weekly/2020/17 "https://dotnetomaniak.pl/weekly/2020/17")
