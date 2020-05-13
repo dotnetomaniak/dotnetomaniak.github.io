@@ -30,3 +30,13 @@ A jeżeli planujesz siedzieć w Azure to cała seria artykułów na temat Azure 
 Część z Was pewnie wie, że mam plan serwis dotnetomaniaka przenieść na dotnet core (i pewnie też NET 5.0). Pierwszy etap właśnie się kończy: usunęliśmy Linq2SQL i zastąpiliśmy go EF.Core. Właśnie idą finalne testy.Na pytania dlaczego EF.Core a nie dapper, albo Hibernate, albo XYZ, to odpowiedź jest prosta: chętna osoba tak wybrała, a było co przepisywać. Chcesz ORM to zapraszamy do kontrybucji :)
 
 Co do dalszych zmian jest fajne narzędzie i właśnie je chcę Ci polecić dzisiaj czyli try-convert. Całość na github: [https://github.com/dotnet/try-convert](https://github.com/dotnet/try-convert "https://github.com/dotnet/try-convert")
+
+## 10 książek które każdy NET developer ??powinien??przeczytać.
+
+Lista jest: [https://blog.elmah.io/top-10-books-every-net-c-developer-should-read/](https://blog.elmah.io/top-10-books-every-net-c-developer-should-read/ "https://blog.elmah.io/top-10-books-every-net-c-developer-should-read/")
+
+Mi na niej brakuje przede wszystkim książki Konrada Kokosy, a u Was jak jest? Ja chyba zrobię swoją listę
+
+## Tydzień dotnetomaniaka
+
+Jak co tydzień zapraszam Cię na ostatnie podsumowanie tygodnia: [https://dotnetomaniak.pl/weekly/2020/19](https://dotnetomaniak.pl/weekly/2020/19 "https://dotnetomaniak.pl/weekly/2020/19")
