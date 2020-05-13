@@ -5,6 +5,8 @@ date: 2020-05-12 22:00:00 +0000
 header-img: ''
 
 ---
+W tym tygodniu Azure, kolejki i .NET. Dość fajny mix. Zapraszam serdecznie :)
+
 ## Nowe datacenter Azure
 
 Pewnie o tym już wiesz, ale dla formalności umieszczę, szczególnie że idzie za tym całkiem spora kasa dla Polski:
