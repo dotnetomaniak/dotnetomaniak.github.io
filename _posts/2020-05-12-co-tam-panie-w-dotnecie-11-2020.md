@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #11/2020'
 date: 2020-05-12 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-11-1.jpg"
 
 ---
 W tym tygodniu Azure, kolejki i .NET. Dość fajny mix. Zapraszam serdecznie :)
