@@ -2,7 +2,7 @@
 layout: post
 title: 'Co tam Panie w dotnecie? #12/2020'
 date: 2020-05-25 22:00:00 +0000
-header-img: ''
+header-img: "/images/content/pablo-12.jpg"
 
 ---
 W zeszły tygodniu tak dużo wpadało nowości, że odsunąłem podsumowanie tygodnia :) MsBuild przyniósł naprawdę potężną dawkę nowości zapowiadanych wcześniej oraz niespodzianek.
@@ -16,4 +16,20 @@ W zeszły tygodniu tak dużo wpadało nowości, że odsunąłem podsumowanie tyg
 
 ## .NET
 
-* [C# 9 Preview](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/)
+* [C# 9 Preview]() - dużo dodatków. Jedni się śmieją, drudzy cieszą. Jak będę miał na co dzień to na pewno będę się cieszył :)
+* [F# 5 preview](https://devblogs.microsoft.com/dotnet/f-5-update-for-net-5-preview-4/) - jak wyżej :)
+
+## GUI
+
+* [Project Reunion](https://github.com/microsoft/ProjectReunion) - próba uporządkowania i połączenia aplikacji Win32 oraz UWP.
+* [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - ewolucja Xamarin.Forms w coś nowego i lepszego, co w dłuższej perspektywie ma zastąpić Xamarin.Forms
+
+## Windows
+
+* [Windows Terminal 1.0 ](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)- nie jest to preview, tylko wreszcie "stable". Ja się cieszę, bo używam jak tylko jestem na Windows. Na mac i Linux nie działa :(
+* [WSL2](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/) - już powoli chyba spływa najnowszy update Windows (May 2020 Update) i w nim jest właśnie WSL2 i a także pełnoprawny Linux wewnątrz Windows. Co zmieni pracę szczególnie z Docker (oraz pewnie i Kubernetes). Osobiście najbardziej podoba mi się, że niedługo aplikacje GUI z Linux będą dostępne na Windows.
+* [winget](https://devblogs.microsoft.com/commandline/windows-package-manager-preview/) - package manager dla Windows. Niby już istnieje chocolatey, ale wiadomo, że trzeba zrobić swój ;) Ciekawy jestem kto zostanie choco czy winget :)
+
+No i to by było chyba na tyle. A jak potrzebujesz spisu treści co jeszcze się wydarzyło to dostępna jest "Book of News": [https://news.microsoft.com/build-2020-book-of-news/](https://news.microsoft.com/build-2020-book-of-news/ "https://news.microsoft.com/build-2020-book-of-news/")
+
+Miłego tygodnia!
